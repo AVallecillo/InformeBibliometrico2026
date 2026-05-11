@@ -1,0 +1,171 @@
+acronym,title,level,area,for1,status,dblp_key,dblp_conf_url
+AAAI,National Conference of the American Association for Artificial Intelligence,A*,IA / ML,4602,CORE_2026_OFICIAL,aaai,https://dblp.org/db/conf/aaai/
+ACL,Association for Computational Linguistics,A*,IA / ML,4602,CORE_2026_OFICIAL,acl,https://dblp.org/db/conf/acl/
+ACMMM,ACM Multimedia,A*,IA / ML,4603,CORE_2026_OFICIAL,mm,https://dblp.org/db/conf/mm/
+ASE,Automated Software Engineering Conference,A*,Ing. del Software,4612,CORE_2026_OFICIAL,kbse,https://dblp.org/db/conf/kbse/
+ASPLOS,Architectural Support for Programming Languages and Operating Systems,A*,Sistemas,4612,CORE_2026_OFICIAL,asplos,https://dblp.org/db/conf/asplos/
+CAV,Computer Aided Verification,A*,Ing. del Software,4612,CORE_2026_OFICIAL,cav,https://dblp.org/db/conf/cav/
+CCS,ACM Conference on Computer and Communications Security,A*,Seguridad,4604,CORE_2026_OFICIAL,ccs,https://dblp.org/db/conf/ccs/
+CHI,International Conference on Human Factors in Computing Systems,A*,HCI,4608,CORE_2026_OFICIAL,chi,https://dblp.org/db/conf/chi/
+COLT,Conference on Learning Theory,A*,Teoría,4611,CORE_2026_OFICIAL,colt,https://dblp.org/db/conf/colt/
+CRYPTO,Advances in Cryptology,A*,Seguridad,4604,CORE_2026_OFICIAL,crypto,https://dblp.org/db/conf/crypto/
+CVPR,IEEE Conference on Computer Vision and Pattern Recognition,A*,IA / ML,4603,CORE_2026_OFICIAL,cvpr,https://dblp.org/db/conf/cvpr/
+DAC,Design Automation Conf,A*,Sistemas,CSE,CORE_2026_OFICIAL,dac,https://dblp.org/db/conf/dac/
+EC,ACM Conference on Economics and Computation,A*,Teoría,4602,CORE_2026_OFICIAL,sigecom,https://dblp.org/db/conf/sigecom/
+ECCV,European Conference on Computer Vision,A*,IA / ML,4603,CORE_2026_OFICIAL,eccv,https://dblp.org/db/conf/eccv/
+EMNLP,Empirical Methods in Natural Language Processing,A*,IA / ML,4602,CORE_2026_OFICIAL,emnlp,https://dblp.org/db/conf/emnlp/
+EuroCrypt,International Conference on the Theory and Application of Cryptographic Techniques,A*,Seguridad,4604,CORE_2026_OFICIAL,eurocrypt,https://dblp.org/db/conf/eurocrypt/
+FOCS,IEEE Symposium on Foundations of Computer Science,A*,Teoría,4613,CORE_2026_OFICIAL,focs,https://dblp.org/db/conf/focs/
+FSE,"ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",A*,Ing. del Software,4612,CORE_2026_OFICIAL,sigsoft,https://dblp.org/db/conf/sigsoft/
+HPCA,International Symposium on High Performance Computer Architecture,A*,Sistemas,CSE,CORE_2026_OFICIAL,hpca,https://dblp.org/db/conf/hpca/
+HRI,ACM/IEEE International Conference on Human-Robot Interaction,A*,HCI,4608,CORE_2026_OFICIAL,hri,https://dblp.org/db/conf/hri/
+ICALP,International Colloquium on Automata Languages and Programming,A*,Teoría,4613,CORE_2026_OFICIAL,icalp,https://dblp.org/db/conf/icalp/
+ICAPS,International Conference on Automated Planning and Scheduling,A*,IA / ML,4602,CORE_2026_OFICIAL,aips,https://dblp.org/db/conf/aips/
+ICCV,IEEE International Conference on Computer Vision,A*,IA / ML,4603,CORE_2026_OFICIAL,iccv,https://dblp.org/db/conf/iccv/
+ICDE,International Conference on Data Engineering,A*,Bases de datos,4605,CORE_2026_OFICIAL,icde,https://dblp.org/db/conf/icde/
+ICDM,IEEE International Conference on Data Mining,A*,Bases de datos,4605,CORE_2026_OFICIAL,icdm,https://dblp.org/db/conf/icdm/
+ICLR,International Conference on Learning Representations,A*,IA / ML,4611,CORE_2026_OFICIAL,iclr,https://dblp.org/db/conf/iclr/
+ICML,International Conference on Machine Learning,A*,IA / ML,4611,CORE_2026_OFICIAL,icml,https://dblp.org/db/conf/icml/
+ICRA,IEEE International Conference on Robotics and Automation,A*,IA / ML,4602,CORE_2026_OFICIAL,icra,https://dblp.org/db/conf/icra/
+ICSE,International Conference on Software Engineering,A*,Ing. del Software,4612,CORE_2026_OFICIAL,icse,https://dblp.org/db/conf/icse/
+IJCAI,International Joint Conference on Artificial Intelligence,A*,IA / ML,4602,CORE_2026_OFICIAL,ijcai,https://dblp.org/db/conf/ijcai/
+INFOCOM,IEEE International Conference on Computer Communications,A*,Redes,4606,CORE_2026_OFICIAL,infocom,https://dblp.org/db/conf/infocom/
+ISCA,ACM International Symposium on Computer Architecture,A*,Sistemas,CSE,CORE_2026_OFICIAL,isca,https://dblp.org/db/conf/isca/
+ISMAR,IEEE/ACM International Symposium on Mixed and Augmented Reality,A*,HCI,4607,CORE_2026_OFICIAL,ismar,https://dblp.org/db/conf/ismar/
+KDD,ACM International Conference on Knowledge Discovery and Data Mining,A*,Bases de datos,4605,CORE_2026_OFICIAL,kdd,https://dblp.org/db/conf/kdd/
+KR,International Conference on the Principles of Knowledge Representation and Reasoning,A*,IA / ML,4602,CORE_2026_OFICIAL,kr,https://dblp.org/db/conf/kr/
+LICS,IEEE Symposium on Logic in Computer Science,A*,Teoría,4613,CORE_2026_OFICIAL,lics,https://dblp.org/db/conf/lics/
+MICRO,International Symposium on Microarchitecture,A*,Sistemas,CSE,CORE_2026_OFICIAL,micro,https://dblp.org/db/conf/micro/
+MOBICOM,ACM International Conference on Mobile Computing and Networking,A*,Redes,4606,CORE_2026_OFICIAL,mobicom,https://dblp.org/db/conf/mobicom/
+NDSS,Usenix Network and Distributed System Security Symposium,A*,Seguridad,4604,CORE_2026_OFICIAL,ndss,https://dblp.org/db/conf/ndss/
+NeurIPS,Advances in Neural Information Processing Systems (was NIPS),A*,IA / ML,4611,CORE_2026_OFICIAL,nips,https://dblp.org/db/conf/nips/
+OSDI,Usenix Symposium on Operating Systems Design and Implementation,A*,Sistemas,4606,CORE_2026_OFICIAL,osdi,https://dblp.org/db/conf/osdi/
+PERCOM,IEEE International Conference on Pervasive Computing and Communications,A*,HCI,4608,CORE_2026_OFICIAL,percom,https://dblp.org/db/conf/percom/
+PLDI,ACM-SIGPLAN Conference on Programming Language Design and Implementation,A*,Ing. del Software,4612,CORE_2026_OFICIAL,pldi,https://dblp.org/db/conf/pldi/
+PODC,ACM Symposium on Principles of Distributed Computing,A*,Sistemas,4606,CORE_2026_OFICIAL,podc,https://dblp.org/db/conf/podc/
+PODS,ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems,A*,Bases de datos,4605,CORE_2026_OFICIAL,pods,https://dblp.org/db/conf/pods/
+POPL,ACM-SIGACT Symposium on Principles of Programming Languages,A*,Ing. del Software,4612,CORE_2026_OFICIAL,popl,https://dblp.org/db/conf/popl/
+SIGCOMM,"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",A*,Redes,4606,CORE_2026_OFICIAL,sigcomm,https://dblp.org/db/conf/sigcomm/
+SIGGRAPH,ACM SIG International Conference on Computer Graphics and Interactive Techniques,A*,HCI,4607,CORE_2026_OFICIAL,siggraph,https://dblp.org/db/conf/siggraph/
+SIGIR,ACM International Conference on Research and Development in Information Retrieval,A*,Bases de datos,4605,CORE_2026_OFICIAL,sigir,https://dblp.org/db/conf/sigir/
+SIGMETRICS,Measurement and Modeling of Computer Systems,A*,Sistemas,4612,CORE_2026_OFICIAL,sigmetrics,https://dblp.org/db/conf/sigmetrics/
+SIGMOD,ACM Special Interest Group on Management of Data Conference,A*,Bases de datos,4605,CORE_2026_OFICIAL,sigmod,https://dblp.org/db/conf/sigmod/
+SODA,ACM/SIAM Symposium on Discrete Algorithms,A*,Teoría,4613,CORE_2026_OFICIAL,soda,https://dblp.org/db/conf/soda/
+SOSP,ACM SIGOPS Symposium on Operating Systems Principles,A*,Sistemas,4606,CORE_2026_OFICIAL,sosp,https://dblp.org/db/conf/sosp/
+SP,IEEE Symposium on Security and Privacy,A*,Seguridad,4604,CORE_2026_OFICIAL,sp,https://dblp.org/db/conf/sp/
+STOC,ACM Symposium on Theory of Computing,A*,Teoría,4613,CORE_2026_OFICIAL,stoc,https://dblp.org/db/conf/stoc/
+SiggraphA,SIGGRAPH Asia,A*,HCI,4607,CORE_2026_OFICIAL,siggrapha,https://dblp.org/db/conf/siggrapha/
+SoCG,International Symposium on Computational Geometry,A*,Teoría,4613,CORE_2026_OFICIAL,compgeom,https://dblp.org/db/conf/compgeom/
+UIST,ACM Symposium on User Interface Software and Technology,A*,HCI,4608,CORE_2026_OFICIAL,uist,https://dblp.org/db/conf/uist/
+USENIX-Security,Usenix Security Symposium,A*,Seguridad,4604,CORE_2026_OFICIAL,uss,https://dblp.org/db/conf/uss/
+VLDB,International Conference on Very Large Databases,A*,Bases de datos,4605,CORE_2026_OFICIAL,vldb,https://dblp.org/db/conf/vldb/
+VR,IEEE Conference on Virtual Reality and 3D User Interfaces,A*,HCI,4607,CORE_2026_OFICIAL,vr,https://dblp.org/db/conf/vr/
+WWW,International World Wide Web Conference,A*,Bases de datos,4606,CORE_2026_OFICIAL,www,https://dblp.org/db/conf/www/
+AAMAS,"International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",A,IA / ML,4602,CORE_2026_OFICIAL,atal,https://dblp.org/db/conf/atal/
+ACSAC,Annual Computer Security Applications Conference,A,Seguridad,4604,CORE_2026_OFICIAL,acsac,https://dblp.org/db/conf/acsac/
+AIED,International Conference on Artificial Intelligence in Education,A,IA / ML,4601,CORE_2026_OFICIAL,aied,https://dblp.org/db/conf/aied/
+AISTATS,International Conference on Artificial Intelligence and Statistics,A,IA / ML,4611,CORE_2026_OFICIAL,aistats,https://dblp.org/db/conf/aistats/
+ALENEX,Workshop on Algorithm Engineering and Experiments,A,Teoría,4613,CORE_2026_OFICIAL,alenex,https://dblp.org/db/conf/alenex/
+APPROX/RANDOM,International Workshop on Approximation Algorithms for Combinatorial Optimization Problems and International Conference on Randomization and Computation,A,Teoría,4613,CORE_2026_OFICIAL,approx,https://dblp.org/db/conf/approx/
+ASIACRYPT,International Conference on the Theory and Application of Cryptology and Information Security,A,Seguridad,4604,CORE_2026_OFICIAL,asiacrypt,https://dblp.org/db/conf/asiacrypt/
+ASSETS,International ACM SIGACCESS Conference on Computers and Accessibility,A,HCI,4608,CORE_2026_OFICIAL,assets,https://dblp.org/db/conf/assets/
+AsiaCCS,"Asia Conference on Information, Computer and Communications Security",A,Seguridad,4604,CORE_2026_OFICIAL,asiaccs,https://dblp.org/db/conf/asiaccs/
+BMVC,British Machine Vision Conference,A,IA / ML,4603,CORE_2026_OFICIAL,bmvc,https://dblp.org/db/conf/bmvc/
+BPM,International Conference in Business Process Management,A,Ing. del Software,4612,CORE_2026_OFICIAL,bpm,https://dblp.org/db/conf/bpm/
+CADE,International Conference on Automated Deduction,A,Teoría,4602,CORE_2026_OFICIAL,cade,https://dblp.org/db/conf/cade/
+CCC,IEEE Conference on Computational Complexity,A,Teoría,4613,CORE_2026_OFICIAL,coco,https://dblp.org/db/conf/coco/
+CGO,International Symposium on Code Generation and Optimization,A,Ing. del Software,4612,CORE_2026_OFICIAL,cgo,https://dblp.org/db/conf/cgo/
+CHES,Workshop on Cryptographic Hardware and Embedded Systems,A,Seguridad,4604,CORE_2026_OFICIAL,ches,https://dblp.org/db/conf/ches/
+CIDR,Conference on Innovative Data Systems Research,A,Bases de datos,4605,CORE_2026_OFICIAL,cidr,https://dblp.org/db/conf/cidr/
+CIKM,ACM International Conference on Information and Knowledge Management,A,Bases de datos,4605,CORE_2026_OFICIAL,cikm,https://dblp.org/db/conf/cikm/
+CP,International Conference on Principles and Practice of Constraint Programming,A,Teoría,4602,CORE_2026_OFICIAL,cp,https://dblp.org/db/conf/cp/
+CSCW,ACM Conference on Computer Supported Cooperative Work,A,HCI,4608,CORE_2026_OFICIAL,cscw,https://dblp.org/db/conf/cscw/
+CSF,IEEE Computer Security Foundations Symposium (was CSFW),A,Seguridad,4604,CORE_2026_OFICIAL,csfw,https://dblp.org/db/conf/csfw/
+CaiSE,International Conference on Advanced Information Systems Engineering,A,Ing. del Software,4605,CORE_2026_OFICIAL,caise,https://dblp.org/db/conf/caise/
+CoNEXT,ACM International Conference on Emerging Networking Experiments and Technologies,A,Redes,4606,CORE_2026_OFICIAL,conext,https://dblp.org/db/conf/conext/
+DATE,"Design, Automation and Test in Europe Conference",A,Sistemas,CSE,CORE_2026_OFICIAL,date,https://dblp.org/db/conf/date/
+DIS,Designing Interactive Systems,A,HCI,4608,CORE_2026_OFICIAL,ACMdis,https://dblp.org/db/conf/ACMdis/
+DISC,International Symposium on Distributed Computing (was WDAG),A,Sistemas,4606,CORE_2026_OFICIAL,wdag,https://dblp.org/db/conf/wdag/
+DSN,IEEE/IFIP International Conference on Dependable Systems and Networks,A,Sistemas,4606,CORE_2026_OFICIAL,dsn,https://dblp.org/db/conf/dsn/
+EACL,European Association for Computational Linguistics,A,IA / ML,4602,CORE_2026_OFICIAL,eacl,https://dblp.org/db/conf/eacl/
+EASE,International Conference on Evaluation and Assessment in Software Engineering,A,Ing. del Software,4612,CORE_2026_OFICIAL,ease,https://dblp.org/db/conf/ease/
+ECAI,European Conference on Artificial Intelligence,A,IA / ML,4602,CORE_2026_OFICIAL,ecai,https://dblp.org/db/conf/ecai/
+ECIR,European Conference on Information Retrieval,A,Bases de datos,4605,CORE_2026_OFICIAL,ecir,https://dblp.org/db/conf/ecir/
+ECML PKDD,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),A,IA / ML,4611,CORE_2026_OFICIAL,pkdd,https://dblp.org/db/conf/pkdd/
+ECOOP,European Conference on Object-Oriented Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL,ecoop,https://dblp.org/db/conf/ecoop/
+ER,International Conference on Conceptual Modelling,A,Bases de datos,4605,CORE_2026_OFICIAL,er,https://dblp.org/db/conf/er/
+ESA,European Symposium on Algorithms,A,Teoría,4613,CORE_2026_OFICIAL,esa,https://dblp.org/db/conf/esa/
+ESEM,International Symposium on Empirical Software Engineering and Measurement,A,Ing. del Software,4612,CORE_2026_OFICIAL,esem,https://dblp.org/db/conf/esem/
+ESOP,European Symposium on Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL,esop,https://dblp.org/db/conf/esop/
+ESORICS,European Symposium On Research In Computer Security,A,Seguridad,4604,CORE_2026_OFICIAL,esorics,https://dblp.org/db/conf/esorics/
+EuroS&P,IEEE European Symposium on Security and Privacy,A,Seguridad,4604,CORE_2026_OFICIAL,eurosp,https://dblp.org/db/conf/eurosp/
+EuroSys,Eurosys Conference,A,Sistemas,4606,CORE_2026_OFICIAL,eurosys,https://dblp.org/db/conf/eurosys/
+FAST,Conference on File and Storage Technologies,A,Sistemas,4605,CORE_2026_OFICIAL,fast,https://dblp.org/db/conf/fast/
+FC,Financial Cryptography and Data Security Conference,A,Seguridad,4604,CORE_2026_OFICIAL,fc,https://dblp.org/db/conf/fc/
+FOGA,Foundations of Genetic Algorithms,A,IA / ML,4602,CORE_2026_OFICIAL,foga,https://dblp.org/db/conf/foga/
+FPGA,ACM Int'l Symposium on Field Programmable Gate Arrays,A,Sistemas,CSE,CORE_2026_OFICIAL,fpga,https://dblp.org/db/conf/fpga/
+GD,Graph Drawing,A,Teoría,4613,CORE_2026_OFICIAL,gd,https://dblp.org/db/conf/gd/
+GECCO,Genetic and Evolutionary Computations,A,IA / ML,4602,CORE_2026_OFICIAL,gecco,https://dblp.org/db/conf/gecco/
+HPDC,ACM International Symposium on High Performance Distributed Computing,A,Sistemas,4606,CORE_2026_OFICIAL,hpdc,https://dblp.org/db/conf/hpdc/
+HotOS,USENIX Workshop on Hot Topics in Operating Systems,A,Sistemas,4606,CORE_2026_OFICIAL,hotos,https://dblp.org/db/conf/hotos/
+ICCAD,IEEE/ACM International Conference on Computer-Aided Design,A,Sistemas,CSE,CORE_2026_OFICIAL,iccad,https://dblp.org/db/conf/iccad/
+ICDAR,IEEE International Conference on Document Analysis and Recognition,A,IA / ML,4605,CORE_2026_OFICIAL,icdar,https://dblp.org/db/conf/icdar/
+ICDCS,International Conference on Distributed Computing Systems,A,Sistemas,4606,CORE_2026_OFICIAL,icdcs,https://dblp.org/db/conf/icdcs/
+ICDT,International Conference on Database Theory,A,Bases de datos,4605,CORE_2026_OFICIAL,icdt,https://dblp.org/db/conf/icdt/
+ICER,International Computing Education Research Workshop,A,HCI,4608,CORE_2026_OFICIAL,icer,https://dblp.org/db/conf/icer/
+ICFP,International Conference on Functional Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL,icfp,https://dblp.org/db/conf/icfp/
+ICME,IEEE International Conference on Multimedia and Expo,A,IA / ML,4603,CORE_2026_OFICIAL,icmcs,https://dblp.org/db/conf/icmcs/
+ICPC,"IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",A,Ing. del Software,4612,CORE_2026_OFICIAL,iwpc,https://dblp.org/db/conf/iwpc/
+ICS,ACM International Conference on Supercomputing,A,Sistemas,CSE,CORE_2026_OFICIAL,ics,https://dblp.org/db/conf/ics/
+ICSA,International Conference on Software Architecture (was previously WICSA),A,Ing. del Software,4612,CORE_2026_OFICIAL,icsa,https://dblp.org/db/conf/icsa/
+ICSME,"IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",A,Ing. del Software,4612,CORE_2026_OFICIAL,icsm,https://dblp.org/db/conf/icsm/
+ICSOC,International Conference on Service Oriented Computing,A,Ing. del Software,4606,CORE_2026_OFICIAL,icsoc,https://dblp.org/db/conf/icsoc/
+ICST,"International Conference on Software Testing, Verification and Validation",A,Ing. del Software,4612,CORE_2026_OFICIAL,icst,https://dblp.org/db/conf/icst/
+ICWS,IEEE International Conference on Web Services,A,Redes,4606,CORE_2026_OFICIAL,icws,https://dblp.org/db/conf/icws/
+ICWSM,International Conference on Web and Social Media,A,IA / ML,4601,CORE_2026_OFICIAL,icwsm,https://dblp.org/db/conf/icwsm/
+IEEE VIS,IEEE Visualization,A,HCI,4608,CORE_2026_OFICIAL,visualization,https://dblp.org/db/conf/visualization/
+IJCAR,International Joint Conference on Automated Reasoning,A,Teoría,4602,CORE_2026_OFICIAL,ijcar,https://dblp.org/db/conf/ijcar/
+IMC,Internet Measurement Conference,A,Redes,4606,CORE_2026_OFICIAL,imc,https://dblp.org/db/conf/imc/
+IPDPS,IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP),A,Sistemas,4606,CORE_2026_OFICIAL,ipps,https://dblp.org/db/conf/ipps/
+IROS,IEEE/RSJ International Conference on Intelligent Robots and Systems,A,IA / ML,4602,CORE_2026_OFICIAL,iros,https://dblp.org/db/conf/iros/
+ISLPED,IEEE/ACM International Symposium on Low Power Electronics and Design,A,Sistemas,CSE,CORE_2026_OFICIAL,islped,https://dblp.org/db/conf/islped/
+ISMB,Intelligent Systems in Molecular Biology,A,Bioinformática,4601,CORE_2026_OFICIAL,ismb,https://dblp.org/db/conf/ismb/
+ISSRE,International Symposium on Software Reliability Engineering,A,Ing. del Software,4612,CORE_2026_OFICIAL,issre,https://dblp.org/db/conf/issre/
+ISSTA,International Symposium on Software Testing and Analysis,A,Ing. del Software,4612,CORE_2026_OFICIAL,issta,https://dblp.org/db/conf/issta/
+ISWC,International Semantic Web Conference,A,Bases de datos,4605,CORE_2026_OFICIAL,semweb,https://dblp.org/db/conf/semweb/
+ITC,IEEE International Test Conference,A,Sistemas,CSE,CORE_2026_OFICIAL,itc,https://dblp.org/db/conf/itc/
+ITCS,Innovations in Theoretical Computer Science,A,Teoría,4613,CORE_2026_OFICIAL,innovations,https://dblp.org/db/conf/innovations/
+IUI,International Conference on Intelligent User Interfaces,A,HCI,4608,CORE_2026_OFICIAL,iui,https://dblp.org/db/conf/iui/
+Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),A,IA / ML,4602,CORE_2026_OFICIAL,interspeech,https://dblp.org/db/conf/interspeech/
+LAK,International Conference on Learning Analytics and Knowledge,A,IA / ML,4608,CORE_2026_OFICIAL,lak,https://dblp.org/db/conf/lak/
+MICCAI,Medical Image Computing and Computer-Assisted Intervention,A,IA / ML,4601,CORE_2026_OFICIAL,miccai,https://dblp.org/db/conf/miccai/
+MMSys,ACM Multimedia Systems Conference,A,Redes,4606,CORE_2026_OFICIAL,mmsys,https://dblp.org/db/conf/mmsys/
+MODELS,"International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)",A,Ing. del Software,4612,CORE_2026_OFICIAL,models,https://dblp.org/db/conf/models/
+MSR,IEEE International Working Conference on Mining Software Repositories,A,Ing. del Software,4612,CORE_2026_OFICIAL,msr,https://dblp.org/db/conf/msr/
+MSWIM,"ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",A,Redes,4606,CORE_2026_OFICIAL,mswim,https://dblp.org/db/conf/mswim/
+Middleware,ACM/IFIP/USENIX International Middleware Conference,A,Sistemas,4606,CORE_2026_OFICIAL,middleware,https://dblp.org/db/conf/middleware/
+Mobisys,"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",A,Redes,4606,CORE_2026_OFICIAL,mobisys,https://dblp.org/db/conf/mobisys/
+NAACL,North American Association for Computational Linguistics,A,IA / ML,4602,CORE_2026_OFICIAL,naacl,https://dblp.org/db/conf/naacl/
+OOPSLA,ACM Conference on Object Oriented Programming Systems Languages and Applications,A,Ing. del Software,4612,CORE_2026_OFICIAL,oopsla,https://dblp.org/db/conf/oopsla/
+PETS,Privacy Enhancing Technologies Symposium (was International Workshop of Privacy Enhancing Technologies),A,Seguridad,4604,CORE_2026_OFICIAL,pet,https://dblp.org/db/conf/pet/
+PPSN,Parallel Problem Solving from Nature,A,IA / ML,4611,CORE_2026_OFICIAL,ppsn,https://dblp.org/db/conf/ppsn/
+RAID,"The International Symposium on Research in Attacks, Intrusions and Defenses (was International Symposium on Recent Advances in Intrusion Detection)",A,Seguridad,4604,CORE_2026_OFICIAL,raid,https://dblp.org/db/conf/raid/
+RE,IEEE International Requirements Engineering Conference,A,Ing. del Software,4612,CORE_2026_OFICIAL,re,https://dblp.org/db/conf/re/
+RTAS,IEEE Real-Time and Embedded Technology and Applications Symposium,A,Sistemas,4606,CORE_2026_OFICIAL,rtas,https://dblp.org/db/conf/rtas/
+RTSS,Real Time Systems Symposium,A,Sistemas,4606,CORE_2026_OFICIAL,rtss,https://dblp.org/db/conf/rtss/
+RecSys,ACM International Conference on Recommender Systems,A,IA / ML,4605,CORE_2026_OFICIAL,recsys,https://dblp.org/db/conf/recsys/
+SANER,"IEEE International Conference on Software Analysis, Evolution and Reengineering",A,Ing. del Software,4612,CORE_2026_OFICIAL,wcre,https://dblp.org/db/conf/wcre/
+SAT,International Conference on Theory and Applications of Satisfiability Testing,A,Teoría,4602,CORE_2026_OFICIAL,sat,https://dblp.org/db/conf/sat/
+SC,"International Conference for High Performance Computing, Networking, Storage and Analysis (was Supercomputing Conference)",A,Sistemas,CSE,CORE_2026_OFICIAL,sc,https://dblp.org/db/conf/sc/
+SDM,SIAM International Conference on Data Mining,A,IA / ML,4605,CORE_2026_OFICIAL,sdm,https://dblp.org/db/conf/sdm/
+SEAMS,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,A,Ing. del Software,4612,CORE_2026_OFICIAL,seams,https://dblp.org/db/conf/seams/
+SIGCSE,ACM Special Interest Group on Computer Science Education Conference,A,HCI,4608,CORE_2026_OFICIAL,sigcse,https://dblp.org/db/conf/sigcse/
+SIGSPATIAL,ACM International Conference on Advances in Geographic Information Systems,A,Bases de datos,4601,CORE_2026_OFICIAL,gis,https://dblp.org/db/conf/gis/
+SOUPS,Symposium On Usable Privacy and Security,A,Seguridad,4608,CORE_2026_OFICIAL,soups,https://dblp.org/db/conf/soups/
+STACS,International Symposium on Theoretical Aspects of Computer Science,A,Teoría,4613,CORE_2026_OFICIAL,stacs,https://dblp.org/db/conf/stacs/
+TACAS,Tools and Algorithms for Construction and Analysis of Systems,A,Ing. del Software,4612,CORE_2026_OFICIAL,tacas,https://dblp.org/db/conf/tacas/
+UAI,Conference in Uncertainty in Artificial Intelligence,A,IA / ML,4602,CORE_2026_OFICIAL,uai,https://dblp.org/db/conf/uai/
+UMAP,"International Conference on User Modelling, Adaptation, and Personalization (was AH and UM)",A,HCI,4608,CORE_2026_OFICIAL,um,https://dblp.org/db/conf/um/
+USENIX,Usenix Annual Technical Conference,A,Sistemas,4606,CORE_2026_OFICIAL,usenix,https://dblp.org/db/conf/usenix/
+WACV,IEEE Workshop on Applications of Computer Vision,A,IA / ML,4603,CORE_2026_OFICIAL,wacv,https://dblp.org/db/conf/wacv/
+WSDM,ACM International Conference on Web Search and Data Mining,A,Bases de datos,4605,CORE_2026_OFICIAL,wsdm,https://dblp.org/db/conf/wsdm/

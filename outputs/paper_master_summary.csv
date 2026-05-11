@@ -1,0 +1,13 @@
+metric,value
+n_articles,535144
+n_congresses_with_articles,170
+n_official_congresses,170
+n_astar_congresses,62
+n_a_congresses,108
+year_min,2001
+year_max,2025
+n_windows,5
+n_areas,9
+n_booktitles,524
+n_with_doi,441999
+n_with_arxiv_id,0

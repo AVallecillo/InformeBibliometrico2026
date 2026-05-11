@@ -1,0 +1,87 @@
+=== PASO 10 — OPENREVIEW ===
+
+Artículos en paper_master: 535,144
+Artículos objetivo OpenReview sin país previo: 50,981
+Artículos con >=1 país vía OpenReview: 28,602
+Cobertura sobre objetivo OpenReview: 56.10%
+Filas de evidencia paper-país: 44,808
+Venues/años auditados: 30
+
+=== TOP PAÍSES VIA OPENREVIEW ===
+  US: 15,427
+  CN: 8,405
+  GB: 3,032
+  CA: 1,974
+  DE: 1,914
+  HK: 1,821
+  SG: 1,721
+  CH: 1,425
+  FR: 1,302
+  KR: 1,249
+  AU: 858
+  JP: 782
+  IL: 652
+  NL: 518
+  AE: 417
+  IT: 393
+  IN: 383
+  AT: 286
+  ES: 220
+  SA: 204
+  DK: 196
+  SE: 188
+  RU: 180
+  FI: 145
+  TW: 137
+  BE: 134
+  PL: 84
+  VN: 79
+  MO: 57
+  GR: 55
+
+=== TOP CONGRESOS VIA OPENREVIEW ===
+  NeurIPS           11,445
+  ICLR               9,185
+  ICML               7,560
+  UAI                  412
+
+=== COBERTURA POR VENTANA ===
+  2021-2025: resueltos=28,602
+
+=== AUDITORÍA VENUES/AÑOS ===
+  ICLR       2025 targets= 3704 notes= 3703 matched= 3686 evidence= 6281 profiles=15863 sec=87.9 status=ok
+  NeurIPS    2024 targets= 4494 notes= 4035 matched= 4022 evidence= 6241 profiles=15684 sec=49.2 status=ok
+  ICML       2025 targets= 3257 notes= 3257 matched= 3246 evidence= 5238 profiles=13579 sec=58.1 status=ok
+  NeurIPS    2023 targets= 3540 notes= 3218 matched= 3195 evidence= 4715 profiles=10985 sec=28.9 status=ok
+  ICML       2024 targets= 2610 notes= 2610 matched= 2597 evidence= 3986 profiles= 9736 sec=37.4 status=ok
+  NeurIPS    2022 targets= 2834 notes= 2824 matched= 2669 evidence= 3896 profiles= 8779 sec=26.6 status=ok
+  ICLR       2024 targets= 2260 notes= 2260 matched= 2253 evidence= 3720 profiles= 9163 sec=52.4 status=ok
+  ICML       2023 targets= 1828 notes= 1828 matched= 1822 evidence= 2591 profiles= 6246 sec=22.6 status=ok
+  NeurIPS    2021 targets= 1757 notes= 2766 matched= 1753 evidence= 2487 profiles= 5829 sec=20.9 status=ok
+  ICLR       2023 targets= 1573 notes= 3792 matched= 1567 evidence= 2404 profiles= 5810 sec=39.5 status=ok
+  ICLR       2022 targets= 1094 notes= 2617 matched= 1094 evidence= 1649 profiles= 3998 sec=30.2 status=ok
+  ICLR       2021 targets=  709 notes=  859 matched=  707 evidence= 1005 profiles= 2295 sec=19.7 status=ok
+  UAI        2025 targets=  229 notes=  229 matched=  224 evidence=  327 profiles=  788 sec=3.5 status=ok
+  UAI        2024 targets=  201 notes=  200 matched=  199 evidence=  268 profiles=  727 sec=2.5 status=ok
+  ICLR       2017 targets=   13 notes=  490 matched=   13 evidence=    0 profiles=    0 sec=1.5 status=ok
+  ACMMM      2023 targets=    1 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.0 status=ok
+  AISTATS    2022 targets=  492 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.6 status=ok
+  AISTATS    2023 targets=  496 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.1 status=ok
+  AISTATS    2024 targets=  547 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.0 status=ok
+  AISTATS    2025 targets=  583 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.0 status=ok
+  CVPR       2023 targets=   50 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.1 status=ok
+  CVPR       2024 targets=   93 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=2.4 status=ok
+  CVPR       2025 targets=   63 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.9 status=ok
+  ECCV       2024 targets=   44 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.8 status=ok
+  ICCV       2023 targets=   59 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=0.9 status=ok
+  ICLR       2018 targets=   22 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.0 status=ok
+  ICLR       2019 targets=   24 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.4 status=ok
+  ICLR       2020 targets=  521 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.8 status=ok
+  UAI        2022 targets=  230 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=1.3 status=ok
+  UAI        2023 targets=  243 notes=    0 matched=    0 evidence=    0 profiles=    0 sec=0.9 status=ok
+
+=== SALIDAS GENERADAS ===
+  C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\outputs\affiliation_evidence_openreview.csv
+  C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\outputs\openreview_venue_audit.csv
+  C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\outputs\openreview_unresolved.csv
+  C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\outputs\openreview_coverage_report.txt

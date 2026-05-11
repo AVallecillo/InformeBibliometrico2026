@@ -1,0 +1,74 @@
+{
+  "step": 9,
+  "status": "COMPLETE",
+  "total_papers": 535144,
+  "resolved_papers": 452515,
+  "unresolved_papers": 82629,
+  "paper_country_rows": 618919,
+  "n_countries": 182,
+  "sources": [
+    {
+      "source_file": "affiliation_evidence_openalex_doi.csv",
+      "source_label": "openalex_doi",
+      "exists": true,
+      "rows": 549158,
+      "papers": 404200,
+      "countries": 177
+    },
+    {
+      "source_file": "affiliation_evidence_openalex_venue.csv",
+      "source_label": "openalex_venue",
+      "exists": true,
+      "rows": 11316,
+      "papers": 8541,
+      "countries": 74
+    },
+    {
+      "source_file": "affiliation_evidence_drops.csv",
+      "source_label": "drops",
+      "exists": true,
+      "rows": 3842,
+      "papers": 2456,
+      "countries": 45
+    },
+    {
+      "source_file": "affiliation_evidence_crossref.csv",
+      "source_label": "crossref",
+      "exists": true,
+      "rows": 5039,
+      "papers": 4499,
+      "countries": 58
+    },
+    {
+      "source_file": "affiliation_evidence_openreview.csv",
+      "source_label": "openreview",
+      "exists": true,
+      "rows": 44808,
+      "papers": 28602,
+      "countries": 89
+    },
+    {
+      "source_file": "affiliation_evidence_openreview_expanded.csv",
+      "source_label": "openreview_expanded",
+      "exists": true,
+      "rows": 849,
+      "papers": 569,
+      "countries": 40
+    },
+    {
+      "source_file": "affiliation_evidence_official_sources.csv",
+      "source_label": "official_sources",
+      "exists": true,
+      "rows": 0,
+      "papers": 0
+    },
+    {
+      "source_file": "affiliation_evidence_semantic_scholar_selective.csv",
+      "source_label": "semantic_scholar",
+      "exists": true,
+      "rows": 3912,
+      "papers": 3653,
+      "countries": 37
+    }
+  ]
+}

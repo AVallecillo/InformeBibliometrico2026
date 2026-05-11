@@ -1,0 +1,9 @@
+{
+  "step": 14,
+  "version": "v2_europe_comparisons",
+  "status": "COMPLETE",
+  "n_articles": 535144,
+  "n_resolved_articles": 452515,
+  "coverage_pct": 84.559,
+  "include_bioinformatics_area_comparison": false
+}

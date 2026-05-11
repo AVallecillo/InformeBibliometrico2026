@@ -1,0 +1,70 @@
+=== PASO 5 — OPENALEX POR DOI ===
+
+Artículos considerados: 535,144
+Con DOI: 441,999
+Sin DOI: 93,145
+Artículos con ≥1 país vía OpenAlex DOI: 404,200
+Cobertura sobre artículos con DOI: 91.45%
+Cobertura sobre total considerado: 75.53%
+Filas de evidencia paper-país: 549,169
+
+=== ESTADO OPENALEX ===
+  found_no_affiliation_country: 33,410
+  no_doi: 93,145
+  not_found: 3,189
+  ok: 404,200
+  request_failed: 1,200
+
+=== COBERTURA POR VENTANA ===
+  2001-2005: total=56,238 doi=48,872 con_pais=43,646 cobertura_total=77.61%
+  2006-2010: total=75,088 doi=66,672 con_pais=62,385 cobertura_total=83.08%
+  2011-2015: total=86,590 doi=75,845 con_pais=70,568 cobertura_total=81.50%
+  2016-2020: total=118,717 doi=99,134 con_pais=92,019 cobertura_total=77.51%
+  2021-2025: total=198,511 doi=151,476 con_pais=135,582 cobertura_total=68.30%
+
+=== COBERTURA POR NIVEL ===
+  A: total=229,474 con_pais=183,323 cobertura=79.89%
+  A*: total=305,670 con_pais=220,877 cobertura=72.26%
+
+=== COBERTURA POR ÁREA ===
+  Bases de datos: total=53,576 con_pais=50,369 cobertura=94.01%
+  Bioinformática: total=93 con_pais=85 cobertura=91.40%
+  HCI: total=45,573 con_pais=40,657 cobertura=89.21%
+  IA / ML: total=291,505 con_pais=188,651 cobertura=64.72%
+  Ing. del Software: total=29,887 con_pais=28,565 cobertura=95.58%
+  Redes: total=17,697 con_pais=16,941 cobertura=95.73%
+  Seguridad: total=16,716 con_pais=11,766 cobertura=70.39%
+  Sistemas: total=51,741 con_pais=45,909 cobertura=88.73%
+  Teoría: total=28,356 con_pais=21,257 cobertura=74.96%
+
+=== TOP 30 PAÍSES POR ARTÍCULOS RESUELTOS VIA DOI ===
+  US: 172,079
+  CN: 79,504
+  DE: 33,287
+  GB: 32,629
+  CA: 21,482
+  FR: 19,846
+  JP: 19,122
+  AU: 15,195
+  IT: 12,308
+  SG: 12,021
+  CH: 11,735
+  KR: 11,716
+  HK: 11,156
+  NL: 9,856
+  IL: 8,772
+  IN: 7,632
+  ES: 7,595
+  SE: 5,530
+  TW: 5,272
+  AT: 5,240
+  BE: 4,000
+  DK: 3,723
+  FI: 3,073
+  BR: 3,015
+  GR: 2,674
+  PT: 2,268
+  PL: 2,132
+  CZ: 2,076
+  IE: 1,964
+  NO: 1,947

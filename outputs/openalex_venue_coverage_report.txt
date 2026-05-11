@@ -1,0 +1,121 @@
+=== PASO 6 — OPENALEX POR SOURCE/VENUE-AÑO ===
+
+Artículos totales en paper_master: 535,144
+Artículos objetivo sin país previo: 129,887
+Artículos resueltos vía OpenAlex venue: 8,541
+Cobertura sobre objetivo: 6.58%
+Filas de evidencia paper-país: 11,316
+Combos venue+año en caché: 2,806
+Tiempo fetch total combos ejecutados: 44052.9s
+Tiempo matching total combos ejecutados: 6.7s
+
+=== NO RESUELTOS / DIAGNÓSTICO ===
+  unmatched: 121,346
+
+=== COBERTURA POR VENTANA ===
+  2001-2005: objetivo=12,592 resueltos=830 cobertura=6.59%
+  2006-2010: objetivo=12,562 resueltos=829 cobertura=6.60%
+  2011-2015: objetivo=15,822 resueltos=1,785 cobertura=11.28%
+  2016-2020: objetivo=26,355 resueltos=6,095 cobertura=23.13%
+  2021-2025: objetivo=62,556 resueltos=1,777 cobertura=2.84%
+
+=== COBERTURA POR NIVEL ===
+  A: objetivo=45,094 resueltos=2,086 cobertura=4.63%
+  A*: objetivo=84,793 resueltos=9,230 cobertura=10.89%
+
+=== COBERTURA POR ÁREA ===
+  Bases de datos: objetivo=3,207 resueltos=357 cobertura=11.13%
+  Bioinformática: objetivo=8 resueltos=0 cobertura=0.00%
+  HCI: objetivo=4,916 resueltos=9 cobertura=0.18%
+  IA / ML: objetivo=102,854 resueltos=8,947 cobertura=8.70%
+  Ing. del Software: objetivo=1,322 resueltos=53 cobertura=4.01%
+  Redes: objetivo=756 resueltos=11 cobertura=1.46%
+  Seguridad: objetivo=4,950 resueltos=667 cobertura=13.47%
+  Sistemas: objetivo=4,775 resueltos=881 cobertura=18.45%
+  Teoría: objetivo=7,099 resueltos=391 cobertura=5.51%
+
+=== TOP 30 PAÍSES RESUELTOS VIA VENUE ===
+  US: 5,285
+  CN: 1,099
+  GB: 667
+  CA: 536
+  DE: 486
+  IL: 447
+  JP: 270
+  FR: 241
+  CH: 238
+  AU: 195
+  IN: 189
+  KR: 188
+  SG: 175
+  IT: 151
+  HK: 149
+  ES: 112
+  NL: 95
+  AT: 87
+  TW: 74
+  SE: 50
+  IE: 49
+  RU: 44
+  BR: 43
+  PT: 42
+  GR: 41
+  FI: 38
+  CZ: 25
+  BE: 23
+  PL: 21
+  MX: 21
+
+=== TOP 30 CONGRESOS POR ARTÍCULOS RESUELTOS VIA VENUE ===
+  NeurIPS            resueltos=  4,145 objetivo= 22,876 cobertura=18.12%
+  ICML               resueltos=  1,935 objetivo= 14,791 cobertura=13.08%
+  IJCAI              resueltos=  1,057 objetivo=  5,124 cobertura=20.63%
+  USENIX-Security    resueltos=    533 objetivo=  2,819 cobertura=18.91%
+  ICLR               resueltos=    486 objetivo= 10,241 cobertura=4.75%
+  UAI                resueltos=    454 objetivo=  2,849 cobertura=15.94%
+  DATE               resueltos=    422 objetivo=  1,252 cobertura=33.71%
+  COLT               resueltos=    378 objetivo=  1,651 cobertura=22.90%
+  ECAI               resueltos=    269 objetivo=    904 cobertura=29.76%
+  BMVC               resueltos=    253 objetivo=  3,001 cobertura=8.43%
+  CIDR               resueltos=    222 objetivo=    661 cobertura=33.59%
+  FAST               resueltos=    209 objetivo=    565 cobertura=36.99%
+  KR                 resueltos=    180 objetivo=    726 cobertura=24.79%
+  OSDI               resueltos=    177 objetivo=    611 cobertura=28.97%
+  VLDB               resueltos=    133 objetivo=  1,159 cobertura=11.48%
+  SOUPS              resueltos=     73 objetivo=    180 cobertura=40.56%
+  NDSS               resueltos=     61 objetivo=  1,425 cobertura=4.28%
+  EMNLP              resueltos=     56 objetivo=  3,656 cobertura=1.53%
+  ISLPED             resueltos=     52 objetivo=    111 cobertura=46.85%
+  AAAI               resueltos=     43 objetivo=  2,420 cobertura=1.78%
+  EACL               resueltos=     41 objetivo=    496 cobertura=8.27%
+  ICSE               resueltos=     28 objetivo=    147 cobertura=19.05%
+  CGO                resueltos=     21 objetivo=     80 cobertura=26.25%
+  AAMAS              resueltos=     16 objetivo=  5,400 cobertura=0.30%
+  ICWS               resueltos=     11 objetivo=    166 cobertura=6.63%
+  DSN                resueltos=     11 objetivo=     75 cobertura=14.67%
+  SDM                resueltos=      6 objetivo=    733 cobertura=0.82%
+  ITC                resueltos=      6 objetivo=    200 cobertura=3.00%
+  ISMAR              resueltos=      5 objetivo=     91 cobertura=5.49%
+  APPROX/RANDOM      resueltos=      3 objetivo=    696 cobertura=0.43%
+
+=== COMBOS MÁS LENTOS ===
+  HRI                2006 total= 636.95s fetch= 318.53s match=   0.00s targets=2 results=0 pages=0 mode=source_search
+  HotOS              2001 total= 636.62s fetch= 318.31s match=   0.00s targets=3 results=0 pages=0 mode=source_search
+  ICALP              2001 total= 636.61s fetch= 318.54s match=   0.00s targets=4 results=0 pages=0 mode=source_search
+  ICAPS              2003 total= 636.34s fetch= 317.94s match=   0.00s targets=30 results=0 pages=0 mode=source_search
+  HPDC               2011 total= 319.17s fetch= 319.17s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  ICALP              2018 total= 318.95s fetch= 318.95s match=   0.00s targets=44 results=0 pages=0 mode=source_search
+  HotOS              2009 total= 318.76s fetch= 318.76s match=   0.00s targets=22 results=0 pages=0 mode=source_search
+  HPDC               2018 total= 318.61s fetch= 318.61s match=   0.00s targets=2 results=0 pages=0 mode=source_search
+  HRI                2015 total= 318.58s fetch= 318.58s match=   0.00s targets=2 results=0 pages=0 mode=source_search
+  ICALP              2019 total= 318.57s fetch= 318.57s match=   0.00s targets=34 results=0 pages=0 mode=source_search
+  HRI                2023 total= 318.54s fetch= 318.54s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  HRI                2012 total= 318.51s fetch= 318.51s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  ICALP              2023 total= 318.43s fetch= 318.43s match=   0.00s targets=75 results=0 pages=0 mode=source_search
+  HotOS              2021 total= 318.43s fetch= 318.43s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  HPDC               2021 total= 318.39s fetch= 318.39s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  ICAPS              2005 total= 318.38s fetch= 318.38s match=   0.00s targets=33 results=0 pages=0 mode=source_search
+  ICALP              2004 total= 318.36s fetch= 318.36s match=   0.00s targets=4 results=0 pages=0 mode=source_search
+  ICAPS              2006 total= 318.35s fetch= 318.35s match=   0.00s targets=61 results=0 pages=0 mode=source_search
+  HRI                2024 total= 318.35s fetch= 318.35s match=   0.00s targets=1 results=0 pages=0 mode=source_search
+  HRI                2010 total= 318.34s fetch= 318.34s match=   0.00s targets=7 results=0 pages=0 mode=source_search

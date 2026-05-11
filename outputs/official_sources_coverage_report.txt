@@ -1,0 +1,9 @@
+=== PASO 11 — FUENTES OFICIALES/PDFs ===
+
+Artículos objetivo sin país previo: 0
+Artículos con >=1 país vía fuentes oficiales/PDF: 0
+Cobertura sobre objetivo: 0.00%
+Filas de evidencia paper-país: 0
+PDFs/URLs auditados: 0
+
+=== ESTADO ===

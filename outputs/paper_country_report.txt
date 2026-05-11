@@ -1,0 +1,136 @@
+=== PASO 9 — CONSOLIDACIÓN PAPER-COUNTRY ===
+
+Artículos en paper_master: 535,144
+Artículos con >=1 país consolidado: 452,515
+Artículos sin país consolidado: 82,629
+Cobertura acumulada: 84.56%
+Filas paper-país: 618,919
+Países distintos: 182
+Artículos con España: 8,082
+Artículos UE27+Reino Unido: 140,725
+Cuota España dentro de UE27+UK: 5.743%
+
+=== FUENTES DE EVIDENCIA DISPONIBLES ===
+  openalex_doi     existe=sí filas=   549,158 papers=   404,200
+  openalex_venue   existe=sí filas=    11,316 papers=     8,541
+  drops            existe=sí filas=     3,842 papers=     2,456
+  crossref         existe=sí filas=     5,039 papers=     4,499
+  openreview       existe=sí filas=    44,808 papers=    28,602
+  openreview_expanded existe=sí filas=       849 papers=       569
+  official_sources existe=sí filas=         0 papers=         0
+  semantic_scholar existe=sí filas=     3,912 papers=     3,653
+
+=== CONTRIBUCIÓN CONSOLIDADA POR FUENTE ===
+  openalex_doi     paper-país=   549,158 papers=   404,200
+  openreview       paper-país=    44,808 papers=    28,602
+  openalex_venue   paper-país=    11,316 papers=     8,541
+  crossref         paper-país=     5,039 papers=     4,499
+  semantic_scholar paper-país=     3,912 papers=     3,653
+  drops            paper-país=     3,842 papers=     2,456
+  openreview_expanded paper-país=       849 papers=       569
+
+=== COBERTURA POR VENTANA ===
+  2001-2005: total= 56,238 resueltos= 44,770 sin_pais= 11,468 cobertura=79.61%
+  2006-2010: total= 75,088 resueltos= 63,820 sin_pais= 11,268 cobertura=84.99%
+  2011-2015: total= 86,590 resueltos= 73,111 sin_pais= 13,479 cobertura=84.43%
+  2016-2020: total=118,717 resueltos= 99,275 sin_pais= 19,442 cobertura=83.62%
+  2021-2025: total=198,511 resueltos=171,539 sin_pais= 26,972 cobertura=86.41%
+
+=== COBERTURA POR NIVEL ===
+  A: total=229,474 resueltos=190,753 sin_pais= 38,721 cobertura=83.13%
+  A*: total=305,670 resueltos=261,762 sin_pais= 43,908 cobertura=85.64%
+
+=== COBERTURA POR ÁREA ===
+  Bases de datos: total= 53,576 resueltos= 51,614 sin_pais=  1,962 cobertura=96.34%
+  Bioinformática: total=     93 resueltos=     88 sin_pais=      5 cobertura=94.62%
+  HCI: total= 45,573 resueltos= 42,274 sin_pais=  3,299 cobertura=92.76%
+  IA / ML: total=291,505 resueltos=228,755 sin_pais= 62,750 cobertura=78.47%
+  Ing. del Software: total= 29,887 resueltos= 28,968 sin_pais=    919 cobertura=96.93%
+  Redes: total= 17,697 resueltos= 17,302 sin_pais=    395 cobertura=97.77%
+  Seguridad: total= 16,716 resueltos= 12,527 sin_pais=  4,189 cobertura=74.94%
+  Sistemas: total= 51,741 resueltos= 47,081 sin_pais=  4,660 cobertura=90.99%
+  Teoría: total= 28,356 resueltos= 23,906 sin_pais=  4,450 cobertura=84.31%
+
+=== TOP 30 PAÍSES POR ARTÍCULOS ===
+  US: 196,304  United States
+  CN:  90,251  China
+  GB:  37,509  United Kingdom
+  DE:  36,690  Germany
+  CA:  24,734  Canada
+  FR:  22,157  France
+  JP:  20,615  Japan
+  AU:  16,447  Australia
+  SG:  14,287  Singapore
+  CH:  13,891  Switzerland
+  HK:  13,476  Hong Kong
+  KR:  13,368  South Korea
+  IT:  13,064  Italy
+  NL:  10,682  Netherlands
+  IL:  10,438  Israel
+  IN:   8,717  India
+  ES:   8,082  Spain
+  SE:   5,875  Sweden
+  AT:   5,772  Austria
+  TW:   5,558  Taiwan
+  BE:   4,214  Belgium
+  DK:   4,050  Denmark
+  FI:   3,369  Finland
+  BR:   3,139  Brazil
+  GR:   2,816  Greece
+  PT:   2,383  Portugal
+  PL:   2,355  Poland
+  CZ:   2,229  Czechia
+  IE:   2,077  Ireland
+  NO:   2,059  Norway
+
+=== RESUMEN EUROPA/ESPAÑA POR VENTANA ===
+  2001-2005: ES=  967 EU27+UK= 14,240 ES/EU27+UK=6.791%
+  2006-2010: ES=1,680 EU27+UK= 22,048 ES/EU27+UK=7.620%
+  2011-2015: ES=1,909 EU27+UK= 26,136 ES/EU27+UK=7.304%
+  2016-2020: ES=1,536 EU27+UK= 31,263 ES/EU27+UK=4.913%
+  2021-2025: ES=1,990 EU27+UK= 47,038 ES/EU27+UK=4.231%
+
+=== CONGRESOS CON MENOR COBERTURA (>=100 artículos) ===
+  USENIX             A  Sistemas               total= 1,057 resueltos=    30 cobertura=  2.84%
+  NDSS               A* Seguridad              total= 1,426 resueltos=   117 cobertura=  8.20%
+  ICAPS              A* IA / ML                total= 1,258 resueltos=   147 cobertura= 11.69%
+  USENIX-Security    A* Seguridad              total= 2,819 resueltos=   497 cobertura= 17.63%
+  AISTATS            A  IA / ML                total= 4,370 resueltos=   879 cobertura= 20.11%
+  OSDI               A* Sistemas               total=   611 resueltos=   141 cobertura= 23.08%
+  AAMAS              A  IA / ML                total= 6,713 resueltos= 1,642 cobertura= 24.46%
+  UAI                A  IA / ML                total= 2,849 resueltos=   763 cobertura= 26.78%
+  FAST               A  Sistemas               total=   565 resueltos=   155 cobertura= 27.43%
+  ICWSM              A  IA / ML                total= 1,952 resueltos=   575 cobertura= 29.46%
+  CIDR               A  Bases de datos         total=   661 resueltos=   195 cobertura= 29.50%
+  COLT               A* Teoría                 total= 1,922 resueltos=   671 cobertura= 34.91%
+  BMVC               A  IA / ML                total= 4,127 resueltos= 1,483 cobertura= 35.93%
+  Interspeech        A  IA / ML                total=21,223 resueltos= 8,941 cobertura= 42.13%
+  SODA               A* Teoría                 total= 3,794 resueltos= 1,853 cobertura= 48.84%
+  KR                 A* IA / ML                total= 1,147 resueltos=   561 cobertura= 48.91%
+  HotOS              A  Sistemas               total=   394 resueltos=   200 cobertura= 50.76%
+  ACL                A* IA / ML                total= 9,617 resueltos= 5,221 cobertura= 54.29%
+  EMNLP              A* IA / ML                total= 9,202 resueltos= 5,589 cobertura= 60.74%
+  EACL               A  IA / ML                total= 1,186 resueltos=   722 cobertura= 60.88%
+  SDM                A  IA / ML                total= 2,055 resueltos= 1,327 cobertura= 64.57%
+  IJCAI              A* IA / ML                total=12,126 resueltos= 7,911 cobertura= 65.24%
+  AIED               A  IA / ML                total= 1,122 resueltos=   738 cobertura= 65.78%
+  SOUPS              A  Seguridad              total=   353 resueltos=   237 cobertura= 67.14%
+  NeurIPS            A* IA / ML                total=22,876 resueltos=15,427 cobertura= 67.44%
+  ICML               A* IA / ML                total=15,644 resueltos=10,579 cobertura= 67.62%
+  NAACL              A  IA / ML                total= 1,643 resueltos= 1,196 cobertura= 72.79%
+  SIGGRAPH           A* HCI                    total= 8,892 resueltos= 6,501 cobertura= 73.11%
+  ALENEX             A  Teoría                 total=   376 resueltos=   277 cobertura= 73.67%
+  VLDB               A* Bases de datos         total= 5,792 resueltos= 4,795 cobertura= 82.79%
+
+=== SALIDAS GENERADAS ===
+  outputs/paper_country.csv
+  outputs/paper_country_sources.csv
+  outputs/paper_country_coverage_by_year.csv
+  outputs/paper_country_coverage_by_window.csv
+  outputs/paper_country_coverage_by_level.csv
+  outputs/paper_country_coverage_by_area.csv
+  outputs/paper_country_coverage_by_congress.csv
+  outputs/paper_country_country_counts.csv
+  outputs/paper_country_europe_summary.csv
+  outputs/paper_country_unresolved.csv
+  outputs/paper_country_report.txt

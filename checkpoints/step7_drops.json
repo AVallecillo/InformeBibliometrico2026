@@ -1,0 +1,9 @@
+{
+  "step": 7,
+  "status": "COMPLETE",
+  "target_articles": 8460,
+  "volumes_processed": 119,
+  "resolved_articles": 2456,
+  "evidence_rows": 3842,
+  "coverage_pct": 29.0307
+}

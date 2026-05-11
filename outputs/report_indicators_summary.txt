@@ -1,0 +1,174 @@
+=== PASO 14 v2 — INDICADORES BIBLIOMÉTRICOS AMPLIADOS PARA EL INFORME ===
+
+=== CORPUS Y COBERTURA ===
+Artículos en paper_master: 535,144
+Artículos con >=1 país: 452,515
+Filas paper-país: 618,919
+Países distintos: 182
+Cobertura acumulada: 84.56%
+Bioinformática incluida en comparativas por área: no
+
+=== ESPAÑA EN UE27+REINO UNIDO POR VENTANA ===
+  2001-2005: ES=  967 UE27+UK= 14240 ES/UE27+UK=6.791% rank=6
+  2006-2010: ES= 1680 UE27+UK= 22048 ES/UE27+UK=7.620% rank=5
+  2011-2015: ES= 1909 UE27+UK= 26136 ES/UE27+UK=7.304% rank=5
+  2016-2020: ES= 1536 UE27+UK= 31263 ES/UE27+UK=4.913% rank=6
+  2021-2025: ES= 1990 UE27+UK= 47038 ES/UE27+UK=4.231% rank=8
+
+=== COMPARADORES EUROPEOS PRINCIPALES: CUOTA EN UE27+UK ===
+  2001-2005: GB=21.053% | DE=22.086% | FR=17.872% | IT=10.583% | NL=7.662% | ES=6.791% | PT=1.615%
+  2006-2010: GB=22.020% | DE=24.265% | FR=18.564% | IT=9.670% | NL=7.320% | ES=7.620% | PT=1.864%
+  2011-2015: GB=22.884% | DE=26.668% | FR=17.248% | IT=9.795% | NL=6.665% | ES=7.304% | PT=2.181%
+  2016-2020: GB=28.679% | DE=26.453% | FR=14.951% | IT=8.943% | NL=7.581% | ES=4.913% | PT=1.782%
+  2021-2025: GB=31.270% | DE=27.542% | FR=13.472% | IT=8.650% | NL=8.217% | ES=4.231% | PT=1.307%
+
+=== RATIO ESPAÑA / ITALIA ===
+  2001-2005: ES=967 IT=1507 ES/IT=0.642 (ES=6.791% vs IT=10.583% en UE27+UK)
+  2006-2010: ES=1680 IT=2132 ES/IT=0.788 (ES=7.620% vs IT=9.670% en UE27+UK)
+  2011-2015: ES=1909 IT=2560 ES/IT=0.746 (ES=7.304% vs IT=9.795% en UE27+UK)
+  2016-2020: ES=1536 IT=2796 ES/IT=0.549 (ES=4.913% vs IT=8.943% en UE27+UK)
+  2021-2025: ES=1990 IT=4069 ES/IT=0.489 (ES=4.231% vs IT=8.650% en UE27+UK)
+
+=== FACTORES DE CRECIMIENTO 2001-2005 → 2021-2025 (comparadores principales) ===
+  GB:  2998 → 14709 ×4.91; Δ cuota UE=+10.217 pp
+  DE:  3145 → 12955 ×4.12; Δ cuota UE=+5.456 pp
+  FR:  2545 →  6337 ×2.49; Δ cuota UE=-4.400 pp
+  IT:  1507 →  4069 ×2.70; Δ cuota UE=-1.933 pp
+  NL:  1091 →  3865 ×3.54; Δ cuota UE=+0.555 pp
+  ES:   967 →  1990 ×2.06; Δ cuota UE=-2.560 pp
+  PT:   230 →   615 ×2.67; Δ cuota UE=-0.308 pp
+
+=== CLASIFICACIÓN DESCRIPTIVA DE TENDENCIAS EUROPEAS ===
+  DE: creciente (22.086% → 27.542%; pico 27.542% en 2021-2025)
+  ES: decreciente (6.791% → 4.231%; pico 7.620% en 2006-2010)
+  FR: decreciente (17.872% → 13.472%; pico 18.564% en 2006-2010)
+  GB: creciente (21.053% → 31.270%; pico 31.270% en 2021-2025)
+  IT: decreciente (10.583% → 8.650%; pico 10.583% en 2001-2005)
+  NL: estable (7.662% → 8.217%; pico 8.217% en 2021-2025)
+  PT: estable (1.615% → 1.307%; pico 2.181% en 2011-2015)
+
+=== COBERTURA POR VENTANA ===
+  2001-2005: total=  56238 resueltos=  44770 cobertura=79.61%
+  2006-2010: total=  75088 resueltos=  63820 cobertura=84.99%
+  2011-2015: total=  86590 resueltos=  73111 cobertura=84.43%
+  2016-2020: total= 118717 resueltos=  99275 cobertura=83.62%
+  2021-2025: total= 198511 resueltos= 171539 cobertura=86.41%
+
+=== COBERTURA POR ÁREA ===
+  Bases de datos: congresos=16 total=  53576 resueltos=  51614 cobertura=96.34%
+  Bioinformática: congresos= 1 total=     93 resueltos=     88 cobertura=94.62%
+  HCI: congresos=16 total=  45573 resueltos=  42274 cobertura=92.76%
+  IA / ML: congresos=36 total= 291505 resueltos= 228755 cobertura=78.47%
+  Ingeniería del Software: congresos=28 total=  29887 resueltos=  28968 cobertura=96.92%
+  Redes: congresos= 9 total=  17697 resueltos=  17302 cobertura=97.77%
+  Seguridad: congresos=17 total=  16716 resueltos=  12527 cobertura=74.94%
+  Sistemas, arquitectura y computación: congresos=28 total=  51741 resueltos=  47081 cobertura=90.99%
+  Teoría: congresos=19 total=  28356 resueltos=  23906 cobertura=84.31%
+
+=== ESPAÑA POR ÁREA Y VENTANA (ES/UE27+UK) ===
+  [Bases de datos]
+    2001-2005: ES=   72 UE27+UK=  1377 ES/UE=5.229% rank=6
+    2006-2010: ES=  235 UE27+UK=  2589 ES/UE=9.077% rank=5
+    2011-2015: ES=  317 UE27+UK=  2905 ES/UE=10.912% rank=5
+    2016-2020: ES=  152 UE27+UK=  2977 ES/UE=5.106% rank=7
+    2021-2025: ES=  158 UE27+UK=  3636 ES/UE=4.345% rank=8
+  [HCI]
+    2001-2005: ES=   14 UE27+UK=  1061 ES/UE=1.320% rank=12
+    2006-2010: ES=   64 UE27+UK=  1889 ES/UE=3.388% rank=10
+    2011-2015: ES=  122 UE27+UK=  2911 ES/UE=4.191% rank=8
+    2016-2020: ES=   66 UE27+UK=  3291 ES/UE=2.005% rank=12
+    2021-2025: ES=   99 UE27+UK=  3734 ES/UE=2.651% rank=11
+  [IA / ML]
+    2001-2005: ES=  449 UE27+UK=  5293 ES/UE=8.483% rank=5
+    2006-2010: ES=  816 UE27+UK=  9144 ES/UE=8.924% rank=4
+    2011-2015: ES=  827 UE27+UK= 10640 ES/UE=7.773% rank=5
+    2016-2020: ES=  780 UE27+UK= 15139 ES/UE=5.152% rank=6
+    2021-2025: ES= 1100 UE27+UK= 28372 ES/UE=3.877% rank=7
+  [Ingeniería del Software]
+    2001-2005: ES=   81 UE27+UK=  1468 ES/UE=5.518% rank=6
+    2006-2010: ES=  147 UE27+UK=  2424 ES/UE=6.064% rank=6
+    2011-2015: ES=  225 UE27+UK=  3258 ES/UE=6.906% rank=7
+    2016-2020: ES=  168 UE27+UK=  2591 ES/UE=6.484% rank=7
+    2021-2025: ES=  154 UE27+UK=  2715 ES/UE=5.672% rank=8
+  [Redes]
+    2001-2005: ES=    9 UE27+UK=   429 ES/UE=2.098% rank=11
+    2006-2010: ES=   57 UE27+UK=   934 ES/UE=6.103% rank=5
+    2011-2015: ES=   93 UE27+UK=  1000 ES/UE=9.300% rank=5
+    2016-2020: ES=   86 UE27+UK=   908 ES/UE=9.471% rank=5
+    2021-2025: ES=  147 UE27+UK=  1006 ES/UE=14.612% rank=4
+  [Seguridad]
+    2001-2005: ES=    2 UE27+UK=   455 ES/UE=0.440% rank=17
+    2006-2010: ES=   30 UE27+UK=   782 ES/UE=3.836% rank=9
+    2011-2015: ES=   52 UE27+UK=   965 ES/UE=5.389% rank=7
+    2016-2020: ES=   54 UE27+UK=  1092 ES/UE=4.945% rank=8
+    2021-2025: ES=   70 UE27+UK=  1556 ES/UE=4.499% rank=8
+  [Sistemas, arquitectura y computación]
+    2001-2005: ES=  234 UE27+UK=  2331 ES/UE=10.039% rank=5
+    2006-2010: ES=  264 UE27+UK=  2754 ES/UE=9.586% rank=5
+    2011-2015: ES=  208 UE27+UK=  2484 ES/UE=8.374% rank=5
+    2016-2020: ES=  172 UE27+UK=  2576 ES/UE=6.677% rank=6
+    2021-2025: ES=  193 UE27+UK=  2832 ES/UE=6.815% rank=6
+  [Teoría]
+    2001-2005: ES=  106 UE27+UK=  1817 ES/UE=5.834% rank=6
+    2006-2010: ES=   67 UE27+UK=  1518 ES/UE=4.414% rank=6
+    2011-2015: ES=   65 UE27+UK=  1973 ES/UE=3.294% rank=11
+    2016-2020: ES=   58 UE27+UK=  2689 ES/UE=2.157% rank=13
+    2021-2025: ES=   69 UE27+UK=  3187 ES/UE=2.165% rank=13
+
+=== ESPAÑA POR NIVEL A*/A ===
+  A* 2001-2005: ES=  283 UE27+UK=  5132 ES/UE=5.514% rank=5
+  A* 2006-2010: ES=  528 UE27+UK=  8215 ES/UE=6.427% rank=5
+  A* 2011-2015: ES=  713 UE27+UK= 11592 ES/UE=6.151% rank=5
+  A* 2016-2020: ES=  627 UE27+UK= 16447 ES/UE=3.812% rank=8
+  A* 2021-2025: ES= 1010 UE27+UK= 28856 ES/UE=3.500% rank=9
+  A 2001-2005: ES=  684 UE27+UK=  9108 ES/UE=7.510% rank=6
+  A 2006-2010: ES= 1152 UE27+UK= 13833 ES/UE=8.328% rank=5
+  A 2011-2015: ES= 1196 UE27+UK= 14544 ES/UE=8.223% rank=5
+  A 2016-2020: ES=  909 UE27+UK= 14816 ES/UE=6.135% rank=6
+  A 2021-2025: ES=  980 UE27+UK= 18182 ES/UE=5.390% rank=6
+
+=== TOP 20 CONGRESOS POR ARTÍCULOS CON ESPAÑA (global 2001-2025) ===
+  IROS               A  IA / ML                              ES=  573 UE27+UK=  7632 ES/UE=7.508%
+  ICRA               A* IA / ML                              ES=  543 UE27+UK=  7272 ES/UE=7.467%
+  MICCAI             A  IA / ML                              ES=  335 UE27+UK=  5307 ES/UE=6.312%
+  Interspeech        A  IA / ML                              ES=  290 UE27+UK=  4194 ES/UE=6.915%
+  GECCO              A  IA / ML                              ES=  253 UE27+UK=  2418 ES/UE=10.463%
+  IPDPS              A  Sistemas, arquitectura y computación ES=  212 UE27+UK=  1727 ES/UE=12.276%
+  DATE               A  Sistemas, arquitectura y computación ES=  206 UE27+UK=  3297 ES/UE=6.248%
+  CVPR               A* IA / ML                              ES=  200 UE27+UK=  5370 ES/UE=3.724%
+  ECAI               A  IA / ML                              ES=  170 UE27+UK=  2003 ES/UE=8.487%
+  SIGIR              A* Bases de datos                       ES=  163 UE27+UK=  1899 ES/UE=8.583%
+  CIKM               A  Bases de datos                       ES=  141 UE27+UK=  1913 ES/UE=7.371%
+  ICDAR              A  IA / ML                              ES=  137 UE27+UK=   956 ES/UE=14.331%
+  AAAI               A* IA / ML                              ES=  137 UE27+UK=  4261 ES/UE=3.215%
+  IJCAI              A* IA / ML                              ES=  133 UE27+UK=  2436 ES/UE=5.460%
+  ER                 A  Bases de datos                       ES=  131 UE27+UK=   624 ES/UE=20.994%
+  NeurIPS            A* IA / ML                              ES=  113 UE27+UK=  3538 ES/UE=3.194%
+  WWW                A* Bases de datos                       ES=  111 UE27+UK=  1192 ES/UE=9.312%
+  INFOCOM            A* Redes                                ES=  109 UE27+UK=  1312 ES/UE=8.308%
+  CaiSE              A  Ingeniería del Software              ES=  103 UE27+UK=   748 ES/UE=13.770%
+  RecSys             A  IA / ML                              ES=  102 UE27+UK=  1011 ES/UE=10.089%
+
+=== TOP 15 CONGRESOS POR ARTÍCULOS CON ESPAÑA EN 2021-2025 ===
+   1. MICCAI             A  IA / ML                            ES= 129 UE27+UK= 1992 ES/UE=6.476%
+   2. NeurIPS            A* IA / ML                            ES=  99 UE27+UK= 2925 ES/UE=3.385%
+   3. IROS               A  IA / ML                            ES=  87 UE27+UK= 2012 ES/UE=4.324%
+   4. ICRA               A* IA / ML                            ES=  84 UE27+UK= 1975 ES/UE=4.253%
+   5. AAAI               A* IA / ML                            ES=  78 UE27+UK= 2373 ES/UE=3.287%
+   6. CVPR               A* IA / ML                            ES=  68 UE27+UK= 2680 ES/UE=2.537%
+   7. ICML               A* IA / ML                            ES=  62 UE27+UK= 2072 ES/UE=2.992%
+   8. ICLR               A* IA / ML                            ES=  61 UE27+UK= 2286 ES/UE=2.668%
+   9. ECAI               A  IA / ML                            ES=  58 UE27+UK=  819 ES/UE=7.082%
+  10. GECCO              A  IA / ML                            ES=  52 UE27+UK=  474 ES/UE=10.970%
+  11. DATE               A  Sistemas, arquitectura y computaci ES=  48 UE27+UK=  683 ES/UE=7.028%
+  12. IJCAI              A* IA / ML                            ES=  48 UE27+UK= 1138 ES/UE=4.218%
+  13. MSWIM              A  Redes                              ES=  45 UE27+UK=  146 ES/UE=30.822%
+  14. INFOCOM            A* Redes                              ES=  34 UE27+UK=  190 ES/UE=17.895%
+  15. SIGIR              A* Bases de datos                     ES=  30 UE27+UK=  597 ES/UE=5.025%
+
+=== NOTAS METODOLÓGICAS PARA EL INFORME ===
+- El conteo es completo por país: cada artículo cuenta una vez por país con al menos un autor afiliado.
+- El denominador europeo se define como artículos con >=1 país de UE27 + Reino Unido.
+- Bioinformática/ISMB se mantiene en totales globales y anexos, pero no se interpreta como área comparativa principal salvo que se use --include-bioinformatics.
+- Las cuotas por país se calculan sobre artículos con afiliación resuelta; los sesgos de cobertura deben documentarse por área y congreso.
+- Las ratios y factores de crecimiento comparan ventanas no solapadas; no implican causalidad, solo evolución descriptiva.

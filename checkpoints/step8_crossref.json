@@ -1,0 +1,12 @@
+{
+  "step": 8,
+  "status": "COMPLETE",
+  "papers_total": 535144,
+  "previously_resolved": 415192,
+  "target_papers": 35151,
+  "target_unique_dois": 35151,
+  "resolved_papers": 4499,
+  "evidence_rows": 5039,
+  "cache_size": 35151,
+  "cache_new": 35151
+}

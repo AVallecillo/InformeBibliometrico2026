@@ -1,0 +1,63 @@
+acronym,title,level,area,for1,status
+AAAI,National Conference of the American Association for Artificial Intelligence,A*,IA / ML,4602,CORE_2026_OFICIAL
+ACL,Association for Computational Linguistics,A*,IA / ML,4602,CORE_2026_OFICIAL
+ACMMM,ACM Multimedia,A*,IA / ML,4603,CORE_2026_OFICIAL
+ASE,Automated Software Engineering Conference,A*,Ing. del Software,4612,CORE_2026_OFICIAL
+ASPLOS,Architectural Support for Programming Languages and Operating Systems,A*,Sistemas,4612,CORE_2026_OFICIAL
+CAV,Computer Aided Verification,A*,Ing. del Software,4612,CORE_2026_OFICIAL
+CCS,ACM Conference on Computer and Communications Security,A*,Seguridad,4604,CORE_2026_OFICIAL
+CHI,International Conference on Human Factors in Computing Systems,A*,HCI,4608,CORE_2026_OFICIAL
+COLT,Conference on Learning Theory,A*,Teoría,4611,CORE_2026_OFICIAL
+CRYPTO,Advances in Cryptology,A*,Seguridad,4604,CORE_2026_OFICIAL
+CVPR,IEEE Conference on Computer Vision and Pattern Recognition,A*,IA / ML,4603,CORE_2026_OFICIAL
+DAC,Design Automation Conf,A*,Sistemas,CSE,CORE_2026_OFICIAL
+EC,ACM Conference on Economics and Computation,A*,Teoría,4602,CORE_2026_OFICIAL
+ECCV,European Conference on Computer Vision,A*,IA / ML,4603,CORE_2026_OFICIAL
+EMNLP,Empirical Methods in Natural Language Processing,A*,IA / ML,4602,CORE_2026_OFICIAL
+EuroCrypt,International Conference on the Theory and Application of Cryptographic Techniques,A*,Seguridad,4604,CORE_2026_OFICIAL
+FOCS,IEEE Symposium on Foundations of Computer Science,A*,Teoría,4613,CORE_2026_OFICIAL
+FSE,"ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",A*,Ing. del Software,4612,CORE_2026_OFICIAL
+HPCA,International Symposium on High Performance Computer Architecture,A*,Sistemas,CSE,CORE_2026_OFICIAL
+HRI,ACM/IEEE International Conference on Human-Robot Interaction,A*,HCI,4608,CORE_2026_OFICIAL
+ICALP,International Colloquium on Automata Languages and Programming,A*,Teoría,4613,CORE_2026_OFICIAL
+ICAPS,International Conference on Automated Planning and Scheduling,A*,IA / ML,4602,CORE_2026_OFICIAL
+ICCV,IEEE International Conference on Computer Vision,A*,IA / ML,4603,CORE_2026_OFICIAL
+ICDE,International Conference on Data Engineering,A*,Bases de datos,4605,CORE_2026_OFICIAL
+ICDM,IEEE International Conference on Data Mining,A*,Bases de datos,4605,CORE_2026_OFICIAL
+ICLR,International Conference on Learning Representations,A*,IA / ML,4611,CORE_2026_OFICIAL
+ICML,International Conference on Machine Learning,A*,IA / ML,4611,CORE_2026_OFICIAL
+ICRA,IEEE International Conference on Robotics and Automation,A*,IA / ML,4602,CORE_2026_OFICIAL
+ICSE,International Conference on Software Engineering,A*,Ing. del Software,4612,CORE_2026_OFICIAL
+IJCAI,International Joint Conference on Artificial Intelligence,A*,IA / ML,4602,CORE_2026_OFICIAL
+INFOCOM,IEEE International Conference on Computer Communications,A*,Redes,4606,CORE_2026_OFICIAL
+ISCA,ACM International Symposium on Computer Architecture,A*,Sistemas,CSE,CORE_2026_OFICIAL
+ISMAR,IEEE/ACM International Symposium on Mixed and Augmented Reality,A*,HCI,4607,CORE_2026_OFICIAL
+KDD,ACM International Conference on Knowledge Discovery and Data Mining,A*,Bases de datos,4605,CORE_2026_OFICIAL
+KR,International Conference on the Principles of Knowledge Representation and Reasoning,A*,IA / ML,4602,CORE_2026_OFICIAL
+LICS,IEEE Symposium on Logic in Computer Science,A*,Teoría,4613,CORE_2026_OFICIAL
+MICRO,International Symposium on Microarchitecture,A*,Sistemas,CSE,CORE_2026_OFICIAL
+MOBICOM,ACM International Conference on Mobile Computing and Networking,A*,Redes,4606,CORE_2026_OFICIAL
+NDSS,Usenix Network and Distributed System Security Symposium,A*,Seguridad,4604,CORE_2026_OFICIAL
+NeurIPS,Advances in Neural Information Processing Systems (was NIPS),A*,IA / ML,4611,CORE_2026_OFICIAL
+OSDI,Usenix Symposium on Operating Systems Design and Implementation,A*,Sistemas,4606,CORE_2026_OFICIAL
+PERCOM,IEEE International Conference on Pervasive Computing and Communications,A*,HCI,4608,CORE_2026_OFICIAL
+PLDI,ACM-SIGPLAN Conference on Programming Language Design and Implementation,A*,Ing. del Software,4612,CORE_2026_OFICIAL
+PODC,ACM Symposium on Principles of Distributed Computing,A*,Sistemas,4606,CORE_2026_OFICIAL
+PODS,ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems,A*,Bases de datos,4605,CORE_2026_OFICIAL
+POPL,ACM-SIGACT Symposium on Principles of Programming Languages,A*,Ing. del Software,4612,CORE_2026_OFICIAL
+SIGCOMM,"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",A*,Redes,4606,CORE_2026_OFICIAL
+SIGGRAPH,ACM SIG International Conference on Computer Graphics and Interactive Techniques,A*,HCI,4607,CORE_2026_OFICIAL
+SIGIR,ACM International Conference on Research and Development in Information Retrieval,A*,Bases de datos,4605,CORE_2026_OFICIAL
+SIGMETRICS,Measurement and Modeling of Computer Systems,A*,Sistemas,4612,CORE_2026_OFICIAL
+SIGMOD,ACM Special Interest Group on Management of Data Conference,A*,Bases de datos,4605,CORE_2026_OFICIAL
+SODA,ACM/SIAM Symposium on Discrete Algorithms,A*,Teoría,4613,CORE_2026_OFICIAL
+SOSP,ACM SIGOPS Symposium on Operating Systems Principles,A*,Sistemas,4606,CORE_2026_OFICIAL
+SP,IEEE Symposium on Security and Privacy,A*,Seguridad,4604,CORE_2026_OFICIAL
+STOC,ACM Symposium on Theory of Computing,A*,Teoría,4613,CORE_2026_OFICIAL
+SiggraphA,SIGGRAPH Asia,A*,HCI,4607,CORE_2026_OFICIAL
+SoCG,International Symposium on Computational Geometry,A*,Teoría,4613,CORE_2026_OFICIAL
+UIST,ACM Symposium on User Interface Software and Technology,A*,HCI,4608,CORE_2026_OFICIAL
+USENIX-Security,Usenix Security Symposium,A*,Seguridad,4604,CORE_2026_OFICIAL
+VLDB,International Conference on Very Large Databases,A*,Bases de datos,4605,CORE_2026_OFICIAL
+VR,IEEE Conference on Virtual Reality and 3D User Interfaces,A*,HCI,4607,CORE_2026_OFICIAL
+WWW,International World Wide Web Conference,A*,Bases de datos,4606,CORE_2026_OFICIAL

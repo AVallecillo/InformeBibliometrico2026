@@ -1,0 +1,3351 @@
+congress,level,area,year,n_articles
+AAAI,A*,IA / ML,2004,194
+AAAI,A*,IA / ML,2005,325
+AAAI,A*,IA / ML,2006,385
+AAAI,A*,IA / ML,2007,368
+AAAI,A*,IA / ML,2008,356
+AAAI,A*,IA / ML,2010,313
+AAAI,A*,IA / ML,2011,319
+AAAI,A*,IA / ML,2012,353
+AAAI,A*,IA / ML,2013,251
+AAAI,A*,IA / ML,2014,474
+AAAI,A*,IA / ML,2015,674
+AAAI,A*,IA / ML,2016,691
+AAAI,A*,IA / ML,2017,786
+AAAI,A*,IA / ML,2018,1102
+AAAI,A*,IA / ML,2019,1343
+AAAI,A*,IA / ML,2020,1864
+AAAI,A*,IA / ML,2021,1961
+AAAI,A*,IA / ML,2022,1624
+AAAI,A*,IA / ML,2023,2021
+AAAI,A*,IA / ML,2024,2866
+AAAI,A*,IA / ML,2025,3486
+AAMAS,A,IA / ML,2002,283
+AAMAS,A,IA / ML,2003,245
+AAMAS,A,IA / ML,2004,286
+AAMAS,A,IA / ML,2005,278
+AAMAS,A,IA / ML,2006,284
+AAMAS,A,IA / ML,2007,281
+AAMAS,A,IA / ML,2010,328
+AAMAS,A,IA / ML,2011,276
+AAMAS,A,IA / ML,2013,321
+AAMAS,A,IA / ML,2014,378
+AAMAS,A,IA / ML,2015,363
+AAMAS,A,IA / ML,2016,280
+AAMAS,A,IA / ML,2017,316
+AAMAS,A,IA / ML,2018,389
+AAMAS,A,IA / ML,2019,438
+AAMAS,A,IA / ML,2020,369
+AAMAS,A,IA / ML,2021,304
+AAMAS,A,IA / ML,2022,306
+AAMAS,A,IA / ML,2023,528
+AAMAS,A,IA / ML,2024,460
+ACL,A*,IA / ML,2001,70
+ACL,A*,IA / ML,2002,65
+ACL,A*,IA / ML,2003,71
+ACL,A*,IA / ML,2004,88
+ACL,A*,IA / ML,2005,134
+ACL,A*,IA / ML,2006,307
+ACL,A*,IA / ML,2007,204
+ACL,A*,IA / ML,2008,187
+ACL,A*,IA / ML,2010,230
+ACL,A*,IA / ML,2011,292
+ACL,A*,IA / ML,2012,187
+ACL,A*,IA / ML,2013,327
+ACL,A*,IA / ML,2014,286
+ACL,A*,IA / ML,2015,318
+ACL,A*,IA / ML,2016,328
+ACL,A*,IA / ML,2017,302
+ACL,A*,IA / ML,2018,381
+ACL,A*,IA / ML,2019,720
+ACL,A*,IA / ML,2020,778
+ACL,A*,IA / ML,2022,702
+ACL,A*,IA / ML,2023,1074
+ACL,A*,IA / ML,2024,865
+ACL,A*,IA / ML,2025,1701
+ACMMM,A*,IA / ML,2001,110
+ACMMM,A*,IA / ML,2002,119
+ACMMM,A*,IA / ML,2003,122
+ACMMM,A*,IA / ML,2004,211
+ACMMM,A*,IA / ML,2005,206
+ACMMM,A*,IA / ML,2006,202
+ACMMM,A*,IA / ML,2007,200
+ACMMM,A*,IA / ML,2008,226
+ACMMM,A*,IA / ML,2009,248
+ACMMM,A*,IA / ML,2010,374
+ACMMM,A*,IA / ML,2011,350
+ACMMM,A*,IA / ML,2012,322
+ACMMM,A*,IA / ML,2013,231
+ACMMM,A*,IA / ML,2014,251
+ACMMM,A*,IA / ML,2015,272
+ACMMM,A*,IA / ML,2016,271
+ACMMM,A*,IA / ML,2017,273
+ACMMM,A*,IA / ML,2018,313
+ACMMM,A*,IA / ML,2019,371
+ACMMM,A*,IA / ML,2020,584
+ACMMM,A*,IA / ML,2021,684
+ACMMM,A*,IA / ML,2022,829
+ACMMM,A*,IA / ML,2023,1014
+ACMMM,A*,IA / ML,2024,1237
+ACMMM,A*,IA / ML,2025,1620
+ACSAC,A,Seguridad,2001,47
+ACSAC,A,Seguridad,2002,41
+ACSAC,A,Seguridad,2003,43
+ACSAC,A,Seguridad,2004,41
+ACSAC,A,Seguridad,2005,60
+ACSAC,A,Seguridad,2006,44
+ACSAC,A,Seguridad,2007,44
+ACSAC,A,Seguridad,2008,45
+ACSAC,A,Seguridad,2009,48
+ACSAC,A,Seguridad,2010,42
+ACSAC,A,Seguridad,2011,42
+ACSAC,A,Seguridad,2012,46
+ACSAC,A,Seguridad,2013,36
+ACSAC,A,Seguridad,2014,48
+ACSAC,A,Seguridad,2015,47
+ACSAC,A,Seguridad,2016,48
+ACSAC,A,Seguridad,2017,48
+ACSAC,A,Seguridad,2018,60
+ACSAC,A,Seguridad,2019,60
+ACSAC,A,Seguridad,2020,70
+ACSAC,A,Seguridad,2021,80
+ACSAC,A,Seguridad,2022,73
+ACSAC,A,Seguridad,2023,59
+ACSAC,A,Seguridad,2024,83
+ACSAC,A,Seguridad,2025,84
+AIED,A,IA / ML,2005,206
+AIED,A,IA / ML,2007,149
+AIED,A,IA / ML,2009,170
+AIED,A,IA / ML,2011,134
+AIED,A,IA / ML,2013,165
+AIED,A,IA / ML,2015,137
+AIED,A,IA / ML,2017,82
+AIED,A,IA / ML,2023,79
+AISTATS,A,IA / ML,2001,46
+AISTATS,A,IA / ML,2003,44
+AISTATS,A,IA / ML,2005,57
+AISTATS,A,IA / ML,2013,71
+AISTATS,A,IA / ML,2014,122
+AISTATS,A,IA / ML,2015,127
+AISTATS,A,IA / ML,2016,164
+AISTATS,A,IA / ML,2017,167
+AISTATS,A,IA / ML,2018,216
+AISTATS,A,IA / ML,2019,360
+AISTATS,A,IA / ML,2020,423
+AISTATS,A,IA / ML,2021,455
+AISTATS,A,IA / ML,2022,492
+AISTATS,A,IA / ML,2023,496
+AISTATS,A,IA / ML,2024,547
+AISTATS,A,IA / ML,2025,583
+ALENEX,A,Teoría,2001,18
+ALENEX,A,Teoría,2002,15
+ALENEX,A,Teoría,2003,14
+ALENEX,A,Teoría,2006,16
+ALENEX,A,Teoría,2007,15
+ALENEX,A,Teoría,2008,15
+ALENEX,A,Teoría,2009,16
+ALENEX,A,Teoría,2010,16
+ALENEX,A,Teoría,2011,16
+ALENEX,A,Teoría,2012,16
+ALENEX,A,Teoría,2013,15
+ALENEX,A,Teoría,2014,15
+ALENEX,A,Teoría,2015,15
+ALENEX,A,Teoría,2016,15
+ALENEX,A,Teoría,2017,21
+ALENEX,A,Teoría,2018,19
+ALENEX,A,Teoría,2019,17
+ALENEX,A,Teoría,2020,17
+ALENEX,A,Teoría,2021,16
+ALENEX,A,Teoría,2022,18
+ALENEX,A,Teoría,2023,17
+ALENEX,A,Teoría,2024,17
+ALENEX,A,Teoría,2025,17
+APPROX/RANDOM,A,Teoría,2002,22
+APPROX/RANDOM,A,Teoría,2004,37
+APPROX/RANDOM,A,Teoría,2005,41
+APPROX/RANDOM,A,Teoría,2006,46
+APPROX/RANDOM,A,Teoría,2007,44
+APPROX/RANDOM,A,Teoría,2008,47
+APPROX/RANDOM,A,Teoría,2009,54
+APPROX/RANDOM,A,Teoría,2010,57
+APPROX/RANDOM,A,Teoría,2011,58
+APPROX/RANDOM,A,Teoría,2012,56
+APPROX/RANDOM,A,Teoría,2013,48
+APPROX/RANDOM,A,Teoría,2014,62
+APPROX/RANDOM,A,Teoría,2015,57
+APPROX/RANDOM,A,Teoría,2016,48
+APPROX/RANDOM,A,Teoría,2017,50
+APPROX/RANDOM,A,Teoría,2018,59
+APPROX/RANDOM,A,Teoría,2019,73
+APPROX/RANDOM,A,Teoría,2020,65
+APPROX/RANDOM,A,Teoría,2021,63
+APPROX/RANDOM,A,Teoría,2022,55
+APPROX/RANDOM,A,Teoría,2023,67
+APPROX/RANDOM,A,Teoría,2024,76
+APPROX/RANDOM,A,Teoría,2025,69
+ASE,A*,Ing. del Software,2001,68
+ASE,A*,Ing. del Software,2002,45
+ASE,A*,Ing. del Software,2003,54
+ASE,A*,Ing. del Software,2004,65
+ASE,A*,Ing. del Software,2005,81
+ASE,A*,Ing. del Software,2006,69
+ASE,A*,Ing. del Software,2007,102
+ASE,A*,Ing. del Software,2008,93
+ASE,A*,Ing. del Software,2009,89
+ASE,A*,Ing. del Software,2010,87
+ASE,A*,Ing. del Software,2011,112
+ASE,A*,Ing. del Software,2012,68
+ASE,A*,Ing. del Software,2013,94
+ASE,A*,Ing. del Software,2014,107
+ASE,A*,Ing. del Software,2015,100
+ASE,A*,Ing. del Software,2016,100
+ASE,A*,Ing. del Software,2017,117
+ASE,A*,Ing. del Software,2018,112
+ASE,A*,Ing. del Software,2019,154
+ASE,A*,Ing. del Software,2020,158
+ASE,A*,Ing. del Software,2021,166
+ASE,A*,Ing. del Software,2022,228
+ASE,A*,Ing. del Software,2023,209
+ASE,A*,Ing. del Software,2024,266
+ASE,A*,Ing. del Software,2025,389
+ASIACRYPT,A,Seguridad,2001,34
+ASIACRYPT,A,Seguridad,2002,36
+ASIACRYPT,A,Seguridad,2003,33
+ASIACRYPT,A,Seguridad,2004,37
+ASIACRYPT,A,Seguridad,2005,37
+ASIACRYPT,A,Seguridad,2006,30
+ASIACRYPT,A,Seguridad,2007,35
+ASIACRYPT,A,Seguridad,2008,34
+ASIACRYPT,A,Seguridad,2009,41
+ASIACRYPT,A,Seguridad,2010,35
+ASIACRYPT,A,Seguridad,2011,40
+ASIACRYPT,A,Seguridad,2012,45
+ASPLOS,A*,Sistemas,2002,25
+ASPLOS,A*,Sistemas,2004,24
+ASPLOS,A*,Sistemas,2006,39
+ASPLOS,A*,Sistemas,2008,32
+ASPLOS,A*,Sistemas,2009,29
+ASPLOS,A*,Sistemas,2010,33
+ASPLOS,A*,Sistemas,2011,33
+ASPLOS,A*,Sistemas,2012,37
+ASPLOS,A*,Sistemas,2013,46
+ASPLOS,A*,Sistemas,2014,52
+ASPLOS,A*,Sistemas,2015,50
+ASPLOS,A*,Sistemas,2016,57
+ASPLOS,A*,Sistemas,2017,58
+ASPLOS,A*,Sistemas,2018,57
+ASPLOS,A*,Sistemas,2019,76
+ASPLOS,A*,Sistemas,2020,88
+ASPLOS,A*,Sistemas,2021,75
+ASPLOS,A*,Sistemas,2022,80
+ASSETS,A,HCI,2002,32
+ASSETS,A,HCI,2004,26
+ASSETS,A,HCI,2005,46
+ASSETS,A,HCI,2006,70
+ASSETS,A,HCI,2007,53
+ASSETS,A,HCI,2008,73
+ASSETS,A,HCI,2009,60
+ASSETS,A,HCI,2010,81
+ASSETS,A,HCI,2011,85
+ASSETS,A,HCI,2012,78
+ASSETS,A,HCI,2013,79
+ASSETS,A,HCI,2014,94
+ASSETS,A,HCI,2015,106
+ASSETS,A,HCI,2016,71
+ASSETS,A,HCI,2017,94
+ASSETS,A,HCI,2018,90
+ASSETS,A,HCI,2019,111
+ASSETS,A,HCI,2020,108
+ASSETS,A,HCI,2021,104
+ASSETS,A,HCI,2022,106
+ASSETS,A,HCI,2023,109
+ASSETS,A,HCI,2024,138
+ASSETS,A,HCI,2025,182
+AsiaCCS,A,Seguridad,2021,73
+AsiaCCS,A,Seguridad,2022,112
+AsiaCCS,A,Seguridad,2023,88
+AsiaCCS,A,Seguridad,2024,143
+AsiaCCS,A,Seguridad,2025,125
+BMVC,A,IA / ML,2001,72
+BMVC,A,IA / ML,2002,83
+BMVC,A,IA / ML,2003,81
+BMVC,A,IA / ML,2004,99
+BMVC,A,IA / ML,2005,95
+BMVC,A,IA / ML,2006,129
+BMVC,A,IA / ML,2007,113
+BMVC,A,IA / ML,2008,120
+BMVC,A,IA / ML,2009,125
+BMVC,A,IA / ML,2010,118
+BMVC,A,IA / ML,2011,132
+BMVC,A,IA / ML,2012,136
+BMVC,A,IA / ML,2013,134
+BMVC,A,IA / ML,2014,131
+BMVC,A,IA / ML,2015,189
+BMVC,A,IA / ML,2016,146
+BMVC,A,IA / ML,2017,190
+BMVC,A,IA / ML,2018,279
+BMVC,A,IA / ML,2019,229
+BMVC,A,IA / ML,2020,196
+BMVC,A,IA / ML,2021,435
+BMVC,A,IA / ML,2022,365
+BMVC,A,IA / ML,2023,267
+BMVC,A,IA / ML,2024,263
+BPM,A,Ing. del Software,2007,30
+BPM,A,Ing. del Software,2008,32
+BPM,A,Ing. del Software,2009,23
+BPM,A,Ing. del Software,2010,24
+BPM,A,Ing. del Software,2011,30
+BPM,A,Ing. del Software,2012,26
+BPM,A,Ing. del Software,2013,28
+BPM,A,Ing. del Software,2014,31
+BPM,A,Ing. del Software,2015,30
+BPM,A,Ing. del Software,2016,24
+BPM,A,Ing. del Software,2017,19
+BPM,A,Ing. del Software,2018,29
+BPM,A,Ing. del Software,2019,27
+BPM,A,Ing. del Software,2020,29
+BPM,A,Ing. del Software,2021,28
+BPM,A,Ing. del Software,2022,28
+BPM,A,Ing. del Software,2023,27
+BPM,A,Ing. del Software,2024,29
+BPM,A,Ing. del Software,2025,33
+CADE,A,Teoría,2002,40
+CADE,A,Teoría,2003,41
+CADE,A,Teoría,2005,33
+CADE,A,Teoría,2007,38
+CADE,A,Teoría,2009,35
+CADE,A,Teoría,2011,38
+CADE,A,Teoría,2013,33
+CADE,A,Teoría,2015,42
+CADE,A,Teoría,2017,34
+CADE,A,Teoría,2019,34
+CADE,A,Teoría,2021,38
+CADE,A,Teoría,2023,33
+CADE,A,Teoría,2025,38
+CAV,A*,Ing. del Software,2001,48
+CAV,A*,Ing. del Software,2002,51
+CAV,A*,Ing. del Software,2003,41
+CAV,A*,Ing. del Software,2004,51
+CAV,A*,Ing. del Software,2005,52
+CAV,A*,Ing. del Software,2006,49
+CAV,A*,Ing. del Software,2007,54
+CAV,A*,Ing. del Software,2008,53
+CAV,A*,Ing. del Software,2009,60
+CAV,A*,Ing. del Software,2010,58
+CAV,A*,Ing. del Software,2011,60
+CAV,A*,Ing. del Software,2012,64
+CAV,A*,Ing. del Software,2013,72
+CAV,A*,Ing. del Software,2014,57
+CCC,A,Teoría,2001,30
+CCC,A,Teoría,2002,36
+CCC,A,Teoría,2003,31
+CCC,A,Teoría,2004,30
+CCC,A,Teoría,2005,33
+CCC,A,Teoría,2006,34
+CCC,A,Teoría,2007,30
+CCC,A,Teoría,2008,32
+CCC,A,Teoría,2009,37
+CCC,A,Teoría,2010,28
+CCC,A,Teoría,2011,30
+CCC,A,Teoría,2012,36
+CCC,A,Teoría,2013,29
+CCC,A,Teoría,2014,31
+CCC,A,Teoría,2015,31
+CCC,A,Teoría,2016,36
+CCC,A,Teoría,2017,34
+CCC,A,Teoría,2018,29
+CCC,A,Teoría,2019,33
+CCC,A,Teoría,2020,39
+CCC,A,Teoría,2021,42
+CCC,A,Teoría,2022,39
+CCC,A,Teoría,2023,37
+CCC,A,Teoría,2024,37
+CCC,A,Teoría,2025,37
+CCS,A*,Seguridad,2001,27
+CCS,A*,Seguridad,2002,27
+CCS,A*,Seguridad,2003,36
+CCS,A*,Seguridad,2004,36
+CCS,A*,Seguridad,2005,42
+CCS,A*,Seguridad,2006,39
+CCS,A*,Seguridad,2007,56
+CCS,A*,Seguridad,2008,52
+CCS,A*,Seguridad,2009,58
+CCS,A*,Seguridad,2010,98
+CCS,A*,Seguridad,2011,102
+CCS,A*,Seguridad,2012,112
+CCS,A*,Seguridad,2013,158
+CCS,A*,Seguridad,2014,170
+CCS,A*,Seguridad,2015,169
+CCS,A*,Seguridad,2016,196
+CCS,A*,Seguridad,2017,206
+CCS,A*,Seguridad,2018,198
+CCS,A*,Seguridad,2019,207
+CCS,A*,Seguridad,2020,148
+CCS,A*,Seguridad,2021,225
+CCS,A*,Seguridad,2022,287
+CCS,A*,Seguridad,2023,292
+CCS,A*,Seguridad,2024,418
+CCS,A*,Seguridad,2025,395
+CGO,A,Ing. del Software,2003,29
+CGO,A,Ing. del Software,2004,25
+CGO,A,Ing. del Software,2005,28
+CGO,A,Ing. del Software,2006,37
+CGO,A,Ing. del Software,2007,29
+CGO,A,Ing. del Software,2008,24
+CGO,A,Ing. del Software,2009,26
+CGO,A,Ing. del Software,2010,31
+CGO,A,Ing. del Software,2011,30
+CGO,A,Ing. del Software,2012,26
+CGO,A,Ing. del Software,2013,33
+CGO,A,Ing. del Software,2014,29
+CGO,A,Ing. del Software,2015,24
+CGO,A,Ing. del Software,2016,25
+CGO,A,Ing. del Software,2017,26
+CGO,A,Ing. del Software,2018,31
+CGO,A,Ing. del Software,2019,33
+CGO,A,Ing. del Software,2020,25
+CGO,A,Ing. del Software,2021,35
+CGO,A,Ing. del Software,2022,27
+CGO,A,Ing. del Software,2023,21
+CGO,A,Ing. del Software,2024,38
+CGO,A,Ing. del Software,2025,48
+CHES,A,Seguridad,2001,33
+CHES,A,Seguridad,2002,43
+CHES,A,Seguridad,2003,33
+CHES,A,Seguridad,2004,32
+CHES,A,Seguridad,2005,32
+CHES,A,Seguridad,2006,35
+CHES,A,Seguridad,2007,31
+CHES,A,Seguridad,2008,29
+CHES,A,Seguridad,2009,32
+CHES,A,Seguridad,2010,30
+CHES,A,Seguridad,2011,33
+CHES,A,Seguridad,2012,32
+CHES,A,Seguridad,2013,27
+CHES,A,Seguridad,2014,33
+CHES,A,Seguridad,2015,34
+CHES,A,Seguridad,2016,30
+CHES,A,Seguridad,2017,33
+CHI,A*,HCI,2001,69
+CHI,A*,HCI,2002,61
+CHI,A*,HCI,2003,75
+CHI,A*,HCI,2004,93
+CHI,A*,HCI,2005,93
+CHI,A*,HCI,2006,151
+CHI,A*,HCI,2007,182
+CHI,A*,HCI,2008,218
+CHI,A*,HCI,2009,277
+CHI,A*,HCI,2010,302
+CHI,A*,HCI,2011,409
+CHI,A*,HCI,2012,369
+CHI,A*,HCI,2013,392
+CHI,A*,HCI,2014,465
+CHI,A*,HCI,2015,484
+CHI,A*,HCI,2016,545
+CHI,A*,HCI,2017,600
+CHI,A*,HCI,2018,665
+CHI,A*,HCI,2019,702
+CHI,A*,HCI,2020,758
+CHI,A*,HCI,2021,746
+CHI,A*,HCI,2022,637
+CHI,A*,HCI,2023,879
+CHI,A*,HCI,2024,1057
+CHI,A*,HCI,2025,1249
+CIDR,A,Bases de datos,2003,27
+CIDR,A,Bases de datos,2005,27
+CIDR,A,Bases de datos,2007,47
+CIDR,A,Bases de datos,2009,39
+CIDR,A,Bases de datos,2011,39
+CIDR,A,Bases de datos,2013,64
+CIDR,A,Bases de datos,2015,60
+CIDR,A,Bases de datos,2017,74
+CIDR,A,Bases de datos,2019,50
+CIDR,A,Bases de datos,2020,49
+CIDR,A,Bases de datos,2021,43
+CIDR,A,Bases de datos,2022,42
+CIDR,A,Bases de datos,2023,32
+CIDR,A,Bases de datos,2024,31
+CIDR,A,Bases de datos,2025,37
+CIKM,A,Bases de datos,2001,92
+CIKM,A,Bases de datos,2002,101
+CIKM,A,Bases de datos,2003,88
+CIKM,A,Bases de datos,2004,94
+CIKM,A,Bases de datos,2005,163
+CIKM,A,Bases de datos,2006,140
+CIKM,A,Bases de datos,2007,134
+CIKM,A,Bases de datos,2008,240
+CIKM,A,Bases de datos,2009,337
+CIKM,A,Bases de datos,2010,323
+CIKM,A,Bases de datos,2011,428
+CIKM,A,Bases de datos,2012,451
+CIKM,A,Bases de datos,2013,382
+CIKM,A,Bases de datos,2014,270
+CIKM,A,Bases de datos,2015,244
+CIKM,A,Bases de datos,2016,327
+CIKM,A,Bases de datos,2017,350
+CIKM,A,Bases de datos,2018,313
+CIKM,A,Bases de datos,2019,394
+CIKM,A,Bases de datos,2020,494
+CIKM,A,Bases de datos,2021,599
+CIKM,A,Bases de datos,2022,658
+CIKM,A,Bases de datos,2023,676
+CIKM,A,Bases de datos,2024,697
+CIKM,A,Bases de datos,2025,852
+COLT,A*,Teoría,2002,27
+COLT,A*,Teoría,2003,60
+COLT,A*,Teoría,2004,46
+COLT,A*,Teoría,2005,48
+COLT,A*,Teoría,2006,48
+COLT,A*,Teoría,2007,48
+COLT,A*,Teoría,2008,51
+COLT,A*,Teoría,2009,44
+COLT,A*,Teoría,2010,48
+COLT,A*,Teoría,2012,3
+COLT,A*,Teoría,2013,51
+COLT,A*,Teoría,2014,61
+COLT,A*,Teoría,2015,77
+COLT,A*,Teoría,2016,70
+COLT,A*,Teoría,2017,76
+COLT,A*,Teoría,2018,94
+COLT,A*,Teoría,2019,127
+COLT,A*,Teoría,2020,126
+COLT,A*,Teoría,2021,140
+COLT,A*,Teoría,2022,155
+COLT,A*,Teoría,2023,170
+COLT,A*,Teoría,2024,170
+COLT,A*,Teoría,2025,182
+CP,A,Teoría,2001,84
+CP,A,Teoría,2002,83
+CP,A,Teoría,2003,126
+CP,A,Teoría,2004,97
+CP,A,Teoría,2005,121
+CP,A,Teoría,2006,67
+CP,A,Teoría,2007,67
+CP,A,Teoría,2008,57
+CP,A,Teoría,2009,64
+CP,A,Teoría,2010,50
+CP,A,Teoría,2011,61
+CP,A,Teoría,2012,71
+CP,A,Teoría,2013,64
+CP,A,Teoría,2014,71
+CP,A,Teoría,2015,49
+CP,A,Teoría,2016,54
+CP,A,Teoría,2017,45
+CP,A,Teoría,2018,47
+CP,A,Teoría,2019,44
+CP,A,Teoría,2020,55
+CP,A,Teoría,2021,60
+CP,A,Teoría,2022,42
+CP,A,Teoría,2023,50
+CP,A,Teoría,2024,41
+CP,A,Teoría,2025,44
+CRYPTO,A*,Seguridad,2001,33
+CRYPTO,A*,Seguridad,2002,39
+CRYPTO,A*,Seguridad,2003,36
+CRYPTO,A*,Seguridad,2004,34
+CRYPTO,A*,Seguridad,2005,33
+CRYPTO,A*,Seguridad,2006,36
+CRYPTO,A*,Seguridad,2007,34
+CRYPTO,A*,Seguridad,2008,32
+CRYPTO,A*,Seguridad,2009,39
+CRYPTO,A*,Seguridad,2010,39
+CRYPTO,A*,Seguridad,2011,43
+CRYPTO,A*,Seguridad,2012,50
+CSCW,A,HCI,2002,39
+CSCW,A,HCI,2004,80
+CSCW,A,HCI,2006,62
+CSCW,A,HCI,2008,86
+CSCW,A,HCI,2010,58
+CSCW,A,HCI,2011,112
+CSCW,A,HCI,2012,167
+CSCW,A,HCI,2013,141
+CSCW,A,HCI,2014,136
+CSCW,A,HCI,2015,163
+CSCW,A,HCI,2016,142
+CSCW,A,HCI,2017,185
+CSF,A,Seguridad,2007,26
+CSF,A,Seguridad,2008,22
+CSF,A,Seguridad,2009,22
+CSF,A,Seguridad,2010,23
+CSF,A,Seguridad,2011,21
+CSF,A,Seguridad,2012,25
+CSF,A,Seguridad,2013,19
+CSF,A,Seguridad,2014,29
+CSF,A,Seguridad,2015,35
+CSF,A,Seguridad,2016,34
+CSF,A,Seguridad,2017,34
+CSF,A,Seguridad,2018,27
+CSF,A,Seguridad,2019,30
+CSF,A,Seguridad,2020,28
+CSF,A,Seguridad,2021,43
+CSF,A,Seguridad,2022,32
+CSF,A,Seguridad,2023,38
+CSF,A,Seguridad,2024,45
+CSF,A,Seguridad,2025,38
+CVPR,A*,IA / ML,2007,538
+CVPR,A*,IA / ML,2008,506
+CVPR,A*,IA / ML,2009,382
+CVPR,A*,IA / ML,2010,461
+CVPR,A*,IA / ML,2011,439
+CVPR,A*,IA / ML,2012,466
+CVPR,A*,IA / ML,2013,471
+CVPR,A*,IA / ML,2014,540
+CVPR,A*,IA / ML,2015,602
+CVPR,A*,IA / ML,2016,643
+CVPR,A*,IA / ML,2017,783
+CVPR,A*,IA / ML,2018,979
+CVPR,A*,IA / ML,2019,1294
+CVPR,A*,IA / ML,2020,1465
+CVPR,A*,IA / ML,2021,1660
+CVPR,A*,IA / ML,2022,2072
+CVPR,A*,IA / ML,2023,2356
+CVPR,A*,IA / ML,2024,2715
+CVPR,A*,IA / ML,2025,2871
+CaiSE,A,Ing. del Software,2001,34
+CaiSE,A,Ing. del Software,2002,69
+CaiSE,A,Ing. del Software,2003,48
+CaiSE,A,Ing. del Software,2004,41
+CaiSE,A,Ing. del Software,2005,39
+CaiSE,A,Ing. del Software,2006,36
+CaiSE,A,Ing. del Software,2007,41
+CaiSE,A,Ing. del Software,2008,45
+CaiSE,A,Ing. del Software,2009,42
+CaiSE,A,Ing. del Software,2010,41
+CaiSE,A,Ing. del Software,2011,50
+CaiSE,A,Ing. del Software,2012,48
+CaiSE,A,Ing. del Software,2013,44
+CaiSE,A,Ing. del Software,2014,44
+CaiSE,A,Ing. del Software,2015,31
+CaiSE,A,Ing. del Software,2016,35
+CaiSE,A,Ing. del Software,2017,39
+CaiSE,A,Ing. del Software,2018,37
+CaiSE,A,Ing. del Software,2019,42
+CaiSE,A,Ing. del Software,2020,34
+CaiSE,A,Ing. del Software,2021,33
+CaiSE,A,Ing. del Software,2022,31
+CaiSE,A,Ing. del Software,2023,36
+CaiSE,A,Ing. del Software,2024,36
+CoNEXT,A,Redes,2005,63
+CoNEXT,A,Redes,2006,59
+CoNEXT,A,Redes,2007,78
+CoNEXT,A,Redes,2008,77
+CoNEXT,A,Redes,2009,29
+CoNEXT,A,Redes,2010,28
+CoNEXT,A,Redes,2011,30
+CoNEXT,A,Redes,2012,31
+CoNEXT,A,Redes,2013,45
+CoNEXT,A,Redes,2014,37
+CoNEXT,A,Redes,2015,41
+CoNEXT,A,Redes,2016,38
+CoNEXT,A,Redes,2017,41
+CoNEXT,A,Redes,2018,32
+CoNEXT,A,Redes,2019,32
+CoNEXT,A,Redes,2020,63
+CoNEXT,A,Redes,2021,50
+CoNEXT,A,Redes,2022,28
+DAC,A*,Sistemas,2001,160
+DAC,A*,Sistemas,2002,169
+DAC,A*,Sistemas,2003,189
+DAC,A*,Sistemas,2004,197
+DAC,A*,Sistemas,2005,191
+DAC,A*,Sistemas,2006,219
+DAC,A*,Sistemas,2007,201
+DAC,A*,Sistemas,2008,195
+DAC,A*,Sistemas,2009,193
+DAC,A*,Sistemas,2010,183
+DAC,A*,Sistemas,2011,187
+DAC,A*,Sistemas,2012,196
+DAC,A*,Sistemas,2013,185
+DAC,A*,Sistemas,2014,213
+DAC,A*,Sistemas,2015,203
+DAC,A*,Sistemas,2016,174
+DAC,A*,Sistemas,2017,177
+DAC,A*,Sistemas,2018,179
+DAC,A*,Sistemas,2019,240
+DAC,A*,Sistemas,2020,260
+DAC,A*,Sistemas,2021,245
+DAC,A*,Sistemas,2022,246
+DAC,A*,Sistemas,2023,322
+DAC,A*,Sistemas,2024,370
+DAC,A*,Sistemas,2025,456
+DATE,A,Sistemas,2001,157
+DATE,A,Sistemas,2002,228
+DATE,A,Sistemas,2003,268
+DATE,A,Sistemas,2004,342
+DATE,A,Sistemas,2005,297
+DATE,A,Sistemas,2006,267
+DATE,A,Sistemas,2007,292
+DATE,A,Sistemas,2008,298
+DATE,A,Sistemas,2009,317
+DATE,A,Sistemas,2010,349
+DATE,A,Sistemas,2011,321
+DATE,A,Sistemas,2012,308
+DATE,A,Sistemas,2013,361
+DATE,A,Sistemas,2014,372
+DATE,A,Sistemas,2015,321
+DATE,A,Sistemas,2016,307
+DATE,A,Sistemas,2017,337
+DATE,A,Sistemas,2018,311
+DATE,A,Sistemas,2019,329
+DATE,A,Sistemas,2020,324
+DATE,A,Sistemas,2021,358
+DATE,A,Sistemas,2022,282
+DATE,A,Sistemas,2023,324
+DATE,A,Sistemas,2024,379
+DATE,A,Sistemas,2025,425
+DIS,A,HCI,2002,58
+DIS,A,HCI,2004,56
+DIS,A,HCI,2006,50
+DIS,A,HCI,2008,50
+DIS,A,HCI,2010,72
+DIS,A,HCI,2012,104
+DIS,A,HCI,2014,118
+DIS,A,HCI,2016,122
+DIS,A,HCI,2017,122
+DIS,A,HCI,2018,114
+DIS,A,HCI,2019,125
+DIS,A,HCI,2020,164
+DIS,A,HCI,2021,153
+DIS,A,HCI,2022,131
+DIS,A,HCI,2023,173
+DIS,A,HCI,2024,222
+DIS,A,HCI,2025,219
+DISC,A,Sistemas,2001,23
+DISC,A,Sistemas,2002,24
+DISC,A,Sistemas,2003,25
+DISC,A,Sistemas,2004,32
+DISC,A,Sistemas,2005,48
+DISC,A,Sistemas,2006,49
+DISC,A,Sistemas,2007,48
+DISC,A,Sistemas,2008,44
+DISC,A,Sistemas,2009,53
+DISC,A,Sistemas,2010,50
+DISC,A,Sistemas,2011,45
+DISC,A,Sistemas,2012,51
+DISC,A,Sistemas,2013,38
+DISC,A,Sistemas,2014,53
+DISC,A,Sistemas,2015,42
+DISC,A,Sistemas,2016,32
+DISC,A,Sistemas,2017,60
+DISC,A,Sistemas,2018,53
+DISC,A,Sistemas,2019,50
+DISC,A,Sistemas,2020,55
+DISC,A,Sistemas,2021,63
+DISC,A,Sistemas,2022,53
+DISC,A,Sistemas,2023,48
+DISC,A,Sistemas,2024,56
+DISC,A,Sistemas,2025,67
+DSN,A,Sistemas,2001,55
+DSN,A,Sistemas,2002,98
+DSN,A,Sistemas,2003,84
+DSN,A,Sistemas,2004,96
+DSN,A,Sistemas,2005,95
+DSN,A,Sistemas,2006,73
+DSN,A,Sistemas,2007,92
+DSN,A,Sistemas,2008,69
+DSN,A,Sistemas,2009,76
+DSN,A,Sistemas,2010,69
+DSN,A,Sistemas,2011,59
+DSN,A,Sistemas,2012,51
+DSN,A,Sistemas,2013,72
+DSN,A,Sistemas,2014,82
+DSN,A,Sistemas,2015,54
+DSN,A,Sistemas,2016,58
+DSN,A,Sistemas,2017,55
+DSN,A,Sistemas,2018,62
+DSN,A,Sistemas,2019,54
+DSN,A,Sistemas,2020,48
+DSN,A,Sistemas,2021,49
+DSN,A,Sistemas,2022,49
+DSN,A,Sistemas,2023,48
+DSN,A,Sistemas,2024,43
+DSN,A,Sistemas,2025,56
+EACL,A,IA / ML,2003,110
+EACL,A,IA / ML,2006,92
+EACL,A,IA / ML,2009,100
+EACL,A,IA / ML,2012,115
+EACL,A,IA / ML,2014,163
+EACL,A,IA / ML,2021,326
+EACL,A,IA / ML,2023,280
+EASE,A,Ing. del Software,2006,17
+EASE,A,Ing. del Software,2007,11
+EASE,A,Ing. del Software,2008,18
+EASE,A,Ing. del Software,2009,16
+EASE,A,Ing. del Software,2010,17
+EASE,A,Ing. del Software,2011,20
+EASE,A,Ing. del Software,2012,38
+EASE,A,Ing. del Software,2013,31
+EASE,A,Ing. del Software,2014,59
+EASE,A,Ing. del Software,2015,34
+EASE,A,Ing. del Software,2016,43
+EASE,A,Ing. del Software,2017,50
+EASE,A,Ing. del Software,2018,26
+EASE,A,Ing. del Software,2019,43
+EASE,A,Ing. del Software,2020,69
+EASE,A,Ing. del Software,2021,51
+EASE,A,Ing. del Software,2022,66
+EASE,A,Ing. del Software,2023,76
+EASE,A,Ing. del Software,2024,100
+EASE,A,Ing. del Software,2025,126
+EC,A*,Teoría,2001,35
+EC,A*,Teoría,2003,70
+EC,A*,Teoría,2004,46
+EC,A*,Teoría,2005,31
+EC,A*,Teoría,2006,36
+EC,A*,Teoría,2007,49
+EC,A*,Teoría,2008,38
+EC,A*,Teoría,2009,40
+EC,A*,Teoría,2010,45
+EC,A*,Teoría,2011,49
+EC,A*,Teoría,2012,73
+EC,A*,Teoría,2013,74
+EC,A*,Teoría,2014,82
+EC,A*,Teoría,2015,72
+EC,A*,Teoría,2016,82
+EC,A*,Teoría,2017,77
+EC,A*,Teoría,2018,72
+EC,A*,Teoría,2020,99
+EC,A*,Teoría,2021,131
+EC,A*,Teoría,2022,150
+EC,A*,Teoría,2023,162
+EC,A*,Teoría,2024,204
+EC,A*,Teoría,2025,206
+ECAI,A,IA / ML,2002,140
+ECAI,A,IA / ML,2004,273
+ECAI,A,IA / ML,2006,210
+ECAI,A,IA / ML,2008,237
+ECAI,A,IA / ML,2010,238
+ECAI,A,IA / ML,2012,195
+ECAI,A,IA / ML,2014,275
+ECAI,A,IA / ML,2016,295
+ECAI,A,IA / ML,2020,408
+ECAI,A,IA / ML,2023,399
+ECAI,A,IA / ML,2024,606
+ECAI,A,IA / ML,2025,696
+ECCV,A*,IA / ML,2002,226
+ECCV,A*,IA / ML,2004,188
+ECCV,A*,IA / ML,2006,192
+ECCV,A*,IA / ML,2008,244
+ECCV,A*,IA / ML,2010,328
+ECCV,A*,IA / ML,2012,408
+ECCV,A*,IA / ML,2014,362
+ECCV,A*,IA / ML,2016,415
+ECCV,A*,IA / ML,2018,776
+ECCV,A*,IA / ML,2020,1358
+ECCV,A*,IA / ML,2022,1645
+ECCV,A*,IA / ML,2024,2386
+ECIR,A,Bases de datos,2002,23
+ECIR,A,Bases de datos,2003,49
+ECIR,A,Bases de datos,2004,30
+ECIR,A,Bases de datos,2005,53
+ECIR,A,Bases de datos,2006,69
+ECIR,A,Bases de datos,2007,85
+ECIR,A,Bases de datos,2008,87
+ECIR,A,Bases de datos,2009,94
+ECIR,A,Bases de datos,2010,76
+ECIR,A,Bases de datos,2011,95
+ECIR,A,Bases de datos,2012,72
+ECIR,A,Bases de datos,2013,110
+ECIR,A,Bases de datos,2014,105
+ECIR,A,Bases de datos,2015,100
+ECIR,A,Bases de datos,2016,89
+ECIR,A,Bases de datos,2017,80
+ECIR,A,Bases de datos,2018,83
+ECML PKDD,A,IA / ML,2001,45
+ECML PKDD,A,IA / ML,2002,43
+ECML PKDD,A,IA / ML,2003,44
+ECML PKDD,A,IA / ML,2004,64
+ECML PKDD,A,IA / ML,2005,76
+ECML PKDD,A,IA / ML,2006,67
+ECML PKDD,A,IA / ML,2007,67
+ECOOP,A,Ing. del Software,2001,21
+ECOOP,A,Ing. del Software,2002,26
+ECOOP,A,Ing. del Software,2003,21
+ECOOP,A,Ing. del Software,2004,27
+ECOOP,A,Ing. del Software,2005,26
+ECOOP,A,Ing. del Software,2006,28
+ECOOP,A,Ing. del Software,2007,28
+ECOOP,A,Ing. del Software,2008,28
+ECOOP,A,Ing. del Software,2009,29
+ECOOP,A,Ing. del Software,2010,27
+ECOOP,A,Ing. del Software,2011,29
+ECOOP,A,Ing. del Software,2012,32
+ECOOP,A,Ing. del Software,2013,29
+ECOOP,A,Ing. del Software,2014,27
+ECOOP,A,Ing. del Software,2015,35
+ECOOP,A,Ing. del Software,2016,27
+ECOOP,A,Ing. del Software,2017,31
+ECOOP,A,Ing. del Software,2018,27
+ECOOP,A,Ing. del Software,2019,29
+ECOOP,A,Ing. del Software,2020,34
+ECOOP,A,Ing. del Software,2021,23
+ECOOP,A,Ing. del Software,2022,36
+ECOOP,A,Ing. del Software,2023,45
+ECOOP,A,Ing. del Software,2024,48
+ECOOP,A,Ing. del Software,2025,43
+EMNLP,A*,IA / ML,2001,21
+EMNLP,A*,IA / ML,2002,41
+EMNLP,A*,IA / ML,2003,28
+EMNLP,A*,IA / ML,2004,56
+EMNLP,A*,IA / ML,2006,73
+EMNLP,A*,IA / ML,2008,114
+EMNLP,A*,IA / ML,2009,163
+EMNLP,A*,IA / ML,2010,125
+EMNLP,A*,IA / ML,2011,149
+EMNLP,A*,IA / ML,2013,205
+EMNLP,A*,IA / ML,2014,226
+EMNLP,A*,IA / ML,2015,312
+EMNLP,A*,IA / ML,2016,264
+EMNLP,A*,IA / ML,2017,322
+EMNLP,A*,IA / ML,2018,549
+EMNLP,A*,IA / ML,2020,752
+EMNLP,A*,IA / ML,2021,848
+EMNLP,A*,IA / ML,2022,828
+EMNLP,A*,IA / ML,2023,1048
+EMNLP,A*,IA / ML,2024,1269
+EMNLP,A*,IA / ML,2025,1809
+ER,A,Bases de datos,2001,49
+ER,A,Bases de datos,2002,41
+ER,A,Bases de datos,2003,49
+ER,A,Bases de datos,2004,75
+ER,A,Bases de datos,2005,31
+ER,A,Bases de datos,2006,52
+ER,A,Bases de datos,2007,40
+ER,A,Bases de datos,2008,54
+ER,A,Bases de datos,2009,37
+ER,A,Bases de datos,2010,39
+ER,A,Bases de datos,2011,44
+ER,A,Bases de datos,2012,49
+ER,A,Bases de datos,2013,46
+ER,A,Bases de datos,2014,40
+ER,A,Bases de datos,2015,47
+ER,A,Bases de datos,2016,43
+ER,A,Bases de datos,2017,39
+ER,A,Bases de datos,2018,46
+ER,A,Bases de datos,2019,46
+ER,A,Bases de datos,2020,44
+ER,A,Bases de datos,2021,32
+ER,A,Bases de datos,2022,30
+ER,A,Bases de datos,2023,22
+ER,A,Bases de datos,2024,22
+ER,A,Bases de datos,2025,22
+ESA,A,Teoría,2001,44
+ESA,A,Teoría,2002,78
+ESA,A,Teoría,2003,69
+ESA,A,Teoría,2004,72
+ESA,A,Teoría,2005,78
+ESA,A,Teoría,2006,73
+ESA,A,Teoría,2007,66
+ESA,A,Teoría,2008,69
+ESA,A,Teoría,2009,69
+ESA,A,Teoría,2011,67
+ESA,A,Teoría,2012,71
+ESA,A,Teoría,2013,69
+ESA,A,Teoría,2014,69
+ESA,A,Teoría,2015,86
+ESA,A,Teoría,2016,79
+ESA,A,Teoría,2017,71
+ESA,A,Teoría,2018,74
+ESA,A,Teoría,2019,84
+ESA,A,Teoría,2020,84
+ESA,A,Teoría,2021,83
+ESA,A,Teoría,2022,93
+ESA,A,Teoría,2023,105
+ESA,A,Teoría,2024,106
+ESA,A,Teoría,2025,117
+ESEM,A,Ing. del Software,2007,71
+ESEM,A,Ing. del Software,2008,62
+ESEM,A,Ing. del Software,2009,70
+ESEM,A,Ing. del Software,2010,68
+ESEM,A,Ing. del Software,2011,58
+ESEM,A,Ing. del Software,2012,45
+ESEM,A,Ing. del Software,2013,56
+ESEM,A,Ing. del Software,2014,72
+ESEM,A,Ing. del Software,2015,36
+ESEM,A,Ing. del Software,2016,58
+ESEM,A,Ing. del Software,2017,61
+ESEM,A,Ing. del Software,2018,58
+ESEM,A,Ing. del Software,2019,48
+ESEM,A,Ing. del Software,2020,43
+ESEM,A,Ing. del Software,2021,38
+ESEM,A,Ing. del Software,2022,31
+ESEM,A,Ing. del Software,2023,37
+ESEM,A,Ing. del Software,2024,66
+ESEM,A,Ing. del Software,2025,58
+ESOP,A,Ing. del Software,2001,28
+ESOP,A,Ing. del Software,2002,22
+ESOP,A,Ing. del Software,2003,27
+ESOP,A,Ing. del Software,2004,28
+ESOP,A,Ing. del Software,2005,29
+ESOP,A,Ing. del Software,2006,23
+ESOP,A,Ing. del Software,2007,35
+ESOP,A,Ing. del Software,2008,29
+ESOP,A,Ing. del Software,2009,28
+ESOP,A,Ing. del Software,2010,32
+ESOP,A,Ing. del Software,2011,25
+ESOP,A,Ing. del Software,2012,29
+ESOP,A,Ing. del Software,2013,32
+ESOP,A,Ing. del Software,2014,29
+ESOP,A,Ing. del Software,2015,33
+ESOP,A,Ing. del Software,2016,30
+ESOP,A,Ing. del Software,2017,36
+ESOP,A,Ing. del Software,2018,36
+ESOP,A,Ing. del Software,2019,28
+ESOP,A,Ing. del Software,2020,27
+ESOP,A,Ing. del Software,2021,24
+ESOP,A,Ing. del Software,2022,21
+ESOP,A,Ing. del Software,2023,20
+ESORICS,A,Seguridad,2002,16
+ESORICS,A,Seguridad,2003,19
+ESORICS,A,Seguridad,2004,27
+ESORICS,A,Seguridad,2005,28
+ESORICS,A,Seguridad,2006,32
+ESORICS,A,Seguridad,2007,40
+ESORICS,A,Seguridad,2008,37
+ESORICS,A,Seguridad,2009,42
+ESORICS,A,Seguridad,2010,42
+ESORICS,A,Seguridad,2011,36
+ESORICS,A,Seguridad,2012,50
+ESORICS,A,Seguridad,2013,43
+EuroCrypt,A*,Seguridad,2001,32
+EuroCrypt,A*,Seguridad,2002,35
+EuroCrypt,A*,Seguridad,2003,39
+EuroCrypt,A*,Seguridad,2004,36
+EuroCrypt,A*,Seguridad,2005,33
+EuroCrypt,A*,Seguridad,2006,35
+EuroCrypt,A*,Seguridad,2007,33
+EuroCrypt,A*,Seguridad,2008,31
+EuroCrypt,A*,Seguridad,2009,34
+EuroCrypt,A*,Seguridad,2010,34
+EuroCrypt,A*,Seguridad,2011,33
+EuroCrypt,A*,Seguridad,2012,43
+EuroCrypt,A*,Seguridad,2013,42
+EuroCrypt,A*,Seguridad,2014,38
+EuroS&P,A,Seguridad,2016,30
+EuroS&P,A,Seguridad,2017,39
+EuroS&P,A,Seguridad,2018,33
+EuroS&P,A,Seguridad,2019,42
+EuroS&P,A,Seguridad,2020,38
+EuroS&P,A,Seguridad,2021,48
+EuroS&P,A,Seguridad,2022,42
+EuroS&P,A,Seguridad,2023,63
+EuroS&P,A,Seguridad,2024,46
+EuroS&P,A,Seguridad,2025,60
+EuroSys,A,Sistemas,2006,29
+EuroSys,A,Sistemas,2007,29
+EuroSys,A,Sistemas,2008,24
+EuroSys,A,Sistemas,2009,25
+EuroSys,A,Sistemas,2010,27
+EuroSys,A,Sistemas,2011,24
+EuroSys,A,Sistemas,2012,27
+EuroSys,A,Sistemas,2013,28
+EuroSys,A,Sistemas,2014,27
+EuroSys,A,Sistemas,2015,32
+EuroSys,A,Sistemas,2016,38
+EuroSys,A,Sistemas,2017,41
+EuroSys,A,Sistemas,2018,43
+EuroSys,A,Sistemas,2019,45
+EuroSys,A,Sistemas,2020,43
+EuroSys,A,Sistemas,2021,38
+EuroSys,A,Sistemas,2022,45
+EuroSys,A,Sistemas,2023,54
+EuroSys,A,Sistemas,2024,71
+EuroSys,A,Sistemas,2025,85
+FAST,A,Sistemas,2002,21
+FAST,A,Sistemas,2003,20
+FAST,A,Sistemas,2004,19
+FAST,A,Sistemas,2005,26
+FAST,A,Sistemas,2007,21
+FAST,A,Sistemas,2008,21
+FAST,A,Sistemas,2009,23
+FAST,A,Sistemas,2010,21
+FAST,A,Sistemas,2011,20
+FAST,A,Sistemas,2012,26
+FAST,A,Sistemas,2013,24
+FAST,A,Sistemas,2014,24
+FAST,A,Sistemas,2015,28
+FAST,A,Sistemas,2016,27
+FAST,A,Sistemas,2017,28
+FAST,A,Sistemas,2018,23
+FAST,A,Sistemas,2019,26
+FAST,A,Sistemas,2020,23
+FAST,A,Sistemas,2021,28
+FAST,A,Sistemas,2022,29
+FAST,A,Sistemas,2023,29
+FAST,A,Sistemas,2024,22
+FAST,A,Sistemas,2025,36
+FC,A,Seguridad,2001,28
+FC,A,Seguridad,2002,20
+FC,A,Seguridad,2003,22
+FC,A,Seguridad,2004,26
+FC,A,Seguridad,2005,33
+FC,A,Seguridad,2006,25
+FC,A,Seguridad,2007,36
+FC,A,Seguridad,2008,33
+FC,A,Seguridad,2009,22
+FC,A,Seguridad,2010,43
+FC,A,Seguridad,2011,26
+FC,A,Seguridad,2012,29
+FC,A,Seguridad,2013,39
+FC,A,Seguridad,2014,31
+FC,A,Seguridad,2015,34
+FC,A,Seguridad,2016,36
+FC,A,Seguridad,2017,35
+FC,A,Seguridad,2018,29
+FC,A,Seguridad,2019,39
+FC,A,Seguridad,2020,36
+FC,A,Seguridad,2021,54
+FC,A,Seguridad,2022,36
+FC,A,Seguridad,2023,20
+FC,A,Seguridad,2025,23
+FOCS,A*,Teoría,2001,65
+FOCS,A*,Teoría,2002,80
+FOCS,A*,Teoría,2003,64
+FOCS,A*,Teoría,2004,64
+FOCS,A*,Teoría,2005,73
+FOCS,A*,Teoría,2006,71
+FOCS,A*,Teoría,2007,66
+FOCS,A*,Teoría,2008,82
+FOCS,A*,Teoría,2009,73
+FOCS,A*,Teoría,2010,82
+FOCS,A*,Teoría,2011,88
+FOCS,A*,Teoría,2012,80
+FOCS,A*,Teoría,2013,79
+FOCS,A*,Teoría,2014,68
+FOCS,A*,Teoría,2015,86
+FOCS,A*,Teoría,2016,86
+FOCS,A*,Teoría,2017,90
+FOCS,A*,Teoría,2018,87
+FOCS,A*,Teoría,2019,92
+FOCS,A*,Teoría,2020,127
+FOCS,A*,Teoría,2021,118
+FOCS,A*,Teoría,2022,110
+FOCS,A*,Teoría,2023,142
+FOCS,A*,Teoría,2024,133
+FOCS,A*,Teoría,2025,136
+FOGA,A,IA / ML,2002,23
+FOGA,A,IA / ML,2005,16
+FOGA,A,IA / ML,2007,11
+FOGA,A,IA / ML,2009,18
+FOGA,A,IA / ML,2011,21
+FOGA,A,IA / ML,2013,16
+FOGA,A,IA / ML,2015,17
+FOGA,A,IA / ML,2017,14
+FOGA,A,IA / ML,2019,15
+FOGA,A,IA / ML,2021,10
+FOGA,A,IA / ML,2023,16
+FOGA,A,IA / ML,2025,28
+FPGA,A,Sistemas,2001,24
+FPGA,A,Sistemas,2002,26
+FPGA,A,Sistemas,2003,52
+FPGA,A,Sistemas,2004,67
+FPGA,A,Sistemas,2005,64
+FPGA,A,Sistemas,2006,52
+FPGA,A,Sistemas,2007,26
+FPGA,A,Sistemas,2008,46
+FPGA,A,Sistemas,2009,64
+FPGA,A,Sistemas,2010,66
+FPGA,A,Sistemas,2011,61
+FPGA,A,Sistemas,2012,56
+FPGA,A,Sistemas,2013,70
+FPGA,A,Sistemas,2014,69
+FPGA,A,Sistemas,2015,83
+FPGA,A,Sistemas,2016,67
+FPGA,A,Sistemas,2017,62
+FPGA,A,Sistemas,2018,61
+FPGA,A,Sistemas,2019,94
+FPGA,A,Sistemas,2020,84
+FPGA,A,Sistemas,2021,50
+FPGA,A,Sistemas,2022,38
+FPGA,A,Sistemas,2023,50
+FPGA,A,Sistemas,2024,43
+FPGA,A,Sistemas,2025,45
+FSE,A*,Ing. del Software,2002,18
+FSE,A*,Ing. del Software,2004,28
+FSE,A*,Ing. del Software,2006,25
+FSE,A*,Ing. del Software,2008,35
+FSE,A*,Ing. del Software,2010,55
+FSE,A*,Ing. del Software,2011,77
+FSE,A*,Ing. del Software,2012,60
+FSE,A*,Ing. del Software,2014,105
+FSE,A*,Ing. del Software,2016,143
+GD,A,Teoría,2001,60
+GD,A,Teoría,2002,43
+GD,A,Teoría,2003,55
+GD,A,Teoría,2004,57
+GD,A,Teoría,2005,56
+GD,A,Teoría,2006,45
+GD,A,Teoría,2007,39
+GD,A,Teoría,2008,52
+GD,A,Teoría,2009,48
+GD,A,Teoría,2010,44
+GD,A,Teoría,2011,47
+GD,A,Teoría,2012,58
+GD,A,Teoría,2013,44
+GD,A,Teoría,2014,42
+GD,A,Teoría,2015,52
+GD,A,Teoría,2016,45
+GD,A,Teoría,2017,44
+GD,A,Teoría,2018,43
+GD,A,Teoría,2019,43
+GD,A,Teoría,2020,39
+GD,A,Teoría,2021,29
+GD,A,Teoría,2022,33
+GD,A,Teoría,2024,62
+GD,A,Teoría,2025,57
+GECCO,A,IA / ML,2002,230
+GECCO,A,IA / ML,2003,285
+GECCO,A,IA / ML,2005,344
+GECCO,A,IA / ML,2006,299
+GECCO,A,IA / ML,2007,419
+GECCO,A,IA / ML,2008,316
+GECCO,A,IA / ML,2009,325
+GECCO,A,IA / ML,2010,240
+GECCO,A,IA / ML,2011,263
+GECCO,A,IA / ML,2012,170
+GECCO,A,IA / ML,2013,204
+GECCO,A,IA / ML,2014,180
+GECCO,A,IA / ML,2015,182
+GECCO,A,IA / ML,2016,147
+GECCO,A,IA / ML,2017,178
+GECCO,A,IA / ML,2018,198
+GECCO,A,IA / ML,2019,176
+GECCO,A,IA / ML,2020,149
+GECCO,A,IA / ML,2021,134
+GECCO,A,IA / ML,2022,158
+GECCO,A,IA / ML,2023,183
+GECCO,A,IA / ML,2024,181
+GECCO,A,IA / ML,2025,183
+HPCA,A*,Sistemas,2001,26
+HPCA,A*,Sistemas,2002,28
+HPCA,A*,Sistemas,2003,34
+HPCA,A*,Sistemas,2004,27
+HPCA,A*,Sistemas,2005,35
+HPCA,A*,Sistemas,2006,31
+HPCA,A*,Sistemas,2007,32
+HPCA,A*,Sistemas,2008,37
+HPCA,A*,Sistemas,2009,39
+HPCA,A*,Sistemas,2010,39
+HPCA,A*,Sistemas,2011,48
+HPCA,A*,Sistemas,2012,39
+HPCA,A*,Sistemas,2013,55
+HPCA,A*,Sistemas,2014,58
+HPCA,A*,Sistemas,2015,55
+HPCA,A*,Sistemas,2016,57
+HPCA,A*,Sistemas,2017,55
+HPCA,A*,Sistemas,2018,62
+HPCA,A*,Sistemas,2019,56
+HPCA,A*,Sistemas,2020,54
+HPCA,A*,Sistemas,2021,69
+HPCA,A*,Sistemas,2022,85
+HPCA,A*,Sistemas,2023,94
+HPCA,A*,Sistemas,2024,81
+HPCA,A*,Sistemas,2025,121
+HPDC,A,Sistemas,2001,48
+HPDC,A,Sistemas,2002,55
+HPDC,A,Sistemas,2003,25
+HPDC,A,Sistemas,2004,36
+HPDC,A,Sistemas,2005,46
+HPDC,A,Sistemas,2006,59
+HPDC,A,Sistemas,2007,38
+HPDC,A,Sistemas,2008,35
+HPDC,A,Sistemas,2009,27
+HPDC,A,Sistemas,2010,106
+HPDC,A,Sistemas,2011,34
+HPDC,A,Sistemas,2012,32
+HPDC,A,Sistemas,2013,31
+HPDC,A,Sistemas,2014,34
+HPDC,A,Sistemas,2015,32
+HPDC,A,Sistemas,2016,31
+HPDC,A,Sistemas,2017,23
+HPDC,A,Sistemas,2018,25
+HPDC,A,Sistemas,2019,30
+HPDC,A,Sistemas,2020,24
+HPDC,A,Sistemas,2021,28
+HPDC,A,Sistemas,2022,36
+HPDC,A,Sistemas,2023,37
+HPDC,A,Sistemas,2024,47
+HPDC,A,Sistemas,2025,52
+HRI,A*,HCI,2006,64
+HRI,A*,HCI,2007,48
+HRI,A*,HCI,2008,52
+HRI,A*,HCI,2009,96
+HRI,A*,HCI,2010,113
+HRI,A*,HCI,2011,152
+HRI,A*,HCI,2012,145
+HRI,A*,HCI,2013,143
+HRI,A*,HCI,2014,173
+HRI,A*,HCI,2015,46
+HRI,A*,HCI,2016,173
+HRI,A*,HCI,2017,54
+HRI,A*,HCI,2018,52
+HRI,A*,HCI,2019,188
+HRI,A*,HCI,2020,69
+HRI,A*,HCI,2021,45
+HRI,A*,HCI,2022,230
+HRI,A*,HCI,2023,65
+HRI,A*,HCI,2024,109
+HRI,A*,HCI,2025,329
+HotOS,A,Sistemas,2001,54
+HotOS,A,Sistemas,2003,31
+HotOS,A,Sistemas,2005,26
+HotOS,A,Sistemas,2007,21
+HotOS,A,Sistemas,2009,22
+HotOS,A,Sistemas,2011,33
+HotOS,A,Sistemas,2013,27
+HotOS,A,Sistemas,2015,29
+HotOS,A,Sistemas,2017,29
+HotOS,A,Sistemas,2019,30
+HotOS,A,Sistemas,2021,34
+HotOS,A,Sistemas,2023,29
+HotOS,A,Sistemas,2025,29
+ICALP,A*,Teoría,2001,86
+ICALP,A*,Teoría,2002,90
+ICALP,A*,Teoría,2003,90
+ICALP,A*,Teoría,2004,102
+ICALP,A*,Teoría,2005,118
+ICALP,A*,Teoría,2007,81
+ICALP,A*,Teoría,2016,151
+ICALP,A*,Teoría,2017,142
+ICALP,A*,Teoría,2018,166
+ICALP,A*,Teoría,2019,152
+ICALP,A*,Teoría,2020,142
+ICALP,A*,Teoría,2021,144
+ICALP,A*,Teoría,2022,134
+ICALP,A*,Teoría,2023,138
+ICALP,A*,Teoría,2024,158
+ICALP,A*,Teoría,2025,173
+ICAPS,A*,IA / ML,2003,30
+ICAPS,A*,IA / ML,2004,43
+ICAPS,A*,IA / ML,2005,33
+ICAPS,A*,IA / ML,2006,61
+ICAPS,A*,IA / ML,2007,45
+ICAPS,A*,IA / ML,2008,51
+ICAPS,A*,IA / ML,2009,55
+ICAPS,A*,IA / ML,2010,42
+ICAPS,A*,IA / ML,2011,50
+ICAPS,A*,IA / ML,2012,50
+ICAPS,A*,IA / ML,2013,71
+ICAPS,A*,IA / ML,2014,74
+ICAPS,A*,IA / ML,2015,50
+ICAPS,A*,IA / ML,2016,64
+ICAPS,A*,IA / ML,2017,71
+ICAPS,A*,IA / ML,2018,65
+ICAPS,A*,IA / ML,2019,91
+ICAPS,A*,IA / ML,2020,69
+ICAPS,A*,IA / ML,2021,77
+ICAPS,A*,IA / ML,2022,86
+ICAPS,A*,IA / ML,2023,80
+ICCAD,A,Sistemas,2001,101
+ICCAD,A,Sistemas,2002,117
+ICCAD,A,Sistemas,2003,136
+ICCAD,A,Sistemas,2004,135
+ICCAD,A,Sistemas,2005,147
+ICCAD,A,Sistemas,2006,145
+ICCAD,A,Sistemas,2007,142
+ICCAD,A,Sistemas,2008,136
+ICCAD,A,Sistemas,2009,121
+ICCAD,A,Sistemas,2010,133
+ICCAD,A,Sistemas,2011,126
+ICCAD,A,Sistemas,2012,120
+ICCAD,A,Sistemas,2013,120
+ICCAD,A,Sistemas,2014,115
+ICCAD,A,Sistemas,2015,131
+ICCAD,A,Sistemas,2016,133
+ICCAD,A,Sistemas,2017,148
+ICCAD,A,Sistemas,2018,135
+ICCAD,A,Sistemas,2019,133
+ICCAD,A,Sistemas,2020,170
+ICCAD,A,Sistemas,2021,153
+ICCAD,A,Sistemas,2022,164
+ICCAD,A,Sistemas,2023,200
+ICCAD,A,Sistemas,2024,239
+ICCAD,A,Sistemas,2025,311
+ICCV,A*,IA / ML,2001,219
+ICCV,A*,IA / ML,2003,199
+ICCV,A*,IA / ML,2005,247
+ICCV,A*,IA / ML,2007,389
+ICCV,A*,IA / ML,2009,308
+ICCV,A*,IA / ML,2011,339
+ICCV,A*,IA / ML,2013,454
+ICCV,A*,IA / ML,2015,526
+ICCV,A*,IA / ML,2017,621
+ICCV,A*,IA / ML,2019,1075
+ICCV,A*,IA / ML,2021,1611
+ICCV,A*,IA / ML,2023,2156
+ICDAR,A,IA / ML,2001,238
+ICDAR,A,IA / ML,2003,234
+ICDAR,A,IA / ML,2005,256
+ICDAR,A,IA / ML,2007,252
+ICDAR,A,IA / ML,2009,283
+ICDAR,A,IA / ML,2011,298
+ICDAR,A,IA / ML,2013,285
+ICDAR,A,IA / ML,2015,253
+ICDAR,A,IA / ML,2017,229
+ICDAR,A,IA / ML,2019,243
+ICDCS,A,Sistemas,2001,88
+ICDCS,A,Sistemas,2002,78
+ICDCS,A,Sistemas,2003,75
+ICDCS,A,Sistemas,2004,84
+ICDCS,A,Sistemas,2005,82
+ICDCS,A,Sistemas,2006,80
+ICDCS,A,Sistemas,2007,70
+ICDCS,A,Sistemas,2008,105
+ICDCS,A,Sistemas,2009,77
+ICDCS,A,Sistemas,2010,84
+ICDCS,A,Sistemas,2011,87
+ICDCS,A,Sistemas,2012,70
+ICDCS,A,Sistemas,2013,61
+ICDCS,A,Sistemas,2014,66
+ICDCS,A,Sistemas,2015,110
+ICDCS,A,Sistemas,2016,101
+ICDCS,A,Sistemas,2017,323
+ICDCS,A,Sistemas,2018,176
+ICDCS,A,Sistemas,2019,211
+ICDCS,A,Sistemas,2020,165
+ICDCS,A,Sistemas,2021,120
+ICDCS,A,Sistemas,2022,144
+ICDCS,A,Sistemas,2023,136
+ICDCS,A,Sistemas,2024,151
+ICDCS,A,Sistemas,2025,103
+ICDE,A*,Bases de datos,2001,74
+ICDE,A*,Bases de datos,2002,97
+ICDE,A*,Bases de datos,2003,111
+ICDE,A*,Bases de datos,2004,124
+ICDE,A*,Bases de datos,2005,153
+ICDE,A*,Bases de datos,2006,176
+ICDE,A*,Bases de datos,2007,208
+ICDE,A*,Bases de datos,2008,239
+ICDE,A*,Bases de datos,2009,222
+ICDE,A*,Bases de datos,2010,158
+ICDE,A*,Bases de datos,2011,139
+ICDE,A*,Bases de datos,2012,147
+ICDE,A*,Bases de datos,2013,142
+ICDE,A*,Bases de datos,2014,135
+ICDE,A*,Bases de datos,2015,164
+ICDE,A*,Bases de datos,2016,212
+ICDE,A*,Bases de datos,2017,233
+ICDE,A*,Bases de datos,2018,263
+ICDE,A*,Bases de datos,2019,268
+ICDE,A*,Bases de datos,2020,241
+ICDE,A*,Bases de datos,2021,313
+ICDE,A*,Bases de datos,2022,320
+ICDE,A*,Bases de datos,2023,386
+ICDE,A*,Bases de datos,2024,501
+ICDE,A*,Bases de datos,2025,398
+ICDM,A*,Bases de datos,2001,109
+ICDM,A*,Bases de datos,2002,121
+ICDM,A*,Bases de datos,2003,127
+ICDM,A*,Bases de datos,2004,105
+ICDM,A*,Bases de datos,2005,150
+ICDM,A*,Bases de datos,2006,154
+ICDM,A*,Bases de datos,2007,101
+ICDM,A*,Bases de datos,2008,144
+ICDM,A*,Bases de datos,2009,139
+ICDM,A*,Bases de datos,2010,162
+ICDM,A*,Bases de datos,2011,148
+ICDM,A*,Bases de datos,2012,151
+ICDM,A*,Bases de datos,2013,159
+ICDM,A*,Bases de datos,2014,143
+ICDM,A*,Bases de datos,2015,146
+ICDM,A*,Bases de datos,2016,178
+ICDM,A*,Bases de datos,2017,156
+ICDM,A*,Bases de datos,2018,196
+ICDM,A*,Bases de datos,2019,196
+ICDM,A*,Bases de datos,2020,182
+ICDM,A*,Bases de datos,2021,197
+ICDM,A*,Bases de datos,2022,171
+ICDM,A*,Bases de datos,2023,203
+ICDM,A*,Bases de datos,2024,116
+ICDM,A*,Bases de datos,2025,180
+ICDT,A,Bases de datos,2001,28
+ICDT,A,Bases de datos,2003,29
+ICDT,A,Bases de datos,2005,27
+ICDT,A,Bases de datos,2007,28
+ICDT,A,Bases de datos,2009,27
+ICDT,A,Bases de datos,2010,23
+ICDT,A,Bases de datos,2011,25
+ICDT,A,Bases de datos,2012,23
+ICDT,A,Bases de datos,2013,25
+ICDT,A,Bases de datos,2014,27
+ICDT,A,Bases de datos,2015,26
+ICDT,A,Bases de datos,2016,24
+ICDT,A,Bases de datos,2017,23
+ICDT,A,Bases de datos,2018,21
+ICDT,A,Bases de datos,2019,25
+ICDT,A,Bases de datos,2020,26
+ICDT,A,Bases de datos,2021,23
+ICDT,A,Bases de datos,2022,20
+ICDT,A,Bases de datos,2023,25
+ICDT,A,Bases de datos,2024,26
+ICDT,A,Bases de datos,2025,37
+ICER,A,HCI,2005,16
+ICER,A,HCI,2006,13
+ICER,A,HCI,2007,14
+ICER,A,HCI,2008,17
+ICER,A,HCI,2009,14
+ICER,A,HCI,2010,13
+ICER,A,HCI,2011,24
+ICER,A,HCI,2012,29
+ICER,A,HCI,2013,33
+ICER,A,HCI,2014,36
+ICER,A,HCI,2015,46
+ICER,A,HCI,2016,45
+ICER,A,HCI,2017,50
+ICER,A,HCI,2018,48
+ICER,A,HCI,2019,65
+ICER,A,HCI,2020,60
+ICER,A,HCI,2021,60
+ICFP,A,Ing. del Software,2001,24
+ICFP,A,Ing. del Software,2002,27
+ICFP,A,Ing. del Software,2003,27
+ICFP,A,Ing. del Software,2004,25
+ICFP,A,Ing. del Software,2005,29
+ICFP,A,Ing. del Software,2006,27
+ICFP,A,Ing. del Software,2007,34
+ICFP,A,Ing. del Software,2008,39
+ICFP,A,Ing. del Software,2009,35
+ICFP,A,Ing. del Software,2010,36
+ICFP,A,Ing. del Software,2011,40
+ICFP,A,Ing. del Software,2012,35
+ICFP,A,Ing. del Software,2013,42
+ICFP,A,Ing. del Software,2014,31
+ICFP,A,Ing. del Software,2015,37
+ICFP,A,Ing. del Software,2016,40
+ICLR,A*,IA / ML,2017,15
+ICLR,A*,IA / ML,2018,24
+ICLR,A*,IA / ML,2019,24
+ICLR,A*,IA / ML,2020,687
+ICLR,A*,IA / ML,2021,860
+ICLR,A*,IA / ML,2022,1094
+ICLR,A*,IA / ML,2023,1573
+ICLR,A*,IA / ML,2024,2260
+ICLR,A*,IA / ML,2025,3704
+ICME,A,IA / ML,2001,311
+ICME,A,IA / ML,2003,589
+ICME,A,IA / ML,2004,564
+ICME,A,IA / ML,2005,396
+ICME,A,IA / ML,2006,547
+ICME,A,IA / ML,2007,582
+ICME,A,IA / ML,2008,407
+ICME,A,IA / ML,2009,467
+ICME,A,IA / ML,2010,300
+ICME,A,IA / ML,2011,416
+ICME,A,IA / ML,2012,187
+ICME,A,IA / ML,2013,220
+ICME,A,IA / ML,2014,211
+ICME,A,IA / ML,2015,155
+ICME,A,IA / ML,2016,145
+ICME,A,IA / ML,2017,256
+ICME,A,IA / ML,2018,173
+ICME,A,IA / ML,2019,313
+ICME,A,IA / ML,2020,241
+ICME,A,IA / ML,2021,397
+ICME,A,IA / ML,2022,377
+ICME,A,IA / ML,2023,475
+ICME,A,IA / ML,2024,661
+ICME,A,IA / ML,2025,994
+ICML,A*,IA / ML,2001,80
+ICML,A*,IA / ML,2002,87
+ICML,A*,IA / ML,2003,117
+ICML,A*,IA / ML,2004,117
+ICML,A*,IA / ML,2005,134
+ICML,A*,IA / ML,2006,140
+ICML,A*,IA / ML,2007,150
+ICML,A*,IA / ML,2008,157
+ICML,A*,IA / ML,2009,180
+ICML,A*,IA / ML,2010,159
+ICML,A*,IA / ML,2011,152
+ICML,A*,IA / ML,2012,243
+ICML,A*,IA / ML,2014,310
+ICML,A*,IA / ML,2015,270
+ICML,A*,IA / ML,2016,322
+ICML,A*,IA / ML,2017,434
+ICML,A*,IA / ML,2018,621
+ICML,A*,IA / ML,2019,774
+ICML,A*,IA / ML,2020,1085
+ICML,A*,IA / ML,2021,1183
+ICML,A*,IA / ML,2022,1234
+ICML,A*,IA / ML,2023,1828
+ICML,A*,IA / ML,2024,2610
+ICML,A*,IA / ML,2025,3257
+ICPC,A,Ing. del Software,2006,43
+ICPC,A,Ing. del Software,2007,33
+ICPC,A,Ing. del Software,2008,36
+ICPC,A,Ing. del Software,2009,56
+ICPC,A,Ing. del Software,2010,42
+ICPC,A,Ing. del Software,2011,47
+ICPC,A,Ing. del Software,2012,38
+ICPC,A,Ing. del Software,2013,31
+ICPC,A,Ing. del Software,2014,43
+ICPC,A,Ing. del Software,2015,39
+ICPC,A,Ing. del Software,2016,45
+ICPC,A,Ing. del Software,2017,41
+ICPC,A,Ing. del Software,2018,48
+ICPC,A,Ing. del Software,2019,43
+ICPC,A,Ing. del Software,2020,50
+ICPC,A,Ing. del Software,2021,49
+ICPC,A,Ing. del Software,2022,68
+ICPC,A,Ing. del Software,2023,38
+ICPC,A,Ing. del Software,2024,46
+ICPC,A,Ing. del Software,2025,59
+ICRA,A*,IA / ML,2001,678
+ICRA,A*,IA / ML,2002,689
+ICRA,A*,IA / ML,2003,714
+ICRA,A*,IA / ML,2004,854
+ICRA,A*,IA / ML,2005,768
+ICRA,A*,IA / ML,2006,680
+ICRA,A*,IA / ML,2007,807
+ICRA,A*,IA / ML,2008,664
+ICRA,A*,IA / ML,2009,712
+ICRA,A*,IA / ML,2010,874
+ICRA,A*,IA / ML,2011,1017
+ICRA,A*,IA / ML,2012,836
+ICRA,A*,IA / ML,2013,873
+ICRA,A*,IA / ML,2014,1037
+ICRA,A*,IA / ML,2015,940
+ICRA,A*,IA / ML,2016,693
+ICRA,A*,IA / ML,2017,795
+ICRA,A*,IA / ML,2018,817
+ICRA,A*,IA / ML,2019,1024
+ICRA,A*,IA / ML,2020,1073
+ICRA,A*,IA / ML,2021,1386
+ICRA,A*,IA / ML,2022,929
+ICRA,A*,IA / ML,2023,1341
+ICRA,A*,IA / ML,2024,1760
+ICRA,A*,IA / ML,2025,1604
+ICS,A,Sistemas,2001,45
+ICS,A,Sistemas,2002,34
+ICS,A,Sistemas,2003,37
+ICS,A,Sistemas,2004,35
+ICS,A,Sistemas,2005,42
+ICS,A,Sistemas,2006,39
+ICS,A,Sistemas,2007,31
+ICS,A,Sistemas,2008,40
+ICS,A,Sistemas,2009,68
+ICS,A,Sistemas,2010,35
+ICS,A,Sistemas,2011,52
+ICS,A,Sistemas,2012,38
+ICS,A,Sistemas,2013,66
+ICS,A,Sistemas,2014,45
+ICS,A,Sistemas,2015,43
+ICS,A,Sistemas,2016,43
+ICS,A,Sistemas,2017,28
+ICS,A,Sistemas,2018,36
+ICS,A,Sistemas,2019,45
+ICS,A,Sistemas,2020,42
+ICS,A,Sistemas,2021,39
+ICS,A,Sistemas,2022,39
+ICS,A,Sistemas,2023,40
+ICS,A,Sistemas,2024,45
+ICS,A,Sistemas,2025,83
+ICSA,A,Ing. del Software,2017,34
+ICSA,A,Ing. del Software,2018,23
+ICSA,A,Ing. del Software,2019,22
+ICSA,A,Ing. del Software,2020,19
+ICSA,A,Ing. del Software,2021,16
+ICSA,A,Ing. del Software,2022,17
+ICSA,A,Ing. del Software,2023,16
+ICSA,A,Ing. del Software,2024,18
+ICSA,A,Ing. del Software,2025,28
+ICSE,A*,Ing. del Software,2001,134
+ICSE,A*,Ing. del Software,2002,111
+ICSE,A*,Ing. del Software,2003,124
+ICSE,A*,Ing. del Software,2004,126
+ICSE,A*,Ing. del Software,2005,152
+ICSE,A*,Ing. del Software,2006,188
+ICSE,A*,Ing. del Software,2007,89
+ICSE,A*,Ing. del Software,2008,103
+ICSE,A*,Ing. del Software,2009,70
+ICSE,A*,Ing. del Software,2011,214
+ICSE,A*,Ing. del Software,2012,239
+ICSE,A*,Ing. del Software,2013,242
+ICSE,A*,Ing. del Software,2014,99
+ICSE,A*,Ing. del Software,2016,101
+ICSE,A*,Ing. del Software,2017,68
+ICSE,A*,Ing. del Software,2018,153
+ICSE,A*,Ing. del Software,2019,109
+ICSE,A*,Ing. del Software,2020,129
+ICSE,A*,Ing. del Software,2021,138
+ICSE,A*,Ing. del Software,2022,199
+ICSE,A*,Ing. del Software,2023,211
+ICSE,A*,Ing. del Software,2024,237
+ICSE,A*,Ing. del Software,2025,245
+ICSME,A,Ing. del Software,2001,91
+ICSME,A,Ing. del Software,2002,86
+ICSME,A,Ing. del Software,2003,59
+ICSME,A,Ing. del Software,2004,83
+ICSME,A,Ing. del Software,2005,96
+ICSME,A,Ing. del Software,2006,70
+ICSME,A,Ing. del Software,2007,74
+ICSME,A,Ing. del Software,2008,68
+ICSME,A,Ing. del Software,2009,89
+ICSME,A,Ing. del Software,2010,85
+ICSME,A,Ing. del Software,2011,79
+ICSME,A,Ing. del Software,2012,84
+ICSME,A,Ing. del Software,2013,92
+ICSME,A,Ing. del Software,2014,104
+ICSME,A,Ing. del Software,2015,79
+ICSME,A,Ing. del Software,2016,88
+ICSME,A,Ing. del Software,2017,78
+ICSME,A,Ing. del Software,2018,86
+ICSME,A,Ing. del Software,2019,95
+ICSME,A,Ing. del Software,2020,106
+ICSME,A,Ing. del Software,2021,78
+ICSME,A,Ing. del Software,2022,77
+ICSME,A,Ing. del Software,2023,70
+ICSME,A,Ing. del Software,2024,89
+ICSME,A,Ing. del Software,2025,102
+ICSOC,A,Ing. del Software,2003,38
+ICSOC,A,Ing. del Software,2004,36
+ICSOC,A,Ing. del Software,2005,54
+ICSOC,A,Ing. del Software,2006,61
+ICSOC,A,Ing. del Software,2007,60
+ICSOC,A,Ing. del Software,2008,68
+ICSOC,A,Ing. del Software,2010,79
+ICSOC,A,Ing. del Software,2011,54
+ICSOC,A,Ing. del Software,2012,62
+ICSOC,A,Ing. del Software,2013,65
+ICSOC,A,Ing. del Software,2014,51
+ICSOC,A,Ing. del Software,2015,37
+ICSOC,A,Ing. del Software,2016,58
+ICSOC,A,Ing. del Software,2017,53
+ICSOC,A,Ing. del Software,2018,63
+ICSOC,A,Ing. del Software,2019,42
+ICSOC,A,Ing. del Software,2020,42
+ICSOC,A,Ing. del Software,2021,67
+ICSOC,A,Ing. del Software,2022,48
+ICST,A,Ing. del Software,2008,63
+ICST,A,Ing. del Software,2009,47
+ICST,A,Ing. del Software,2010,59
+ICST,A,Ing. del Software,2011,51
+ICST,A,Ing. del Software,2012,127
+ICST,A,Ing. del Software,2013,71
+ICST,A,Ing. del Software,2014,40
+ICST,A,Ing. del Software,2015,60
+ICST,A,Ing. del Software,2016,47
+ICST,A,Ing. del Software,2017,67
+ICST,A,Ing. del Software,2018,47
+ICST,A,Ing. del Software,2019,53
+ICST,A,Ing. del Software,2020,54
+ICST,A,Ing. del Software,2021,51
+ICST,A,Ing. del Software,2022,55
+ICST,A,Ing. del Software,2023,54
+ICST,A,Ing. del Software,2024,49
+ICST,A,Ing. del Software,2025,101
+ICWS,A,Redes,2003,83
+ICWS,A,Redes,2004,124
+ICWS,A,Redes,2005,137
+ICWS,A,Redes,2006,144
+ICWS,A,Redes,2007,189
+ICWS,A,Redes,2008,139
+ICWS,A,Redes,2009,143
+ICWS,A,Redes,2010,103
+ICWS,A,Redes,2011,116
+ICWS,A,Redes,2012,110
+ICWS,A,Redes,2013,85
+ICWS,A,Redes,2014,105
+ICWS,A,Redes,2015,102
+ICWS,A,Redes,2016,102
+ICWS,A,Redes,2017,126
+ICWS,A,Redes,2018,59
+ICWS,A,Redes,2019,70
+ICWS,A,Redes,2020,74
+ICWS,A,Redes,2021,91
+ICWS,A,Redes,2022,54
+ICWS,A,Redes,2023,93
+ICWS,A,Redes,2024,165
+ICWS,A,Redes,2025,128
+ICWSM,A,IA / ML,2007,72
+ICWSM,A,IA / ML,2008,52
+ICWSM,A,IA / ML,2009,74
+ICWSM,A,IA / ML,2010,72
+ICWSM,A,IA / ML,2011,116
+ICWSM,A,IA / ML,2012,110
+ICWSM,A,IA / ML,2013,98
+ICWSM,A,IA / ML,2014,82
+ICWSM,A,IA / ML,2015,97
+ICWSM,A,IA / ML,2016,117
+ICWSM,A,IA / ML,2017,118
+ICWSM,A,IA / ML,2018,100
+ICWSM,A,IA / ML,2019,68
+ICWSM,A,IA / ML,2020,99
+ICWSM,A,IA / ML,2021,102
+ICWSM,A,IA / ML,2022,136
+ICWSM,A,IA / ML,2023,108
+ICWSM,A,IA / ML,2024,161
+ICWSM,A,IA / ML,2025,170
+IEEE VIS,A,HCI,2001,74
+IEEE VIS,A,HCI,2002,78
+IEEE VIS,A,HCI,2003,80
+IEEE VIS,A,HCI,2004,111
+IEEE VIS,A,HCI,2005,134
+IJCAI,A*,IA / ML,2001,200
+IJCAI,A*,IA / ML,2003,296
+IJCAI,A*,IA / ML,2005,350
+IJCAI,A*,IA / ML,2007,479
+IJCAI,A*,IA / ML,2009,344
+IJCAI,A*,IA / ML,2011,490
+IJCAI,A*,IA / ML,2013,496
+IJCAI,A*,IA / ML,2015,649
+IJCAI,A*,IA / ML,2016,658
+IJCAI,A*,IA / ML,2017,781
+IJCAI,A*,IA / ML,2018,870
+IJCAI,A*,IA / ML,2019,977
+IJCAI,A*,IA / ML,2020,778
+IJCAI,A*,IA / ML,2021,721
+IJCAI,A*,IA / ML,2022,863
+IJCAI,A*,IA / ML,2023,846
+IJCAI,A*,IA / ML,2024,1048
+IJCAI,A*,IA / ML,2025,1280
+IJCAR,A,Teoría,2001,59
+IJCAR,A,Teoría,2004,36
+IJCAR,A,Teoría,2006,53
+IJCAR,A,Teoría,2008,44
+IJCAR,A,Teoría,2010,43
+IJCAR,A,Teoría,2012,44
+IJCAR,A,Teoría,2014,40
+IJCAR,A,Teoría,2016,38
+IJCAR,A,Teoría,2018,46
+IJCAR,A,Teoría,2022,43
+IMC,A,Redes,2022,76
+IMC,A,Redes,2023,63
+IMC,A,Redes,2024,84
+IMC,A,Redes,2025,99
+INFOCOM,A*,Redes,2001,192
+INFOCOM,A*,Redes,2002,195
+INFOCOM,A*,Redes,2003,224
+INFOCOM,A*,Redes,2004,261
+INFOCOM,A*,Redes,2005,270
+INFOCOM,A*,Redes,2006,346
+INFOCOM,A*,Redes,2007,320
+INFOCOM,A*,Redes,2008,311
+INFOCOM,A*,Redes,2009,378
+INFOCOM,A*,Redes,2010,378
+INFOCOM,A*,Redes,2011,417
+INFOCOM,A*,Redes,2012,397
+INFOCOM,A*,Redes,2013,470
+INFOCOM,A*,Redes,2014,319
+INFOCOM,A*,Redes,2015,315
+INFOCOM,A*,Redes,2016,300
+INFOCOM,A*,Redes,2017,291
+INFOCOM,A*,Redes,2018,308
+INFOCOM,A*,Redes,2019,289
+INFOCOM,A*,Redes,2020,267
+INFOCOM,A*,Redes,2021,251
+INFOCOM,A*,Redes,2022,224
+INFOCOM,A*,Redes,2023,251
+INFOCOM,A*,Redes,2024,256
+INFOCOM,A*,Redes,2025,272
+IPDPS,A,Sistemas,2001,285
+IPDPS,A,Sistemas,2002,351
+IPDPS,A,Sistemas,2003,446
+IPDPS,A,Sistemas,2004,414
+IPDPS,A,Sistemas,2005,438
+IPDPS,A,Sistemas,2006,468
+IPDPS,A,Sistemas,2007,456
+IPDPS,A,Sistemas,2008,485
+IPDPS,A,Sistemas,2009,371
+IPDPS,A,Sistemas,2010,136
+IPDPS,A,Sistemas,2011,118
+IPDPS,A,Sistemas,2012,121
+IPDPS,A,Sistemas,2013,113
+IPDPS,A,Sistemas,2014,117
+IPDPS,A,Sistemas,2015,112
+IPDPS,A,Sistemas,2016,117
+IPDPS,A,Sistemas,2017,120
+IPDPS,A,Sistemas,2018,116
+IPDPS,A,Sistemas,2019,106
+IPDPS,A,Sistemas,2020,110
+IPDPS,A,Sistemas,2021,109
+IPDPS,A,Sistemas,2022,126
+IPDPS,A,Sistemas,2023,95
+IPDPS,A,Sistemas,2024,88
+IPDPS,A,Sistemas,2025,110
+IROS,A,IA / ML,2001,379
+IROS,A,IA / ML,2002,499
+IROS,A,IA / ML,2003,620
+IROS,A,IA / ML,2004,660
+IROS,A,IA / ML,2005,663
+IROS,A,IA / ML,2006,1006
+IROS,A,IA / ML,2007,688
+IROS,A,IA / ML,2008,687
+IROS,A,IA / ML,2009,949
+IROS,A,IA / ML,2010,993
+IROS,A,IA / ML,2011,787
+IROS,A,IA / ML,2012,854
+IROS,A,IA / ML,2013,913
+IROS,A,IA / ML,2014,749
+IROS,A,IA / ML,2015,970
+IROS,A,IA / ML,2016,830
+IROS,A,IA / ML,2017,878
+IROS,A,IA / ML,2018,1086
+IROS,A,IA / ML,2019,934
+IROS,A,IA / ML,2020,1128
+IROS,A,IA / ML,2021,1032
+IROS,A,IA / ML,2022,1214
+IROS,A,IA / ML,2023,1196
+IROS,A,IA / ML,2024,1581
+IROS,A,IA / ML,2025,1985
+ISCA,A*,Sistemas,2001,24
+ISCA,A*,Sistemas,2002,27
+ISCA,A*,Sistemas,2003,37
+ISCA,A*,Sistemas,2004,31
+ISCA,A*,Sistemas,2005,45
+ISCA,A*,Sistemas,2006,38
+ISCA,A*,Sistemas,2007,46
+ISCA,A*,Sistemas,2008,37
+ISCA,A*,Sistemas,2009,45
+ISCA,A*,Sistemas,2010,48
+ISCA,A*,Sistemas,2011,40
+ISCA,A*,Sistemas,2012,47
+ISCA,A*,Sistemas,2013,56
+ISCA,A*,Sistemas,2014,46
+ISCA,A*,Sistemas,2015,58
+ISCA,A*,Sistemas,2016,57
+ISCA,A*,Sistemas,2017,54
+ISCA,A*,Sistemas,2018,64
+ISCA,A*,Sistemas,2019,62
+ISCA,A*,Sistemas,2020,82
+ISCA,A*,Sistemas,2021,81
+ISCA,A*,Sistemas,2022,73
+ISCA,A*,Sistemas,2023,84
+ISCA,A*,Sistemas,2024,87
+ISCA,A*,Sistemas,2025,135
+ISLPED,A,Sistemas,2001,75
+ISLPED,A,Sistemas,2002,66
+ISLPED,A,Sistemas,2003,95
+ISLPED,A,Sistemas,2004,74
+ISLPED,A,Sistemas,2005,75
+ISLPED,A,Sistemas,2006,82
+ISLPED,A,Sistemas,2007,78
+ISLPED,A,Sistemas,2008,79
+ISLPED,A,Sistemas,2009,89
+ISLPED,A,Sistemas,2010,79
+ISLPED,A,Sistemas,2011,77
+ISLPED,A,Sistemas,2012,75
+ISLPED,A,Sistemas,2013,79
+ISLPED,A,Sistemas,2014,74
+ISLPED,A,Sistemas,2015,67
+ISLPED,A,Sistemas,2016,68
+ISLPED,A,Sistemas,2017,63
+ISLPED,A,Sistemas,2018,54
+ISLPED,A,Sistemas,2019,57
+ISLPED,A,Sistemas,2020,42
+ISLPED,A,Sistemas,2021,38
+ISLPED,A,Sistemas,2022,32
+ISLPED,A,Sistemas,2023,54
+ISLPED,A,Sistemas,2024,62
+ISLPED,A,Sistemas,2025,71
+ISMAR,A*,HCI,2002,53
+ISMAR,A*,HCI,2003,78
+ISMAR,A*,HCI,2004,56
+ISMAR,A*,HCI,2005,57
+ISMAR,A*,HCI,2006,48
+ISMAR,A*,HCI,2007,52
+ISMAR,A*,HCI,2008,48
+ISMAR,A*,HCI,2009,63
+ISMAR,A*,HCI,2010,73
+ISMAR,A*,HCI,2011,69
+ISMAR,A*,HCI,2012,72
+ISMAR,A*,HCI,2013,93
+ISMAR,A*,HCI,2014,119
+ISMAR,A*,HCI,2015,64
+ISMAR,A*,HCI,2016,16
+ISMAR,A*,HCI,2017,17
+ISMAR,A*,HCI,2018,18
+ISMAR,A*,HCI,2019,36
+ISMAR,A*,HCI,2020,72
+ISMAR,A*,HCI,2021,56
+ISMAR,A*,HCI,2022,95
+ISMAR,A*,HCI,2023,130
+ISMAR,A*,HCI,2024,133
+ISMAR,A*,HCI,2025,160
+ISMB,A,Bioinformática,2002,43
+ISMB,A,Bioinformática,2008,50
+ISSRE,A,Ing. del Software,2001,38
+ISSRE,A,Ing. del Software,2002,33
+ISSRE,A,Ing. del Software,2003,42
+ISSRE,A,Ing. del Software,2004,39
+ISSRE,A,Ing. del Software,2005,42
+ISSRE,A,Ing. del Software,2006,41
+ISSRE,A,Ing. del Software,2007,26
+ISSRE,A,Ing. del Software,2008,58
+ISSRE,A,Ing. del Software,2009,21
+ISSRE,A,Ing. del Software,2010,42
+ISSRE,A,Ing. del Software,2011,27
+ISSRE,A,Ing. del Software,2012,38
+ISSRE,A,Ing. del Software,2013,47
+ISSRE,A,Ing. del Software,2014,31
+ISSRE,A,Ing. del Software,2015,55
+ISSRE,A,Ing. del Software,2016,45
+ISSRE,A,Ing. del Software,2017,34
+ISSRE,A,Ing. del Software,2018,23
+ISSRE,A,Ing. del Software,2019,42
+ISSRE,A,Ing. del Software,2020,38
+ISSRE,A,Ing. del Software,2021,52
+ISSRE,A,Ing. del Software,2022,49
+ISSRE,A,Ing. del Software,2023,70
+ISSRE,A,Ing. del Software,2024,53
+ISSRE,A,Ing. del Software,2025,47
+ISSTA,A,Ing. del Software,2002,31
+ISSTA,A,Ing. del Software,2004,28
+ISSTA,A,Ing. del Software,2006,23
+ISSTA,A,Ing. del Software,2007,24
+ISSTA,A,Ing. del Software,2008,33
+ISSTA,A,Ing. del Software,2009,25
+ISSTA,A,Ing. del Software,2010,26
+ISSTA,A,Ing. del Software,2011,35
+ISSTA,A,Ing. del Software,2012,31
+ISSTA,A,Ing. del Software,2013,38
+ISSTA,A,Ing. del Software,2014,49
+ISSTA,A,Ing. del Software,2015,44
+ISSTA,A,Ing. del Software,2016,41
+ISSTA,A,Ing. del Software,2017,55
+ISSTA,A,Ing. del Software,2018,38
+ISSTA,A,Ing. del Software,2019,53
+ISSTA,A,Ing. del Software,2020,55
+ISSTA,A,Ing. del Software,2021,59
+ISSTA,A,Ing. del Software,2022,72
+ISSTA,A,Ing. del Software,2023,138
+ISSTA,A,Ing. del Software,2024,170
+ISWC,A,Bases de datos,2002,42
+ISWC,A,Bases de datos,2003,58
+ISWC,A,Bases de datos,2004,57
+ISWC,A,Bases de datos,2005,79
+ISWC,A,Bases de datos,2006,86
+ISWC,A,Bases de datos,2008,64
+ISWC,A,Bases de datos,2009,67
+ISWC,A,Bases de datos,2021,42
+ISWC,A,Bases de datos,2022,48
+ISWC,A,Bases de datos,2023,58
+ITC,A,Sistemas,2001,128
+ITC,A,Sistemas,2002,188
+ITC,A,Sistemas,2003,195
+ITC,A,Sistemas,2004,207
+ITC,A,Sistemas,2005,181
+ITC,A,Sistemas,2006,118
+ITC,A,Sistemas,2007,114
+ITC,A,Sistemas,2008,145
+ITC,A,Sistemas,2009,81
+ITC,A,Sistemas,2010,102
+ITC,A,Sistemas,2011,61
+ITC,A,Sistemas,2012,70
+ITC,A,Sistemas,2013,61
+ITC,A,Sistemas,2014,94
+ITC,A,Sistemas,2015,48
+ITC,A,Sistemas,2016,58
+ITC,A,Sistemas,2017,56
+ITC,A,Sistemas,2018,59
+ITC,A,Sistemas,2019,72
+ITC,A,Sistemas,2020,72
+ITC,A,Sistemas,2021,51
+ITC,A,Sistemas,2022,87
+ITC,A,Sistemas,2023,49
+ITC,A,Sistemas,2024,61
+ITC,A,Sistemas,2025,92
+ITCS,A,Teoría,2012,39
+ITCS,A,Teoría,2013,49
+ITCS,A,Teoría,2014,48
+ITCS,A,Teoría,2015,45
+ITCS,A,Teoría,2016,40
+ITCS,A,Teoría,2017,61
+ITCS,A,Teoría,2018,60
+ITCS,A,Teoría,2019,67
+ITCS,A,Teoría,2020,87
+ITCS,A,Teoría,2021,90
+ITCS,A,Teoría,2022,121
+ITCS,A,Teoría,2023,102
+ITCS,A,Teoría,2024,104
+ITCS,A,Teoría,2025,97
+IUI,A,HCI,2001,27
+IUI,A,HCI,2002,61
+IUI,A,HCI,2003,75
+IUI,A,HCI,2004,87
+IUI,A,HCI,2005,68
+IUI,A,HCI,2006,78
+IUI,A,HCI,2007,61
+IUI,A,HCI,2008,78
+IUI,A,HCI,2009,74
+IUI,A,HCI,2010,81
+IUI,A,HCI,2011,94
+IUI,A,HCI,2012,84
+IUI,A,HCI,2013,45
+IUI,A,HCI,2014,47
+IUI,A,HCI,2015,57
+IUI,A,HCI,2016,51
+IUI,A,HCI,2017,66
+IUI,A,HCI,2018,80
+IUI,A,HCI,2019,74
+IUI,A,HCI,2020,61
+IUI,A,HCI,2021,69
+IUI,A,HCI,2022,65
+IUI,A,HCI,2023,66
+IUI,A,HCI,2024,61
+IUI,A,HCI,2025,97
+Interspeech,A,IA / ML,2001,670
+Interspeech,A,IA / ML,2002,678
+Interspeech,A,IA / ML,2003,798
+Interspeech,A,IA / ML,2004,775
+Interspeech,A,IA / ML,2005,869
+Interspeech,A,IA / ML,2006,659
+Interspeech,A,IA / ML,2007,751
+Interspeech,A,IA / ML,2008,763
+Interspeech,A,IA / ML,2009,765
+Interspeech,A,IA / ML,2010,781
+Interspeech,A,IA / ML,2011,851
+Interspeech,A,IA / ML,2012,677
+Interspeech,A,IA / ML,2013,788
+Interspeech,A,IA / ML,2014,640
+Interspeech,A,IA / ML,2015,792
+Interspeech,A,IA / ML,2016,818
+Interspeech,A,IA / ML,2017,844
+Interspeech,A,IA / ML,2018,791
+Interspeech,A,IA / ML,2019,970
+Interspeech,A,IA / ML,2020,1035
+Interspeech,A,IA / ML,2021,999
+Interspeech,A,IA / ML,2022,1123
+Interspeech,A,IA / ML,2023,1141
+Interspeech,A,IA / ML,2024,1065
+Interspeech,A,IA / ML,2025,1180
+KDD,A*,Bases de datos,2001,72
+KDD,A*,Bases de datos,2002,88
+KDD,A*,Bases de datos,2003,96
+KDD,A*,Bases de datos,2004,112
+KDD,A*,Bases de datos,2005,104
+KDD,A*,Bases de datos,2006,126
+KDD,A*,Bases de datos,2007,114
+KDD,A*,Bases de datos,2008,134
+KDD,A*,Bases de datos,2009,145
+KDD,A*,Bases de datos,2010,125
+KDD,A*,Bases de datos,2011,177
+KDD,A*,Bases de datos,2012,206
+KDD,A*,Bases de datos,2013,197
+KDD,A*,Bases de datos,2014,220
+KDD,A*,Bases de datos,2015,253
+KDD,A*,Bases de datos,2016,236
+KDD,A*,Bases de datos,2017,232
+KDD,A*,Bases de datos,2018,310
+KDD,A*,Bases de datos,2019,374
+KDD,A*,Bases de datos,2020,421
+KDD,A*,Bases de datos,2021,482
+KDD,A*,Bases de datos,2022,534
+KDD,A*,Bases de datos,2023,564
+KDD,A*,Bases de datos,2024,642
+KR,A*,IA / ML,2002,55
+KR,A*,IA / ML,2004,78
+KR,A*,IA / ML,2006,52
+KR,A*,IA / ML,2008,71
+KR,A*,IA / ML,2010,72
+KR,A*,IA / ML,2012,76
+KR,A*,IA / ML,2014,92
+KR,A*,IA / ML,2016,75
+KR,A*,IA / ML,2018,93
+KR,A*,IA / ML,2020,94
+KR,A*,IA / ML,2021,75
+KR,A*,IA / ML,2022,58
+KR,A*,IA / ML,2023,80
+KR,A*,IA / ML,2024,91
+KR,A*,IA / ML,2025,85
+LAK,A,IA / ML,2011,27
+LAK,A,IA / ML,2012,52
+LAK,A,IA / ML,2013,47
+LAK,A,IA / ML,2014,56
+LAK,A,IA / ML,2015,84
+LAK,A,IA / ML,2016,98
+LAK,A,IA / ML,2017,126
+LAK,A,IA / ML,2018,61
+LAK,A,IA / ML,2019,69
+LAK,A,IA / ML,2020,80
+LAK,A,IA / ML,2021,71
+LAK,A,IA / ML,2022,62
+LAK,A,IA / ML,2023,71
+LAK,A,IA / ML,2024,95
+LAK,A,IA / ML,2025,101
+LICS,A*,Teoría,2001,42
+LICS,A*,Teoría,2002,41
+LICS,A*,Teoría,2003,39
+LICS,A*,Teoría,2004,46
+LICS,A*,Teoría,2005,55
+LICS,A*,Teoría,2006,47
+LICS,A*,Teoría,2007,44
+LICS,A*,Teoría,2008,42
+LICS,A*,Teoría,2009,43
+LICS,A*,Teoría,2010,46
+LICS,A*,Teoría,2011,43
+LICS,A*,Teoría,2012,66
+LICS,A*,Teoría,2013,62
+LICS,A*,Teoría,2015,66
+LICS,A*,Teoría,2016,89
+LICS,A*,Teoría,2017,94
+LICS,A*,Teoría,2018,95
+LICS,A*,Teoría,2019,62
+LICS,A*,Teoría,2020,73
+LICS,A*,Teoría,2021,95
+LICS,A*,Teoría,2022,64
+LICS,A*,Teoría,2023,67
+LICS,A*,Teoría,2024,72
+LICS,A*,Teoría,2025,66
+MICCAI,A,IA / ML,2001,258
+MICCAI,A,IA / ML,2002,183
+MICCAI,A,IA / ML,2003,236
+MICCAI,A,IA / ML,2004,268
+MICCAI,A,IA / ML,2005,237
+MICCAI,A,IA / ML,2006,232
+MICCAI,A,IA / ML,2007,237
+MICCAI,A,IA / ML,2008,252
+MICCAI,A,IA / ML,2009,259
+MICCAI,A,IA / ML,2010,251
+MICCAI,A,IA / ML,2011,249
+MICCAI,A,IA / ML,2012,252
+MICCAI,A,IA / ML,2013,285
+MICCAI,A,IA / ML,2014,314
+MICCAI,A,IA / ML,2015,397
+MICCAI,A,IA / ML,2016,458
+MICCAI,A,IA / ML,2017,593
+MICCAI,A,IA / ML,2018,950
+MICCAI,A,IA / ML,2019,1001
+MICCAI,A,IA / ML,2020,948
+MICCAI,A,IA / ML,2021,922
+MICCAI,A,IA / ML,2022,1107
+MICCAI,A,IA / ML,2023,1249
+MICCAI,A,IA / ML,2024,1470
+MICCAI,A,IA / ML,2025,1652
+MICRO,A*,Sistemas,2001,31
+MICRO,A*,Sistemas,2002,36
+MICRO,A*,Sistemas,2003,37
+MICRO,A*,Sistemas,2004,31
+MICRO,A*,Sistemas,2005,33
+MICRO,A*,Sistemas,2006,42
+MICRO,A*,Sistemas,2007,35
+MICRO,A*,Sistemas,2008,42
+MICRO,A*,Sistemas,2009,54
+MICRO,A*,Sistemas,2010,45
+MICRO,A*,Sistemas,2011,44
+MICRO,A*,Sistemas,2012,40
+MICRO,A*,Sistemas,2013,39
+MICRO,A*,Sistemas,2014,53
+MICRO,A*,Sistemas,2015,61
+MICRO,A*,Sistemas,2016,62
+MICRO,A*,Sistemas,2017,61
+MICRO,A*,Sistemas,2018,74
+MICRO,A*,Sistemas,2019,80
+MICRO,A*,Sistemas,2020,82
+MICRO,A*,Sistemas,2021,94
+MICRO,A*,Sistemas,2022,83
+MICRO,A*,Sistemas,2023,101
+MICRO,A*,Sistemas,2024,115
+MICRO,A*,Sistemas,2025,123
+MMSys,A,Redes,2010,29
+MMSys,A,Redes,2011,31
+MMSys,A,Redes,2012,27
+MMSys,A,Redes,2013,32
+MMSys,A,Redes,2014,36
+MMSys,A,Redes,2015,32
+MMSys,A,Redes,2016,51
+MMSys,A,Redes,2017,42
+MMSys,A,Redes,2018,69
+MMSys,A,Redes,2019,40
+MMSys,A,Redes,2020,50
+MMSys,A,Redes,2021,49
+MMSys,A,Redes,2022,54
+MMSys,A,Redes,2023,57
+MMSys,A,Redes,2024,69
+MMSys,A,Redes,2025,41
+MOBICOM,A*,Redes,2001,30
+MOBICOM,A*,Redes,2002,26
+MOBICOM,A*,Redes,2003,27
+MOBICOM,A*,Redes,2004,26
+MOBICOM,A*,Redes,2005,23
+MOBICOM,A*,Redes,2006,36
+MOBICOM,A*,Redes,2007,41
+MOBICOM,A*,Redes,2008,32
+MOBICOM,A*,Redes,2009,30
+MOBICOM,A*,Redes,2010,33
+MOBICOM,A*,Redes,2011,29
+MOBICOM,A*,Redes,2012,55
+MOBICOM,A*,Redes,2013,67
+MOBICOM,A*,Redes,2014,90
+MOBICOM,A*,Redes,2015,84
+MOBICOM,A*,Redes,2016,81
+MOBICOM,A*,Redes,2017,88
+MOBICOM,A*,Redes,2018,138
+MOBICOM,A*,Redes,2019,112
+MOBICOM,A*,Redes,2020,92
+MOBICOM,A*,Redes,2021,85
+MOBICOM,A*,Redes,2022,111
+MOBICOM,A*,Redes,2023,152
+MOBICOM,A*,Redes,2024,285
+MOBICOM,A*,Redes,2025,157
+MODELS,A,Ing. del Software,2006,56
+MODELS,A,Ing. del Software,2007,48
+MODELS,A,Ing. del Software,2008,66
+MODELS,A,Ing. del Software,2009,62
+MODELS,A,Ing. del Software,2011,52
+MODELS,A,Ing. del Software,2012,51
+MODELS,A,Ing. del Software,2013,47
+MODELS,A,Ing. del Software,2014,41
+MODELS,A,Ing. del Software,2015,53
+MODELS,A,Ing. del Software,2016,42
+MODELS,A,Ing. del Software,2017,38
+MODELS,A,Ing. del Software,2018,45
+MODELS,A,Ing. del Software,2019,30
+MODELS,A,Ing. del Software,2020,35
+MODELS,A,Ing. del Software,2021,31
+MODELS,A,Ing. del Software,2022,35
+MODELS,A,Ing. del Software,2023,30
+MODELS,A,Ing. del Software,2024,26
+MODELS,A,Ing. del Software,2025,27
+MSR,A,Ing. del Software,2004,25
+MSR,A,Ing. del Software,2005,22
+MSR,A,Ing. del Software,2006,41
+MSR,A,Ing. del Software,2007,33
+MSR,A,Ing. del Software,2008,28
+MSR,A,Ing. del Software,2009,30
+MSR,A,Ing. del Software,2010,31
+MSR,A,Ing. del Software,2011,34
+MSR,A,Ing. del Software,2012,38
+MSR,A,Ing. del Software,2013,64
+MSR,A,Ing. del Software,2014,64
+MSR,A,Ing. del Software,2015,73
+MSR,A,Ing. del Software,2016,59
+MSR,A,Ing. del Software,2017,66
+MSR,A,Ing. del Software,2018,78
+MSR,A,Ing. del Software,2019,79
+MSR,A,Ing. del Software,2020,74
+MSR,A,Ing. del Software,2021,76
+MSR,A,Ing. del Software,2022,106
+MSR,A,Ing. del Software,2023,76
+MSR,A,Ing. del Software,2024,97
+MSR,A,Ing. del Software,2025,109
+MSWIM,A,Redes,2001,17
+MSWIM,A,Redes,2002,17
+MSWIM,A,Redes,2003,22
+MSWIM,A,Redes,2004,45
+MSWIM,A,Redes,2005,51
+MSWIM,A,Redes,2006,53
+MSWIM,A,Redes,2007,58
+MSWIM,A,Redes,2008,56
+MSWIM,A,Redes,2009,57
+MSWIM,A,Redes,2010,53
+MSWIM,A,Redes,2011,56
+MSWIM,A,Redes,2012,52
+MSWIM,A,Redes,2013,60
+MSWIM,A,Redes,2014,46
+MSWIM,A,Redes,2015,45
+MSWIM,A,Redes,2016,48
+MSWIM,A,Redes,2017,43
+MSWIM,A,Redes,2018,49
+MSWIM,A,Redes,2019,43
+MSWIM,A,Redes,2020,32
+MSWIM,A,Redes,2021,31
+MSWIM,A,Redes,2022,29
+MSWIM,A,Redes,2023,41
+MSWIM,A,Redes,2025,120
+Middleware,A,Sistemas,2001,20
+Middleware,A,Sistemas,2003,25
+Middleware,A,Sistemas,2004,26
+Middleware,A,Sistemas,2005,24
+Middleware,A,Sistemas,2006,21
+Middleware,A,Sistemas,2007,22
+Middleware,A,Sistemas,2008,21
+Middleware,A,Sistemas,2009,21
+Middleware,A,Sistemas,2010,19
+Middleware,A,Sistemas,2011,25
+Middleware,A,Sistemas,2012,24
+Middleware,A,Sistemas,2013,25
+Middleware,A,Sistemas,2014,27
+Middleware,A,Sistemas,2015,23
+Middleware,A,Sistemas,2016,21
+Middleware,A,Sistemas,2017,20
+Middleware,A,Sistemas,2018,22
+Middleware,A,Sistemas,2019,25
+Middleware,A,Sistemas,2020,30
+Middleware,A,Sistemas,2021,29
+Middleware,A,Sistemas,2022,26
+Middleware,A,Sistemas,2023,24
+Middleware,A,Sistemas,2024,39
+Middleware,A,Sistemas,2025,36
+Mobisys,A,Redes,2003,23
+Mobisys,A,Redes,2004,24
+Mobisys,A,Redes,2005,20
+Mobisys,A,Redes,2006,19
+Mobisys,A,Redes,2007,24
+Mobisys,A,Redes,2008,23
+Mobisys,A,Redes,2009,26
+Mobisys,A,Redes,2010,27
+Mobisys,A,Redes,2011,59
+Mobisys,A,Redes,2012,73
+Mobisys,A,Redes,2013,80
+Mobisys,A,Redes,2014,69
+Mobisys,A,Redes,2015,61
+Mobisys,A,Redes,2016,31
+Mobisys,A,Redes,2017,84
+Mobisys,A,Redes,2018,79
+Mobisys,A,Redes,2019,142
+Mobisys,A,Redes,2020,44
+Mobisys,A,Redes,2021,50
+Mobisys,A,Redes,2022,103
+Mobisys,A,Redes,2023,76
+Mobisys,A,Redes,2024,129
+Mobisys,A,Redes,2025,112
+NAACL,A,IA / ML,2001,31
+NAACL,A,IA / ML,2018,205
+NAACL,A,IA / ML,2021,476
+NAACL,A,IA / ML,2022,443
+NAACL,A,IA / ML,2024,488
+NDSS,A*,Seguridad,2001,18
+NDSS,A*,Seguridad,2002,15
+NDSS,A*,Seguridad,2003,17
+NDSS,A*,Seguridad,2004,16
+NDSS,A*,Seguridad,2005,16
+NDSS,A*,Seguridad,2006,17
+NDSS,A*,Seguridad,2007,17
+NDSS,A*,Seguridad,2008,21
+NDSS,A*,Seguridad,2009,20
+NDSS,A*,Seguridad,2010,24
+NDSS,A*,Seguridad,2011,28
+NDSS,A*,Seguridad,2012,54
+NDSS,A*,Seguridad,2013,64
+NDSS,A*,Seguridad,2014,55
+NDSS,A*,Seguridad,2015,50
+NDSS,A*,Seguridad,2016,61
+NDSS,A*,Seguridad,2017,68
+NDSS,A*,Seguridad,2018,71
+NDSS,A*,Seguridad,2019,90
+NDSS,A*,Seguridad,2020,89
+NDSS,A*,Seguridad,2021,87
+NDSS,A*,Seguridad,2022,83
+NDSS,A*,Seguridad,2023,94
+NDSS,A*,Seguridad,2024,140
+NDSS,A*,Seguridad,2025,211
+NeurIPS,A*,IA / ML,2001,197
+NeurIPS,A*,IA / ML,2002,207
+NeurIPS,A*,IA / ML,2003,198
+NeurIPS,A*,IA / ML,2004,207
+NeurIPS,A*,IA / ML,2005,207
+NeurIPS,A*,IA / ML,2006,204
+NeurIPS,A*,IA / ML,2007,217
+NeurIPS,A*,IA / ML,2008,250
+NeurIPS,A*,IA / ML,2009,262
+NeurIPS,A*,IA / ML,2010,292
+NeurIPS,A*,IA / ML,2011,306
+NeurIPS,A*,IA / ML,2012,370
+NeurIPS,A*,IA / ML,2013,360
+NeurIPS,A*,IA / ML,2014,411
+NeurIPS,A*,IA / ML,2015,403
+NeurIPS,A*,IA / ML,2016,569
+NeurIPS,A*,IA / ML,2017,679
+NeurIPS,A*,IA / ML,2018,1010
+NeurIPS,A*,IA / ML,2019,1427
+NeurIPS,A*,IA / ML,2020,1898
+NeurIPS,A*,IA / ML,2021,2334
+NeurIPS,A*,IA / ML,2022,2834
+NeurIPS,A*,IA / ML,2023,3540
+NeurIPS,A*,IA / ML,2024,4494
+OOPSLA,A,Ing. del Software,2001,27
+OOPSLA,A,Ing. del Software,2002,25
+OOPSLA,A,Ing. del Software,2003,26
+OOPSLA,A,Ing. del Software,2004,27
+OOPSLA,A,Ing. del Software,2005,32
+OOPSLA,A,Ing. del Software,2006,30
+OOPSLA,A,Ing. del Software,2007,39
+OOPSLA,A,Ing. del Software,2008,36
+OOPSLA,A,Ing. del Software,2009,33
+OOPSLA,A,Ing. del Software,2010,62
+OOPSLA,A,Ing. del Software,2011,62
+OOPSLA,A,Ing. del Software,2012,59
+OOPSLA,A,Ing. del Software,2013,50
+OOPSLA,A,Ing. del Software,2014,52
+OOPSLA,A,Ing. del Software,2015,53
+OOPSLA,A,Ing. del Software,2016,52
+OSDI,A*,Sistemas,2002,27
+OSDI,A*,Sistemas,2004,27
+OSDI,A*,Sistemas,2006,27
+OSDI,A*,Sistemas,2008,26
+OSDI,A*,Sistemas,2010,32
+OSDI,A*,Sistemas,2012,25
+OSDI,A*,Sistemas,2014,42
+OSDI,A*,Sistemas,2016,47
+OSDI,A*,Sistemas,2018,47
+OSDI,A*,Sistemas,2020,70
+OSDI,A*,Sistemas,2021,31
+OSDI,A*,Sistemas,2022,49
+OSDI,A*,Sistemas,2023,55
+OSDI,A*,Sistemas,2024,53
+OSDI,A*,Sistemas,2025,53
+PERCOM,A*,HCI,2003,65
+PERCOM,A*,HCI,2004,37
+PERCOM,A*,HCI,2005,48
+PERCOM,A*,HCI,2006,43
+PERCOM,A*,HCI,2007,28
+PERCOM,A*,HCI,2008,111
+PERCOM,A*,HCI,2009,84
+PERCOM,A*,HCI,2010,30
+PERCOM,A*,HCI,2011,28
+PERCOM,A*,HCI,2012,30
+PERCOM,A*,HCI,2013,30
+PERCOM,A*,HCI,2014,29
+PERCOM,A*,HCI,2015,29
+PERCOM,A*,HCI,2016,28
+PERCOM,A*,HCI,2017,34
+PERCOM,A*,HCI,2018,32
+PERCOM,A*,HCI,2019,37
+PERCOM,A*,HCI,2020,38
+PERCOM,A*,HCI,2021,23
+PERCOM,A*,HCI,2022,28
+PERCOM,A*,HCI,2023,31
+PERCOM,A*,HCI,2024,23
+PERCOM,A*,HCI,2025,24
+PETS,A,Seguridad,2011,15
+PETS,A,Seguridad,2015,25
+PETS,A,Seguridad,2016,55
+PETS,A,Seguridad,2017,56
+PETS,A,Seguridad,2018,39
+PETS,A,Seguridad,2019,70
+PETS,A,Seguridad,2020,83
+PETS,A,Seguridad,2021,85
+PETS,A,Seguridad,2022,132
+PETS,A,Seguridad,2023,127
+PETS,A,Seguridad,2024,151
+PETS,A,Seguridad,2025,173
+PLDI,A*,Ing. del Software,2001,30
+PLDI,A*,Ing. del Software,2002,28
+PLDI,A*,Ing. del Software,2003,28
+PLDI,A*,Ing. del Software,2004,26
+PLDI,A*,Ing. del Software,2005,29
+PLDI,A*,Ing. del Software,2006,36
+PLDI,A*,Ing. del Software,2007,45
+PLDI,A*,Ing. del Software,2008,34
+PLDI,A*,Ing. del Software,2009,41
+PLDI,A*,Ing. del Software,2010,42
+PLDI,A*,Ing. del Software,2011,55
+PLDI,A*,Ing. del Software,2012,48
+PLDI,A*,Ing. del Software,2013,48
+PLDI,A*,Ing. del Software,2014,59
+PLDI,A*,Ing. del Software,2015,59
+PLDI,A*,Ing. del Software,2016,48
+PLDI,A*,Ing. del Software,2017,47
+PLDI,A*,Ing. del Software,2018,55
+PLDI,A*,Ing. del Software,2019,76
+PLDI,A*,Ing. del Software,2020,77
+PLDI,A*,Ing. del Software,2021,87
+PLDI,A*,Ing. del Software,2022,68
+PODC,A*,Sistemas,2001,42
+PODC,A*,Sistemas,2002,43
+PODC,A*,Sistemas,2003,55
+PODC,A*,Sistemas,2004,75
+PODC,A*,Sistemas,2005,58
+PODC,A*,Sistemas,2006,38
+PODC,A*,Sistemas,2007,81
+PODC,A*,Sistemas,2008,92
+PODC,A*,Sistemas,2009,69
+PODC,A*,Sistemas,2010,89
+PODC,A*,Sistemas,2011,65
+PODC,A*,Sistemas,2012,61
+PODC,A*,Sistemas,2013,57
+PODC,A*,Sistemas,2014,54
+PODC,A*,Sistemas,2015,58
+PODC,A*,Sistemas,2016,67
+PODC,A*,Sistemas,2017,62
+PODC,A*,Sistemas,2018,79
+PODC,A*,Sistemas,2019,78
+PODC,A*,Sistemas,2020,66
+PODC,A*,Sistemas,2021,65
+PODC,A*,Sistemas,2022,64
+PODC,A*,Sistemas,2023,45
+PODC,A*,Sistemas,2024,64
+PODC,A*,Sistemas,2025,69
+PODS,A*,Bases de datos,2001,29
+PODS,A*,Bases de datos,2002,27
+PODS,A*,Bases de datos,2003,29
+PODS,A*,Bases de datos,2004,34
+PODS,A*,Bases de datos,2005,35
+PODS,A*,Bases de datos,2006,39
+PODS,A*,Bases de datos,2007,31
+PODS,A*,Bases de datos,2008,31
+PODS,A*,Bases de datos,2009,30
+PODS,A*,Bases de datos,2010,31
+PODS,A*,Bases de datos,2011,28
+PODS,A*,Bases de datos,2012,30
+PODS,A*,Bases de datos,2013,28
+PODS,A*,Bases de datos,2014,25
+PODS,A*,Bases de datos,2015,30
+PODS,A*,Bases de datos,2016,37
+PODS,A*,Bases de datos,2017,35
+PODS,A*,Bases de datos,2018,35
+PODS,A*,Bases de datos,2019,34
+PODS,A*,Bases de datos,2020,32
+PODS,A*,Bases de datos,2021,32
+PODS,A*,Bases de datos,2022,38
+PODS,A*,Bases de datos,2023,35
+POPL,A*,Ing. del Software,2001,26
+POPL,A*,Ing. del Software,2002,30
+POPL,A*,Ing. del Software,2003,25
+POPL,A*,Ing. del Software,2004,29
+POPL,A*,Ing. del Software,2005,31
+POPL,A*,Ing. del Software,2006,36
+POPL,A*,Ing. del Software,2007,39
+POPL,A*,Ing. del Software,2008,38
+POPL,A*,Ing. del Software,2009,39
+POPL,A*,Ing. del Software,2010,41
+POPL,A*,Ing. del Software,2011,52
+POPL,A*,Ing. del Software,2012,48
+POPL,A*,Ing. del Software,2013,47
+POPL,A*,Ing. del Software,2014,55
+POPL,A*,Ing. del Software,2015,55
+POPL,A*,Ing. del Software,2016,62
+POPL,A*,Ing. del Software,2017,66
+PPSN,A,IA / ML,2002,90
+PPSN,A,IA / ML,2004,118
+PPSN,A,IA / ML,2006,106
+PPSN,A,IA / ML,2008,114
+PPSN,A,IA / ML,2014,93
+PPSN,A,IA / ML,2016,95
+RAID,A,Seguridad,2002,17
+RAID,A,Seguridad,2003,13
+RAID,A,Seguridad,2004,16
+RAID,A,Seguridad,2005,17
+RAID,A,Seguridad,2006,16
+RAID,A,Seguridad,2007,17
+RAID,A,Seguridad,2008,36
+RAID,A,Seguridad,2009,33
+RAID,A,Seguridad,2010,39
+RAID,A,Seguridad,2011,20
+RAID,A,Seguridad,2012,30
+RAID,A,Seguridad,2013,22
+RAID,A,Seguridad,2014,22
+RAID,A,Seguridad,2015,28
+RAID,A,Seguridad,2016,21
+RAID,A,Seguridad,2017,21
+RAID,A,Seguridad,2018,32
+RAID,A,Seguridad,2019,37
+RAID,A,Seguridad,2020,31
+RAID,A,Seguridad,2021,32
+RAID,A,Seguridad,2022,35
+RAID,A,Seguridad,2023,50
+RAID,A,Seguridad,2024,43
+RAID,A,Seguridad,2025,62
+RE,A,Ing. del Software,2001,67
+RE,A,Ing. del Software,2002,52
+RE,A,Ing. del Software,2003,62
+RE,A,Ing. del Software,2004,47
+RE,A,Ing. del Software,2005,76
+RE,A,Ing. del Software,2006,65
+RE,A,Ing. del Software,2007,62
+RE,A,Ing. del Software,2008,58
+RE,A,Ing. del Software,2009,53
+RE,A,Ing. del Software,2010,61
+RE,A,Ing. del Software,2011,49
+RE,A,Ing. del Software,2012,51
+RE,A,Ing. del Software,2013,67
+RE,A,Ing. del Software,2014,67
+RE,A,Ing. del Software,2015,63
+RE,A,Ing. del Software,2016,64
+RE,A,Ing. del Software,2017,81
+RE,A,Ing. del Software,2018,70
+RE,A,Ing. del Software,2019,72
+RE,A,Ing. del Software,2020,58
+RE,A,Ing. del Software,2021,75
+RE,A,Ing. del Software,2022,41
+RE,A,Ing. del Software,2023,56
+RE,A,Ing. del Software,2024,60
+RE,A,Ing. del Software,2025,71
+RTAS,A,Sistemas,2014,28
+RTAS,A,Sistemas,2015,31
+RTAS,A,Sistemas,2016,45
+RTAS,A,Sistemas,2017,40
+RTAS,A,Sistemas,2018,34
+RTAS,A,Sistemas,2019,30
+RTAS,A,Sistemas,2020,29
+RTAS,A,Sistemas,2021,60
+RTAS,A,Sistemas,2022,30
+RTAS,A,Sistemas,2023,33
+RTAS,A,Sistemas,2024,35
+RTAS,A,Sistemas,2025,37
+RTSS,A,Sistemas,2001,31
+RTSS,A,Sistemas,2002,29
+RTSS,A,Sistemas,2003,41
+RTSS,A,Sistemas,2004,45
+RTSS,A,Sistemas,2005,40
+RTSS,A,Sistemas,2006,43
+RTSS,A,Sistemas,2007,44
+RTSS,A,Sistemas,2008,45
+RTSS,A,Sistemas,2009,44
+RTSS,A,Sistemas,2010,36
+RTSS,A,Sistemas,2011,33
+RTSS,A,Sistemas,2012,35
+RTSS,A,Sistemas,2013,36
+RTSS,A,Sistemas,2014,33
+RTSS,A,Sistemas,2015,42
+RTSS,A,Sistemas,2016,42
+RTSS,A,Sistemas,2017,45
+RTSS,A,Sistemas,2018,52
+RTSS,A,Sistemas,2019,64
+RTSS,A,Sistemas,2020,43
+RTSS,A,Sistemas,2021,52
+RTSS,A,Sistemas,2022,47
+RTSS,A,Sistemas,2023,52
+RTSS,A,Sistemas,2024,42
+RTSS,A,Sistemas,2025,58
+RecSys,A,IA / ML,2007,38
+RecSys,A,IA / ML,2008,51
+RecSys,A,IA / ML,2009,84
+RecSys,A,IA / ML,2010,78
+RecSys,A,IA / ML,2011,75
+RecSys,A,IA / ML,2012,79
+RecSys,A,IA / ML,2013,98
+RecSys,A,IA / ML,2014,86
+RecSys,A,IA / ML,2015,89
+RecSys,A,IA / ML,2016,105
+RecSys,A,IA / ML,2017,96
+RecSys,A,IA / ML,2018,117
+RecSys,A,IA / ML,2019,122
+RecSys,A,IA / ML,2020,132
+RecSys,A,IA / ML,2021,141
+RecSys,A,IA / ML,2022,125
+RecSys,A,IA / ML,2023,197
+RecSys,A,IA / ML,2024,217
+RecSys,A,IA / ML,2025,239
+SANER,A,Ing. del Software,2001,38
+SANER,A,Ing. del Software,2002,33
+SANER,A,Ing. del Software,2003,39
+SANER,A,Ing. del Software,2004,38
+SANER,A,Ing. del Software,2005,31
+SANER,A,Ing. del Software,2006,45
+SANER,A,Ing. del Software,2007,42
+SANER,A,Ing. del Software,2008,50
+SANER,A,Ing. del Software,2009,47
+SANER,A,Ing. del Software,2010,39
+SANER,A,Ing. del Software,2011,60
+SANER,A,Ing. del Software,2012,55
+SANER,A,Ing. del Software,2013,61
+SANER,A,Ing. del Software,2015,86
+SANER,A,Ing. del Software,2016,76
+SANER,A,Ing. del Software,2017,83
+SANER,A,Ing. del Software,2018,78
+SANER,A,Ing. del Software,2019,74
+SANER,A,Ing. del Software,2020,77
+SANER,A,Ing. del Software,2021,83
+SANER,A,Ing. del Software,2022,144
+SANER,A,Ing. del Software,2023,109
+SANER,A,Ing. del Software,2024,105
+SAT,A,Teoría,2003,38
+SAT,A,Teoría,2004,48
+SAT,A,Teoría,2005,42
+SAT,A,Teoría,2006,39
+SAT,A,Teoría,2007,36
+SAT,A,Teoría,2008,27
+SAT,A,Teoría,2009,47
+SAT,A,Teoría,2010,37
+SAT,A,Teoría,2011,37
+SAT,A,Teoría,2012,54
+SAT,A,Teoría,2013,34
+SAT,A,Teoría,2014,33
+SAT,A,Teoría,2015,30
+SAT,A,Teoría,2016,36
+SAT,A,Teoría,2017,30
+SAT,A,Teoría,2018,27
+SAT,A,Teoría,2019,28
+SAT,A,Teoría,2020,36
+SAT,A,Teoría,2021,37
+SAT,A,Teoría,2022,32
+SAT,A,Teoría,2023,31
+SAT,A,Teoría,2024,32
+SAT,A,Teoría,2025,33
+SC,A,Sistemas,2001,60
+SC,A,Sistemas,2002,67
+SC,A,Sistemas,2003,62
+SC,A,Sistemas,2004,63
+SC,A,Sistemas,2005,74
+SC,A,Sistemas,2006,325
+SC,A,Sistemas,2007,59
+SC,A,Sistemas,2008,65
+SC,A,Sistemas,2009,73
+SC,A,Sistemas,2010,57
+SC,A,Sistemas,2011,77
+SC,A,Sistemas,2012,105
+SC,A,Sistemas,2013,96
+SC,A,Sistemas,2014,86
+SC,A,Sistemas,2015,83
+SC,A,Sistemas,2016,87
+SC,A,Sistemas,2017,64
+SC,A,Sistemas,2018,74
+SC,A,Sistemas,2019,89
+SC,A,Sistemas,2020,101
+SC,A,Sistemas,2021,104
+SC,A,Sistemas,2022,87
+SC,A,Sistemas,2023,99
+SC,A,Sistemas,2024,108
+SC,A,Sistemas,2025,181
+SDM,A,IA / ML,2001,29
+SDM,A,IA / ML,2002,34
+SDM,A,IA / ML,2003,42
+SDM,A,IA / ML,2004,61
+SDM,A,IA / ML,2005,77
+SDM,A,IA / ML,2006,76
+SDM,A,IA / ML,2007,75
+SDM,A,IA / ML,2008,77
+SDM,A,IA / ML,2009,105
+SDM,A,IA / ML,2010,82
+SDM,A,IA / ML,2011,86
+SDM,A,IA / ML,2012,98
+SDM,A,IA / ML,2013,89
+SDM,A,IA / ML,2014,120
+SDM,A,IA / ML,2015,110
+SDM,A,IA / ML,2016,98
+SDM,A,IA / ML,2017,95
+SDM,A,IA / ML,2018,86
+SDM,A,IA / ML,2019,90
+SDM,A,IA / ML,2020,75
+SDM,A,IA / ML,2021,85
+SDM,A,IA / ML,2022,82
+SDM,A,IA / ML,2023,111
+SDM,A,IA / ML,2024,102
+SDM,A,IA / ML,2025,70
+SEAMS,A,Ing. del Software,2021,36
+SEAMS,A,Ing. del Software,2022,20
+SEAMS,A,Ing. del Software,2023,23
+SEAMS,A,Ing. del Software,2024,26
+SEAMS,A,Ing. del Software,2025,19
+SIGCOMM,A*,Redes,2001,23
+SIGCOMM,A*,Redes,2002,25
+SIGCOMM,A*,Redes,2003,34
+SIGCOMM,A*,Redes,2004,32
+SIGCOMM,A*,Redes,2005,28
+SIGCOMM,A*,Redes,2006,38
+SIGCOMM,A*,Redes,2007,35
+SIGCOMM,A*,Redes,2008,37
+SIGCOMM,A*,Redes,2009,28
+SIGCOMM,A*,Redes,2010,76
+SIGCOMM,A*,Redes,2011,80
+SIGCOMM,A*,Redes,2012,72
+SIGCOMM,A*,Redes,2013,90
+SIGCOMM,A*,Redes,2014,96
+SIGCOMM,A*,Redes,2015,88
+SIGCOMM,A*,Redes,2016,78
+SIGCOMM,A*,Redes,2017,36
+SIGCOMM,A*,Redes,2018,40
+SIGCOMM,A*,Redes,2019,32
+SIGCOMM,A*,Redes,2020,53
+SIGCOMM,A*,Redes,2021,55
+SIGCOMM,A*,Redes,2022,55
+SIGCOMM,A*,Redes,2023,107
+SIGCOMM,A*,Redes,2024,62
+SIGCOMM,A*,Redes,2025,88
+SIGCSE,A,HCI,2001,105
+SIGCSE,A,HCI,2002,102
+SIGCSE,A,HCI,2003,99
+SIGCSE,A,HCI,2004,121
+SIGCSE,A,HCI,2005,131
+SIGCSE,A,HCI,2006,130
+SIGCSE,A,HCI,2007,134
+SIGCSE,A,HCI,2008,127
+SIGCSE,A,HCI,2009,130
+SIGCSE,A,HCI,2010,130
+SIGCSE,A,HCI,2011,132
+SIGCSE,A,HCI,2012,246
+SIGCSE,A,HCI,2013,264
+SIGCSE,A,HCI,2014,267
+SIGCSE,A,HCI,2015,295
+SIGCSE,A,HCI,2016,292
+SIGCSE,A,HCI,2017,297
+SIGCSE,A,HCI,2018,418
+SIGCSE,A,HCI,2019,408
+SIGCSE,A,HCI,2020,443
+SIGCSE,A,HCI,2021,409
+SIGGRAPH,A*,HCI,2001,184
+SIGGRAPH,A*,HCI,2002,430
+SIGGRAPH,A*,HCI,2003,280
+SIGGRAPH,A*,HCI,2004,501
+SIGGRAPH,A*,HCI,2005,612
+SIGGRAPH,A*,HCI,2006,776
+SIGGRAPH,A*,HCI,2007,626
+SIGGRAPH,A*,HCI,2008,364
+SIGGRAPH,A*,HCI,2009,524
+SIGGRAPH,A*,HCI,2010,246
+SIGGRAPH,A*,HCI,2011,309
+SIGGRAPH,A*,HCI,2012,219
+SIGGRAPH,A*,HCI,2013,480
+SIGGRAPH,A*,HCI,2014,421
+SIGGRAPH,A*,HCI,2015,505
+SIGGRAPH,A*,HCI,2016,523
+SIGGRAPH,A*,HCI,2017,267
+SIGGRAPH,A*,HCI,2018,154
+SIGGRAPH,A*,HCI,2019,141
+SIGGRAPH,A*,HCI,2020,157
+SIGGRAPH,A*,HCI,2021,181
+SIGGRAPH,A*,HCI,2022,127
+SIGGRAPH,A*,HCI,2023,318
+SIGGRAPH,A*,HCI,2024,329
+SIGGRAPH,A*,HCI,2025,218
+SIGIR,A*,Bases de datos,2001,87
+SIGIR,A*,Bases de datos,2002,107
+SIGIR,A*,Bases de datos,2003,106
+SIGIR,A*,Bases de datos,2004,141
+SIGIR,A*,Bases de datos,2005,138
+SIGIR,A*,Bases de datos,2006,152
+SIGIR,A*,Bases de datos,2007,221
+SIGIR,A*,Bases de datos,2008,207
+SIGIR,A*,Bases de datos,2009,207
+SIGIR,A*,Bases de datos,2010,218
+SIGIR,A*,Bases de datos,2011,238
+SIGIR,A*,Bases de datos,2012,224
+SIGIR,A*,Bases de datos,2013,210
+SIGIR,A*,Bases de datos,2014,229
+SIGIR,A*,Bases de datos,2015,201
+SIGIR,A*,Bases de datos,2016,234
+SIGIR,A*,Bases de datos,2017,255
+SIGIR,A*,Bases de datos,2018,251
+SIGIR,A*,Bases de datos,2019,262
+SIGIR,A*,Bases de datos,2020,382
+SIGIR,A*,Bases de datos,2021,382
+SIGIR,A*,Bases de datos,2022,444
+SIGIR,A*,Bases de datos,2023,469
+SIGIR,A*,Bases de datos,2024,389
+SIGIR,A*,Bases de datos,2025,540
+SIGMETRICS,A*,Sistemas,2002,41
+SIGMETRICS,A*,Sistemas,2003,42
+SIGMETRICS,A*,Sistemas,2004,58
+SIGMETRICS,A*,Sistemas,2005,58
+SIGMETRICS,A*,Sistemas,2007,48
+SIGMETRICS,A*,Sistemas,2008,56
+SIGMETRICS,A*,Sistemas,2010,49
+SIGMETRICS,A*,Sistemas,2011,50
+SIGMETRICS,A*,Sistemas,2012,61
+SIGMETRICS,A*,Sistemas,2013,59
+SIGMETRICS,A*,Sistemas,2014,68
+SIGMETRICS,A*,Sistemas,2015,56
+SIGMETRICS,A*,Sistemas,2016,54
+SIGMOD,A*,Bases de datos,2001,84
+SIGMOD,A*,Bases de datos,2002,82
+SIGMOD,A*,Bases de datos,2003,95
+SIGMOD,A*,Bases de datos,2004,118
+SIGMOD,A*,Bases de datos,2005,116
+SIGMOD,A*,Bases de datos,2006,99
+SIGMOD,A*,Bases de datos,2007,137
+SIGMOD,A*,Bases de datos,2008,132
+SIGMOD,A*,Bases de datos,2009,124
+SIGMOD,A*,Bases de datos,2010,139
+SIGMOD,A*,Bases de datos,2011,141
+SIGMOD,A*,Bases de datos,2012,112
+SIGMOD,A*,Bases de datos,2013,150
+SIGMOD,A*,Bases de datos,2014,166
+SIGMOD,A*,Bases de datos,2015,168
+SIGMOD,A*,Bases de datos,2016,190
+SIGMOD,A*,Bases de datos,2017,149
+SIGMOD,A*,Bases de datos,2018,161
+SIGMOD,A*,Bases de datos,2019,179
+SIGMOD,A*,Bases de datos,2020,234
+SIGMOD,A*,Bases de datos,2021,270
+SIGMOD,A*,Bases de datos,2022,222
+SIGSPATIAL,A,Bases de datos,2003,22
+SIGSPATIAL,A,Bases de datos,2004,31
+SIGSPATIAL,A,Bases de datos,2005,32
+SIGSPATIAL,A,Bases de datos,2006,32
+SIGSPATIAL,A,Bases de datos,2007,68
+SIGSPATIAL,A,Bases de datos,2008,90
+SIGSPATIAL,A,Bases de datos,2009,86
+SIGSPATIAL,A,Bases de datos,2010,87
+SIGSPATIAL,A,Bases de datos,2011,84
+SIGSPATIAL,A,Bases de datos,2012,98
+SIGSPATIAL,A,Bases de datos,2013,88
+SIGSPATIAL,A,Bases de datos,2014,99
+SIGSPATIAL,A,Bases de datos,2015,101
+SIGSPATIAL,A,Bases de datos,2016,95
+SIGSPATIAL,A,Bases de datos,2017,101
+SIGSPATIAL,A,Bases de datos,2018,106
+SIGSPATIAL,A,Bases de datos,2019,103
+SIGSPATIAL,A,Bases de datos,2020,102
+SIGSPATIAL,A,Bases de datos,2021,106
+SIGSPATIAL,A,Bases de datos,2022,120
+SIGSPATIAL,A,Bases de datos,2023,109
+SIGSPATIAL,A,Bases de datos,2024,112
+SIGSPATIAL,A,Bases de datos,2025,194
+SODA,A*,Teoría,2001,128
+SODA,A*,Teoría,2002,129
+SODA,A*,Teoría,2003,115
+SODA,A*,Teoría,2004,138
+SODA,A*,Teoría,2005,137
+SODA,A*,Teoría,2006,136
+SODA,A*,Teoría,2007,139
+SODA,A*,Teoría,2008,138
+SODA,A*,Teoría,2009,138
+SODA,A*,Teoría,2010,135
+SODA,A*,Teoría,2011,136
+SODA,A*,Teoría,2012,139
+SODA,A*,Teoría,2013,135
+SODA,A*,Teoría,2014,136
+SODA,A*,Teoría,2015,136
+SODA,A*,Teoría,2016,147
+SODA,A*,Teoría,2017,182
+SODA,A*,Teoría,2018,181
+SODA,A*,Teoría,2019,184
+SODA,A*,Teoría,2020,182
+SODA,A*,Teoría,2021,181
+SODA,A*,Teoría,2022,148
+SODA,A*,Teoría,2023,190
+SODA,A*,Teoría,2024,192
+SODA,A*,Teoría,2025,192
+SOSP,A*,Sistemas,2001,17
+SOSP,A*,Sistemas,2003,22
+SOSP,A*,Sistemas,2005,73
+SOSP,A*,Sistemas,2007,25
+SOSP,A*,Sistemas,2009,23
+SOSP,A*,Sistemas,2011,28
+SOSP,A*,Sistemas,2013,30
+SOSP,A*,Sistemas,2015,30
+SOSP,A*,Sistemas,2017,39
+SOSP,A*,Sistemas,2019,38
+SOSP,A*,Sistemas,2021,54
+SOSP,A*,Sistemas,2023,43
+SOSP,A*,Sistemas,2024,43
+SOSP,A*,Sistemas,2025,66
+SOUPS,A,Seguridad,2005,10
+SOUPS,A,Seguridad,2006,14
+SOUPS,A,Seguridad,2007,29
+SOUPS,A,Seguridad,2008,12
+SOUPS,A,Seguridad,2009,54
+SOUPS,A,Seguridad,2010,16
+SOUPS,A,Seguridad,2011,15
+SOUPS,A,Seguridad,2012,14
+SOUPS,A,Seguridad,2013,15
+SOUPS,A,Seguridad,2014,21
+SOUPS,A,Seguridad,2015,22
+SOUPS,A,Seguridad,2016,22
+SOUPS,A,Seguridad,2017,46
+SOUPS,A,Seguridad,2023,33
+SOUPS,A,Seguridad,2025,30
+SP,A*,Seguridad,2001,19
+SP,A*,Seguridad,2002,21
+SP,A*,Seguridad,2003,19
+SP,A*,Seguridad,2004,19
+SP,A*,Seguridad,2005,20
+SP,A*,Seguridad,2006,35
+SP,A*,Seguridad,2007,29
+SP,A*,Seguridad,2010,34
+SP,A*,Seguridad,2011,34
+SP,A*,Seguridad,2012,40
+SP,A*,Seguridad,2013,38
+SP,A*,Seguridad,2014,44
+SP,A*,Seguridad,2015,55
+SP,A*,Seguridad,2016,55
+SP,A*,Seguridad,2017,60
+SP,A*,Seguridad,2018,63
+SP,A*,Seguridad,2019,84
+STACS,A,Teoría,2001,49
+STACS,A,Teoría,2002,53
+STACS,A,Teoría,2003,60
+STACS,A,Teoría,2004,57
+STACS,A,Teoría,2005,57
+STACS,A,Teoría,2006,57
+STACS,A,Teoría,2007,59
+STACS,A,Teoría,2008,59
+STACS,A,Teoría,2009,58
+STACS,A,Teoría,2010,59
+STACS,A,Teoría,2011,58
+STACS,A,Teoría,2012,59
+STACS,A,Teoría,2013,60
+STACS,A,Teoría,2014,59
+STACS,A,Teoría,2015,61
+STACS,A,Teoría,2016,59
+STACS,A,Teoría,2017,59
+STACS,A,Teoría,2018,59
+STACS,A,Teoría,2019,60
+STACS,A,Teoría,2020,61
+STACS,A,Teoría,2021,60
+STACS,A,Teoría,2022,61
+STACS,A,Teoría,2023,56
+STACS,A,Teoría,2024,60
+STACS,A,Teoría,2025,77
+STOC,A*,Teoría,2001,86
+STOC,A*,Teoría,2002,92
+STOC,A*,Teoría,2003,80
+STOC,A*,Teoría,2004,73
+STOC,A*,Teoría,2005,85
+STOC,A*,Teoría,2006,79
+STOC,A*,Teoría,2007,78
+STOC,A*,Teoría,2008,85
+STOC,A*,Teoría,2009,79
+STOC,A*,Teoría,2010,82
+STOC,A*,Teoría,2011,84
+STOC,A*,Teoría,2012,89
+STOC,A*,Teoría,2013,100
+STOC,A*,Teoría,2014,91
+STOC,A*,Teoría,2015,93
+STOC,A*,Teoría,2016,92
+STOC,A*,Teoría,2017,110
+STOC,A*,Teoría,2018,113
+STOC,A*,Teoría,2019,113
+STOC,A*,Teoría,2020,113
+STOC,A*,Teoría,2021,151
+STOC,A*,Teoría,2022,134
+STOC,A*,Teoría,2023,155
+STOC,A*,Teoría,2024,190
+STOC,A*,Teoría,2025,219
+SiggraphA,A*,HCI,2008,145
+SiggraphA,A*,HCI,2009,45
+SiggraphA,A*,HCI,2010,168
+SiggraphA,A*,HCI,2011,153
+SiggraphA,A*,HCI,2012,155
+SiggraphA,A*,HCI,2017,89
+SiggraphA,A*,HCI,2018,52
+SiggraphA,A*,HCI,2019,95
+SiggraphA,A*,HCI,2020,47
+SiggraphA,A*,HCI,2021,60
+SiggraphA,A*,HCI,2022,154
+SiggraphA,A*,HCI,2023,300
+SiggraphA,A*,HCI,2024,333
+SiggraphA,A*,HCI,2025,264
+SoCG,A*,Teoría,2013,55
+SoCG,A*,Teoría,2014,70
+SoCG,A*,Teoría,2015,66
+SoCG,A*,Teoría,2016,73
+SoCG,A*,Teoría,2017,68
+SoCG,A*,Teoría,2018,78
+SoCG,A*,Teoría,2019,67
+SoCG,A*,Teoría,2020,86
+SoCG,A*,Teoría,2021,66
+SoCG,A*,Teoría,2022,75
+SoCG,A*,Teoría,2023,68
+SoCG,A*,Teoría,2024,93
+SoCG,A*,Teoría,2025,86
+TACAS,A,Ing. del Software,2001,41
+TACAS,A,Ing. del Software,2002,35
+TACAS,A,Ing. del Software,2003,43
+TACAS,A,Ing. del Software,2004,43
+TACAS,A,Ing. del Software,2005,42
+TACAS,A,Ing. del Software,2006,35
+TACAS,A,Ing. del Software,2007,56
+TACAS,A,Ing. del Software,2008,39
+TACAS,A,Ing. del Software,2009,36
+TACAS,A,Ing. del Software,2010,37
+TACAS,A,Ing. del Software,2011,34
+TACAS,A,Ing. del Software,2012,48
+TACAS,A,Ing. del Software,2013,53
+TACAS,A,Ing. del Software,2014,55
+TACAS,A,Ing. del Software,2015,62
+TACAS,A,Ing. del Software,2016,69
+UAI,A,IA / ML,2001,71
+UAI,A,IA / ML,2002,69
+UAI,A,IA / ML,2003,77
+UAI,A,IA / ML,2004,77
+UAI,A,IA / ML,2005,81
+UAI,A,IA / ML,2006,68
+UAI,A,IA / ML,2007,59
+UAI,A,IA / ML,2008,72
+UAI,A,IA / ML,2009,76
+UAI,A,IA / ML,2010,88
+UAI,A,IA / ML,2011,101
+UAI,A,IA / ML,2012,96
+UAI,A,IA / ML,2013,73
+UAI,A,IA / ML,2014,94
+UAI,A,IA / ML,2015,99
+UAI,A,IA / ML,2016,85
+UAI,A,IA / ML,2017,92
+UAI,A,IA / ML,2018,104
+UAI,A,IA / ML,2019,118
+UAI,A,IA / ML,2020,140
+UAI,A,IA / ML,2021,206
+UAI,A,IA / ML,2022,230
+UAI,A,IA / ML,2023,243
+UAI,A,IA / ML,2024,201
+UAI,A,IA / ML,2025,229
+UIST,A*,HCI,2001,31
+UIST,A*,HCI,2002,26
+UIST,A*,HCI,2003,25
+UIST,A*,HCI,2004,39
+UIST,A*,HCI,2005,32
+UIST,A*,HCI,2006,42
+UIST,A*,HCI,2007,36
+UIST,A*,HCI,2008,36
+UIST,A*,HCI,2009,35
+UIST,A*,HCI,2010,41
+UIST,A*,HCI,2011,69
+UIST,A*,HCI,2012,63
+UIST,A*,HCI,2013,63
+UIST,A*,HCI,2014,76
+UIST,A*,HCI,2015,72
+UIST,A*,HCI,2016,81
+UIST,A*,HCI,2017,75
+UIST,A*,HCI,2018,82
+UIST,A*,HCI,2019,95
+UIST,A*,HCI,2020,101
+UIST,A*,HCI,2021,95
+UIST,A*,HCI,2022,98
+UIST,A*,HCI,2023,121
+UIST,A*,HCI,2024,146
+UIST,A*,HCI,2025,210
+UMAP,A,HCI,2009,56
+UMAP,A,HCI,2010,45
+UMAP,A,HCI,2011,51
+UMAP,A,HCI,2012,43
+UMAP,A,HCI,2013,51
+UMAP,A,HCI,2014,47
+UMAP,A,HCI,2015,37
+UMAP,A,HCI,2016,58
+UMAP,A,HCI,2017,77
+UMAP,A,HCI,2018,60
+UMAP,A,HCI,2019,53
+UMAP,A,HCI,2020,64
+UMAP,A,HCI,2021,42
+UMAP,A,HCI,2022,41
+UMAP,A,HCI,2023,36
+UMAP,A,HCI,2024,36
+UMAP,A,HCI,2025,59
+USENIX,A,Sistemas,2007,52
+USENIX,A,Sistemas,2008,34
+USENIX,A,Sistemas,2009,31
+USENIX,A,Sistemas,2010,24
+USENIX,A,Sistemas,2011,35
+USENIX,A,Sistemas,2012,41
+USENIX,A,Sistemas,2013,33
+USENIX,A,Sistemas,2014,44
+USENIX,A,Sistemas,2015,47
+USENIX,A,Sistemas,2016,58
+USENIX,A,Sistemas,2017,64
+USENIX,A,Sistemas,2018,76
+USENIX,A,Sistemas,2019,78
+USENIX,A,Sistemas,2020,67
+USENIX,A,Sistemas,2021,64
+USENIX,A,Sistemas,2022,67
+USENIX,A,Sistemas,2023,65
+USENIX,A,Sistemas,2024,77
+USENIX,A,Sistemas,2025,100
+USENIX-Security,A*,Seguridad,2001,25
+USENIX-Security,A*,Seguridad,2002,22
+USENIX-Security,A*,Seguridad,2003,21
+USENIX-Security,A*,Seguridad,2004,32
+USENIX-Security,A*,Seguridad,2005,22
+USENIX-Security,A*,Seguridad,2006,22
+USENIX-Security,A*,Seguridad,2007,23
+USENIX-Security,A*,Seguridad,2008,27
+USENIX-Security,A*,Seguridad,2009,26
+USENIX-Security,A*,Seguridad,2010,30
+USENIX-Security,A*,Seguridad,2011,35
+USENIX-Security,A*,Seguridad,2012,43
+USENIX-Security,A*,Seguridad,2013,45
+USENIX-Security,A*,Seguridad,2014,67
+USENIX-Security,A*,Seguridad,2015,67
+USENIX-Security,A*,Seguridad,2016,72
+USENIX-Security,A*,Seguridad,2017,85
+USENIX-Security,A*,Seguridad,2018,101
+USENIX-Security,A*,Seguridad,2019,113
+USENIX-Security,A*,Seguridad,2020,159
+USENIX-Security,A*,Seguridad,2021,247
+USENIX-Security,A*,Seguridad,2022,256
+USENIX-Security,A*,Seguridad,2023,422
+USENIX-Security,A*,Seguridad,2024,418
+USENIX-Security,A*,Seguridad,2025,439
+VLDB,A*,Bases de datos,2001,105
+VLDB,A*,Bases de datos,2002,117
+VLDB,A*,Bases de datos,2003,123
+VLDB,A*,Bases de datos,2004,150
+VLDB,A*,Bases de datos,2005,142
+VLDB,A*,Bases de datos,2006,136
+VLDB,A*,Bases de datos,2007,161
+VLDB,A*,Bases de datos,2008,169
+VLDB,A*,Bases de datos,2009,167
+VLDB,A*,Bases de datos,2010,198
+VLDB,A*,Bases de datos,2011,190
+VLDB,A*,Bases de datos,2012,196
+VLDB,A*,Bases de datos,2013,254
+VLDB,A*,Bases de datos,2014,244
+VLDB,A*,Bases de datos,2015,233
+VLDB,A*,Bases de datos,2016,185
+VLDB,A*,Bases de datos,2017,211
+VLDB,A*,Bases de datos,2018,213
+VLDB,A*,Bases de datos,2019,243
+VLDB,A*,Bases de datos,2020,328
+VLDB,A*,Bases de datos,2021,358
+VLDB,A*,Bases de datos,2022,370
+VLDB,A*,Bases de datos,2023,383
+VLDB,A*,Bases de datos,2024,457
+VLDB,A*,Bases de datos,2025,459
+VR,A*,HCI,2001,57
+VR,A*,HCI,2002,55
+VR,A*,HCI,2003,58
+VR,A*,HCI,2004,75
+VR,A*,HCI,2005,65
+VR,A*,HCI,2006,68
+VR,A*,HCI,2007,72
+VR,A*,HCI,2008,66
+VR,A*,HCI,2009,75
+VR,A*,HCI,2010,75
+VR,A*,HCI,2011,77
+VR,A*,HCI,2012,95
+VR,A*,HCI,2013,103
+VR,A*,HCI,2014,72
+VR,A*,HCI,2015,147
+VR,A*,HCI,2016,113
+VR,A*,HCI,2017,164
+VR,A*,HCI,2018,259
+VR,A*,HCI,2019,473
+VR,A*,HCI,2020,104
+VR,A*,HCI,2021,92
+VR,A*,HCI,2022,90
+VR,A*,HCI,2023,77
+VR,A*,HCI,2024,109
+VR,A*,HCI,2025,75
+WACV,A,IA / ML,2002,55
+WACV,A,IA / ML,2007,56
+WACV,A,IA / ML,2008,52
+WACV,A,IA / ML,2009,91
+WACV,A,IA / ML,2011,98
+WACV,A,IA / ML,2012,60
+WACV,A,IA / ML,2013,73
+WACV,A,IA / ML,2014,152
+WACV,A,IA / ML,2015,155
+WACV,A,IA / ML,2016,189
+WACV,A,IA / ML,2017,140
+WACV,A,IA / ML,2018,221
+WACV,A,IA / ML,2019,230
+WACV,A,IA / ML,2020,378
+WACV,A,IA / ML,2021,406
+WACV,A,IA / ML,2022,406
+WACV,A,IA / ML,2023,634
+WACV,A,IA / ML,2024,845
+WACV,A,IA / ML,2025,929
+WSDM,A,Bases de datos,2008,26
+WSDM,A,Bases de datos,2009,32
+WSDM,A,Bases de datos,2010,45
+WSDM,A,Bases de datos,2011,91
+WSDM,A,Bases de datos,2012,86
+WSDM,A,Bases de datos,2013,95
+WSDM,A,Bases de datos,2014,80
+WSDM,A,Bases de datos,2015,64
+WSDM,A,Bases de datos,2016,93
+WSDM,A,Bases de datos,2017,104
+WSDM,A,Bases de datos,2018,115
+WSDM,A,Bases de datos,2019,121
+WSDM,A,Bases de datos,2020,130
+WSDM,A,Bases de datos,2021,158
+WSDM,A,Bases de datos,2022,210
+WSDM,A,Bases de datos,2023,187
+WSDM,A,Bases de datos,2024,175
+WSDM,A,Bases de datos,2025,150
+WWW,A*,Bases de datos,2001,78
+WWW,A*,Bases de datos,2002,72
+WWW,A*,Bases de datos,2003,77
+WWW,A*,Bases de datos,2004,74
+WWW,A*,Bases de datos,2005,82
+WWW,A*,Bases de datos,2006,215
+WWW,A*,Bases de datos,2007,230
+WWW,A*,Bases de datos,2008,235
+WWW,A*,Bases de datos,2009,198
+WWW,A*,Bases de datos,2010,241
+WWW,A*,Bases de datos,2011,84
+WWW,A*,Bases de datos,2012,107
+WWW,A*,Bases de datos,2013,137
+WWW,A*,Bases de datos,2014,87
+WWW,A*,Bases de datos,2015,131
+WWW,A*,Bases de datos,2016,126
+WWW,A*,Bases de datos,2017,167
+WWW,A*,Bases de datos,2018,191
+WWW,A*,Bases de datos,2019,391
+WWW,A*,Bases de datos,2020,320
+WWW,A*,Bases de datos,2021,355
+WWW,A*,Bases de datos,2022,367
+WWW,A*,Bases de datos,2023,407
+WWW,A*,Bases de datos,2024,432
+WWW,A*,Bases de datos,2025,447

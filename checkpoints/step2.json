@@ -1,0 +1,9 @@
+{
+  "step": 2,
+  "status": "COMPLETE",
+  "official_astar": 62,
+  "official_a": 108,
+  "official_total": 170,
+  "total_mapped": 170,
+  "total_unmapped": 0
+}
