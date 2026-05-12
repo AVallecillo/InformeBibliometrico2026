@@ -22,7 +22,6 @@ Las preguntas principales son:
 2. ¿Cómo se compara España con los principales países europeos?
 3. ¿Existen diferencias significativas entre áreas temáticas?
 4. ¿Qué congresos concentran la mayor presencia española?
-5. ¿Qué limitaciones metodológicas derivan de la cobertura de afiliaciones y de la clasificación retrospectiva CORE/ICORE 2026?
 
 ---
 

@@ -6,6 +6,7 @@ Combina las evidencias producidas por:
   - 06_resolve_affiliations_openalex_venue.py
   - 07_resolve_affiliations_drops.py
   - 08_resolve_affiliations_crossref.py
+  - 10_resolve_affiliations_openreview.py
 
 y genera una tabla artículo-país deduplicada para conteo completo por país.
 
@@ -15,6 +16,10 @@ Entradas esperadas:
   outputs/affiliation_evidence_openalex_venue.csv        (opcional)
   outputs/affiliation_evidence_drops.csv                 (opcional)
   outputs/affiliation_evidence_crossref.csv              (opcional)
+  outputs/affiliation_evidence_openreview.csv            (opcional)
+  outputs/affiliation_evidence_openreview_expanded.csv   (opcional)
+  outputs/affiliation_evidence_official_sources.csv       (opcional)
+  outputs/affiliation_evidence_semantic_scholar_selective.csv (opcional)
 
 Salidas:
   outputs/paper_country.csv
@@ -58,6 +63,10 @@ EVIDENCE_FILES = [
     ("openalex_venue", OUTPUTS / "affiliation_evidence_openalex_venue.csv"),
     ("drops", OUTPUTS / "affiliation_evidence_drops.csv"),
     ("crossref", OUTPUTS / "affiliation_evidence_crossref.csv"),
+    ("openreview", OUTPUTS / "affiliation_evidence_openreview.csv"),
+    ("openreview_expanded", OUTPUTS / "affiliation_evidence_openreview_expanded.csv"),
+    ("official_sources", OUTPUTS / "affiliation_evidence_official_sources.csv"),
+    ("semantic_scholar", OUTPUTS / "affiliation_evidence_semantic_scholar_selective.csv"),
 ]
 
 # ISO-3166 alpha-2. Nombre corto suficiente para informes y exportaciones.
@@ -76,7 +85,7 @@ COUNTRY_NAMES = {
     "IS": "Iceland", "IT": "Italy", "JO": "Jordan", "JP": "Japan", "KE": "Kenya", "KG": "Kyrgyzstan",
     "KH": "Cambodia", "KR": "South Korea", "KW": "Kuwait", "KZ": "Kazakhstan", "LB": "Lebanon",
     "LK": "Sri Lanka", "LT": "Lithuania", "LU": "Luxembourg", "LV": "Latvia", "MA": "Morocco",
-    "MD": "Moldova", "ME": "Montenegro", "MK": "North Macedonia", "MT": "Malta", "MU": "Mauritius",
+    "MD": "Moldova", "ME": "Montenegro", "MK": "North Macedonia", "MT": "Malta", "MU": "Mauritius", "MO": "Macao",
     "MX": "Mexico", "MY": "Malaysia", "NG": "Nigeria", "NL": "Netherlands", "NO": "Norway",
     "NP": "Nepal", "NZ": "New Zealand", "OM": "Oman", "PA": "Panama", "PE": "Peru", "PH": "Philippines",
     "PK": "Pakistan", "PL": "Poland", "PR": "Puerto Rico", "PT": "Portugal", "QA": "Qatar",
@@ -99,8 +108,10 @@ SOURCE_PRIORITY = {
     "crossref": 3,
     "drops": 4,
     # por si más adelante añadimos fuentes nuevas
-    "semantic_scholar": 5,
-    "openreview": 6,
+    "official_sources": 5,
+    "semantic_scholar": 6,
+    "openreview": 7,
+    "openreview_expanded": 8,
 }
 
 
