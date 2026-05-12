@@ -110,7 +110,7 @@ PASO 4 — Crear tabla maestra de artículos
 
 
 av@DESKTOP-3AU3LBP MINGW64 ~/Dropbox/AV/SCIE/ANECA 2026/CHATGPT
-$ python scripts/05_resolve_affiliations_openalex_doi.py --api-key 8XQYNBVPPbPpec9pfaNkbR --force
+$ python scripts/05_resolve_affiliations_openalex_doi.py --api-key YOUR_OPENALEX_KEY --force
 ======================================================================
 PASO 5 — OpenAlex DOI → evidencias país
 ======================================================================
@@ -149,7 +149,7 @@ PASO 7 — Afiliaciones desde DROPS/LIPIcs
   Artículos resueltos vía DROPS: 2,456/8,460 (29.03%)
 
 av@DESKTOP-3AU3LBP MINGW64 ~/Dropbox/AV/SCIE/ANECA 2026/CHATGPT
-$ python scripts/06_resolve_affiliations_openalex_venue.py --api-key 8XQYNBVPPbPpec9pfaNkbR --max-pages 20 --force
+$ python scripts/06_resolve_affiliations_openalex_venue.py --api-key YOUR_OPENALEX_KEY --max-pages 20 --force
 ======================================================================
 PASO 6 — OpenAlex por source_id/venue-año
 ======================================================================
@@ -286,7 +286,7 @@ Tiempo matching total combos ejecutados: 6.7s
 
   ✅ Paso 6 completado → outputs/affiliation_evidence_openalex_venue.csv
 
-$ python scripts/08_resolve_affiliations_crossref.py --mailto antoniovallecillomoreno@gmail.com --force
+$ python scripts/08_resolve_affiliations_crossref.py --mailto YOUR_MAIL --force
 ======================================================================
 PASO 8 — CrossRef DOI → evidencias de país
 ======================================================================
@@ -333,7 +333,7 @@ PASO 10 — Afiliaciones desde OpenReview
   Ya resueltos por fuentes previas: 419,691
   Objetivo OpenReview sin país previo: 50,981
   Ediciones objetivo (congress, year): 146
-  OpenReview: autenticado como av@uma.es
+  OpenReview: autenticado como YOUR_MAIL
   Venues/años OpenReview a procesar: 30
   OpenReview venues:  33%|███▎      | 10/30 [00:15<00:33,  1.70s/it]C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\scripts\10_resolve_affiliations_openreview.py:339: DeprecationWarning: Call to deprecated function (or staticmethod) iterget_notes. (Use client.get_all_notes() instead) -- Deprecated since version 1.52.6.
   got = list(openreview_mod.tools.iterget_notes(client_v1, invitation=f"{venue_id}{suffix}"))
@@ -466,7 +466,7 @@ PASO 10 — Afiliaciones desde OpenReview
   Ya resueltos por fuentes previas: 448,293
   Objetivo OpenReview sin país previo: 25,899
   Ediciones objetivo (congress, year): 265
-  OpenReview: autenticado como av@uma.es
+  OpenReview: autenticado como YOUR_MAIL
   Venues/años OpenReview a procesar: 96
   OpenReview venues: 100%|██████████| 96/96 [03:47<00:00,  2.37s/it]
 
@@ -608,7 +608,7 @@ PDFs/URLs auditados: 0
   ✅ Paso 11 completado → C:\Users\av\Dropbox\AV\SCIE\ANECA 2026\CHATGPT\outputs\affiliation_evidence_official_sources.csv
 
 av@DESKTOP-3AU3LBP MINGW64 ~/Dropbox/AV/SCIE/ANECA 2026/CHATGPT
-$ python scripts/12_resolve_affiliations_semantic_scholar_selective.py   --api-key s2k-HIPLfzJz8R0YrsIsWUvYqPcNsLaFN56He70QxzhD --title-workers 4 --rate-limit 0.9 --save-every 5000 --force
+$ python scripts/12_resolve_affiliations_semantic_scholar_selective.py   --api-key YOUR_SEMANTIC_SCHOLAR_KEY --title-workers 4 --rate-limit 0.9 --save-every 5000 --force
 ======================================================================
 PASO 12 — Semantic Scholar selectivo
 ======================================================================
