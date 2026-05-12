@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d688ab9aa326d37fa17b244c22cace7ceb066344adce69f45ed0c9bf5528d17
-size 4327
+=== AUDITORÍA DEL CORPUS DBLP EXTRAÍDO ===
+
+Rango temporal esperado: 2001-2025
+Congresos oficiales: 170 (62 A* + 108 A)
+Artículos extraídos: 535,144
+Congresos con datos: 170
+Booktitles distintos: 524
+
+=== RESUMEN POR NIVEL ===
+  A: congresos=108, artículos=229,474, min=93, mediana=1071.0, max=23281
+  A*: congresos=62, artículos=305,670, min=448, mediana=2294.0, max=23565
+
+=== CONGRESOS CON AVISOS ===
+  ISMB             nivel=A  artículos=    93 años=2002-2008 n_years= 2 flags=LOW_YEAR_SPAN_LT_3
+  SEAMS            nivel=A  artículos=   124 años=2021-2025 n_years= 5 flags=WATCHLIST
+      Nota: Booktitle largo: Software Engineering for Adaptive and Self-Managing Systems.
+  IJCAR            nivel=A  artículos=   446 años=2001-2022 n_years=10 flags=WATCHLIST
+      Nota: Comparte históricamente parte del stream conf/cade; revisar routing CADE/IJCAR.
+  CADE             nivel=A  artículos=   477 años=2002-2025 n_years=13 flags=WATCHLIST
+      Nota: Comparte históricamente parte del stream conf/cade; revisar routing CADE/IJCAR.
+  FC               nivel=A  artículos=   755 años=2001-2025 n_years=24 flags=WATCHLIST
+      Nota: Booktitle largo: Financial Cryptography and Data Security; excluir workshops.
+  ITCS             nivel=A  artículos= 1,010 años=2012-2025 n_years=14 flags=WATCHLIST
+      Nota: Debe usar conf/innovations, no conf/itcs.
+  PETS             nivel=A  artículos= 1,011 años=2011-2025 n_years=12 flags=WATCHLIST
+      Nota: Desde 2015 debe incluir journals/popets / PoPETs.
+  APPROX/RANDOM    nivel=A  artículos= 1,254 años=2002-2025 n_years=23 flags=WATCHLIST
+      Nota: DBLP puede separar APPROX y RANDOM; revisar booktitles capturados.
+  DIS              nivel=A  artículos= 2,053 años=2002-2025 n_years=17 flags=WATCHLIST
+      Nota: Debe usar conf/ACMdis, no conf/dis; excluir Companion.
+  SIGSPATIAL       nivel=A  artículos= 2,066 años=2003-2025 n_years=23 flags=WATCHLIST
+      Nota: Clave DBLP gis; revisar que no entren workshops tipo HealthGIS/MobiGIS.
+  MICCAI           nivel=A  artículos=14,260 años=2001-2025 n_years=25 flags=WATCHLIST
+      Nota: Booktitle largo en múltiples partes; usar coincidencia parcial MICCAI y excluir workshops.
+  VLDB             nivel=A* artículos= 5,792 años=2001-2025 n_years=25 flags=WATCHLIST
+      Nota: Incluye journals/pvldb/PVLDB; revisar que no se estén capturando artículos ajenos a actas VLDB.
+
+=== BOOKTITLES CON TOKENS DE PROCEEDINGS SECUNDARIOS ===
+  Ninguno
+
+=== DUPLICADOS POR DBLP KEY ===
+  Ninguno
+
+=== TOP 20 CONGRESOS POR VOLUMEN ===
+  ICRA             A*  23,565 artículos
+  IROS             A   23,281 artículos
+  NeurIPS          A*  22,876 artículos
+  AAAI             A*  21,756 artículos
+  CVPR             A*  21,243 artículos
+  Interspeech      A   21,223 artículos
+  ICML             A*  15,644 artículos
+  MICCAI           A   14,260 artículos
+  IJCAI            A*  12,126 artículos
+  CHI              A*  11,478 artículos
+  ACMMM            A*  10,640 artículos
+  ICLR             A*  10,241 artículos
+  ACL              A*   9,617 artículos
+  ICME             A    9,384 artículos
+  EMNLP            A*   9,202 artículos
+  SIGGRAPH         A*   8,892 artículos
+  CIKM             A    8,847 artículos
+  ECCV             A*   8,528 artículos
+  ICCV             A*   8,144 artículos
+  DATE             A    7,874 artículos
+
+=== BOTTOM 20 CONGRESOS POR VOLUMEN ===
+  ISMB             A       93 artículos
+  SEAMS            A      124 artículos
+  ICSA             A      193 artículos
+  FOGA             A      205 artículos
+  IMC              A      322 artículos
+  SOUPS            A      353 artículos
+  ALENEX           A      376 artículos
+  HotOS            A      394 artículos
+  ECML PKDD        A      406 artículos
+  ESORICS          A      412 artículos
+  RTAS             A      432 artículos
+  ASIACRYPT        A      437 artículos
+  EuroS&P          A      441 artículos
+  IJCAR            A      446 artículos
+  CRYPTO           A*     448 artículos
+  IEEE VIS         A      477 artículos
+  CADE             A      477 artículos
+  EuroCrypt        A*     498 artículos
+  BPM              A      527 artículos
+  ICFP             A      528 artículos

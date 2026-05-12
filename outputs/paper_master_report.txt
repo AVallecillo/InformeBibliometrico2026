@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d978c8129f5d489a89d3e86f1a099bd4c39fcb67fcc8c8fa0b95a194d404e0bd
-size 2652
+=== PASO 4 — TABLA MAESTRA DE ARTÍCULOS ===
+
+Rango temporal: 2001-2025
+Artículos: 535,144
+Congresos con datos: 170 / 170
+Niveles: {'A': np.int64(229474), 'A*': np.int64(305670)}
+Áreas: 9
+Booktitles distintos: 524
+Con DOI: 441,999
+Con ArXiv ID: 0
+
+=== ARTÍCULOS POR VENTANA ===
+  2001-2005: 56,238
+  2006-2010: 75,088
+  2011-2015: 86,590
+  2016-2020: 118,717
+  2021-2025: 198,511
+
+=== ARTÍCULOS POR NIVEL ===
+  A: 229,474
+  A*: 305,670
+
+=== TOP 20 CONGRESOS POR VOLUMEN ===
+  ICRA             A*   23,565  IA / ML
+  IROS             A    23,281  IA / ML
+  NeurIPS          A*   22,876  IA / ML
+  AAAI             A*   21,756  IA / ML
+  CVPR             A*   21,243  IA / ML
+  Interspeech      A    21,223  IA / ML
+  ICML             A*   15,644  IA / ML
+  MICCAI           A    14,260  IA / ML
+  IJCAI            A*   12,126  IA / ML
+  CHI              A*   11,478  HCI
+  ACMMM            A*   10,640  IA / ML
+  ICLR             A*   10,241  IA / ML
+  ACL              A*    9,617  IA / ML
+  ICME             A     9,384  IA / ML
+  EMNLP            A*    9,202  IA / ML
+  SIGGRAPH         A*    8,892  HCI
+  CIKM             A     8,847  Bases de datos
+  ECCV             A*    8,528  IA / ML
+  ICCV             A*    8,144  IA / ML
+  DATE             A     7,874  Sistemas
+
+=== BOTTOM 20 CONGRESOS POR VOLUMEN ===
+  ISMB             A        93  Bioinformática
+  SEAMS            A       124  Ing. del Software
+  ICSA             A       193  Ing. del Software
+  FOGA             A       205  IA / ML
+  IMC              A       322  Redes
+  SOUPS            A       353  Seguridad
+  ALENEX           A       376  Teoría
+  HotOS            A       394  Sistemas
+  ECML PKDD        A       406  IA / ML
+  ESORICS          A       412  Seguridad
+  RTAS             A       432  Sistemas
+  ASIACRYPT        A       437  Seguridad
+  EuroS&P          A       441  Seguridad
+  IJCAR            A       446  Teoría
+  CRYPTO           A*      448  Seguridad
+  IEEE VIS         A       477  HCI
+  CADE             A       477  Teoría
+  EuroCrypt        A*      498  Seguridad
+  BPM              A       527  Ing. del Software
+  ICFP             A       528  Ing. del Software
+
+=== SALIDAS GENERADAS ===
+  outputs/paper_master.csv
+  outputs/paper_master_summary.csv
+  outputs/paper_counts_by_year.csv
+  outputs/paper_counts_by_congress.csv
+  outputs/paper_counts_by_congress_year.csv
+  outputs/paper_counts_by_area.csv
+  outputs/paper_counts_by_level.csv
+  outputs/paper_counts_by_window.csv
+  outputs/paper_counts_by_area_window.csv
+  outputs/paper_counts_by_level_window.csv

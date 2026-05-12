@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ab7b7d8d4b0314e1cd08cbaa463f8d8af4f8d1c0a8d023d8d4656a6e72dbd57
-size 361
+=== INFORME DE COBERTURA DEL CORPUS OFICIAL CORE/ICORE 2026 ===
+
+Rango temporal esperado: 2001-2025
+Congresos oficiales: 170 (62 A* + 108 A)
+Artículos totales: 535,144
+Congresos con datos: 170
+Congresos sin datos: 0
+  🔴 A* (críticos): 0
+  🟡 A (a revisar): 0
+
+
+=== CONGRESOS CON MUY POCOS ARTÍCULOS (< 10 en todo el período) ===
+
+  Ninguno
