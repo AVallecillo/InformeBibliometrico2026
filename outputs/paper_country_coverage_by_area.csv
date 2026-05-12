@@ -1,10 +1,3 @@
-area,total_papers,resolved_papers,unresolved_papers,coverage_pct
-Bases de datos,53576,51614,1962,96.34
-Bioinformática,93,88,5,94.62
-HCI,45573,42274,3299,92.76
-IA / ML,291505,228755,62750,78.47
-Ing. del Software,29887,28968,919,96.93
-Redes,17697,17302,395,97.77
-Seguridad,16716,12527,4189,74.94
-Sistemas,51741,47081,4660,90.99
-Teoría,28356,23906,4450,84.31
+version https://git-lfs.github.com/spec/v1
+oid sha256:66899e27aab04e31fafde2619645688721abb04e8175078ea8e2df3f4686beef
+size 368

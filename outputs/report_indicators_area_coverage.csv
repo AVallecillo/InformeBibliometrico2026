@@ -1,10 +1,3 @@
-area,total_articles,resolved_articles,eu27_uk_articles,spain_articles,unresolved_articles,coverage_rate,coverage_pct,spain_share_world_resolved,spain_share_eu27_uk,spain_share_eu27_uk_pct,area_report_label,n_congresses
-Redes,17697,17302,4277,392,395,0.97768,97.768,0.022656,0.091653,9.165,Redes,9
-Ing. del Software,29887,28968,12456,775,919,0.969251,96.925,0.026754,0.062219,6.222,Ingeniería del Software,28
-Bases de datos,53576,51614,13484,934,1962,0.963379,96.338,0.018096,0.069267,6.927,Bases de datos,16
-Bioinformática,93,88,23,0,5,0.946237,94.624,0.0,0.0,0.0,Bioinformática,1
-HCI,45573,42274,12886,365,3299,0.927611,92.761,0.008634,0.028325,2.833,HCI,16
-Sistemas,51741,47081,12977,1071,4660,0.909936,90.994,0.022748,0.082531,8.253,"Sistemas, arquitectura y computación",28
-Teoría,28356,23906,11184,365,4450,0.843067,84.307,0.015268,0.032636,3.264,Teoría,19
-IA / ML,291505,228755,68588,3972,62750,0.784738,78.474,0.017364,0.057911,5.791,IA / ML,36
-Seguridad,16716,12527,4850,208,4189,0.749402,74.94,0.016604,0.042887,4.289,Seguridad,17
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9b8c93c11810e5452ecb073799c32f2531e7acc5ea3ea88ee0c2dfbd065fe1
+size 1056

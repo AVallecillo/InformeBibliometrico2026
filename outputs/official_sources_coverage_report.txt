@@ -1,9 +1,3 @@
-=== PASO 11 — FUENTES OFICIALES/PDFs ===
-
-Artículos objetivo sin país previo: 0
-Artículos con >=1 país vía fuentes oficiales/PDF: 0
-Cobertura sobre objetivo: 0.00%
-Filas de evidencia paper-país: 0
-PDFs/URLs auditados: 0
-
-=== ESTADO ===
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae77b768aeee26954606708d23affdf0bbbd81dfdd3f854e0b3dea9821bb927
+size 253
