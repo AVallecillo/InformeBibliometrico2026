@@ -1,13 +1,3 @@
-{
-  "step": "5_openalex_doi",
-  "status": "COMPLETE",
-  "input": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\outputs\\paper_master.csv",
-  "articles_total": 535144,
-  "unique_dois": 441999,
-  "cache_size": 441999,
-  "papers_with_country": 404200,
-  "evidence_rows": 549169,
-  "evidence_csv": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\outputs\\affiliation_evidence_openalex_doi.csv",
-  "unresolved_csv": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\outputs\\openalex_doi_unresolved.csv",
-  "report": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\outputs\\openalex_doi_coverage_report.txt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7698984f278cd27ba78c71cf8cae272f289e0658b145a036b4072c2e90d4e647
+size 648

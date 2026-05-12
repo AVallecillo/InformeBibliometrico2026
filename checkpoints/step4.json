@@ -1,21 +1,3 @@
-{
-  "step": 4,
-  "status": "COMPLETE",
-  "n_articles": 535144,
-  "n_congresses": 170,
-  "year_min": 2001,
-  "year_max": 2025,
-  "outputs": [
-    "paper_master.csv",
-    "paper_master_summary.csv",
-    "paper_counts_by_year.csv",
-    "paper_counts_by_congress.csv",
-    "paper_counts_by_congress_year.csv",
-    "paper_counts_by_area.csv",
-    "paper_counts_by_level.csv",
-    "paper_counts_by_window.csv",
-    "paper_counts_by_area_window.csv",
-    "paper_counts_by_level_window.csv",
-    "paper_master_report.txt"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:252e393741232d9a2c1a3d0f875519c890ab881573226607b04cc9ab45792655
+size 539
