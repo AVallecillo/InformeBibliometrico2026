@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cecb74db3ea6e2d6f97d0bb7eea80b39e800673d07ae132d16ef7dc0266c62c6
-size 385
+{
+  "step": 1,
+  "status": "COMPLETE",
+  "source": "CORE_2026_OFICIAL_ASTAR_A",
+  "core_astar_csv": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\data\\CORE-Astar.csv",
+  "core_a_csv": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\data\\CORE-A.csv",
+  "astar": 62,
+  "a_level": 108,
+  "total": 170,
+  "reconciliation_rows": 1,
+  "unclassified_area": []
+}

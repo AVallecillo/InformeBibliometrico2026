@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:612e039ad7e2f95447f311cb77e5bca86f778d9994aa9462f5e7310803ab0e14
-size 467
+scenario,venue,area_alt
+baseline,WWW,Bases de datos
+baseline,SIGIR,Bases de datos
+baseline,CIKM,Bases de datos
+baseline,KDD,IA/ML
+baseline,AAAI,IA/ML
+baseline,IJCAI,IA/ML
+WWW_as_IAML,WWW,IA/ML
+SIGIR_CIKM_as_IAML,SIGIR,IA/ML
+SIGIR_CIKM_as_IAML,CIKM,IA/ML
+KDD_as_DB,KDD,Bases de datos
+WWW_SIGIR_CIKM_as_IAML_KDD_as_DB,WWW,IA/ML
+WWW_SIGIR_CIKM_as_IAML_KDD_as_DB,SIGIR,IA/ML
+WWW_SIGIR_CIKM_as_IAML_KDD_as_DB,CIKM,IA/ML
+WWW_SIGIR_CIKM_as_IAML_KDD_as_DB,KDD,Bases de datos

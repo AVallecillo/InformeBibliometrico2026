@@ -1,3 +1,109 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0590105a001e5e1c9f05e14e36572b4a8b8183a860f674cace76c2d4fc766a12
-size 11332
+acronym,title,level,area,for1,status
+AAMAS,"International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",A,IA / ML,4602,CORE_2026_OFICIAL
+ACSAC,Annual Computer Security Applications Conference,A,Seguridad,4604,CORE_2026_OFICIAL
+AIED,International Conference on Artificial Intelligence in Education,A,IA / ML,4601,CORE_2026_OFICIAL
+AISTATS,International Conference on Artificial Intelligence and Statistics,A,IA / ML,4611,CORE_2026_OFICIAL
+ALENEX,Workshop on Algorithm Engineering and Experiments,A,Teoría,4613,CORE_2026_OFICIAL
+APPROX/RANDOM,International Workshop on Approximation Algorithms for Combinatorial Optimization Problems and International Conference on Randomization and Computation,A,Teoría,4613,CORE_2026_OFICIAL
+ASIACRYPT,International Conference on the Theory and Application of Cryptology and Information Security,A,Seguridad,4604,CORE_2026_OFICIAL
+ASSETS,International ACM SIGACCESS Conference on Computers and Accessibility,A,HCI,4608,CORE_2026_OFICIAL
+AsiaCCS,"Asia Conference on Information, Computer and Communications Security",A,Seguridad,4604,CORE_2026_OFICIAL
+BMVC,British Machine Vision Conference,A,IA / ML,4603,CORE_2026_OFICIAL
+BPM,International Conference in Business Process Management,A,Ing. del Software,4612,CORE_2026_OFICIAL
+CADE,International Conference on Automated Deduction,A,Teoría,4602,CORE_2026_OFICIAL
+CCC,IEEE Conference on Computational Complexity,A,Teoría,4613,CORE_2026_OFICIAL
+CGO,International Symposium on Code Generation and Optimization,A,Ing. del Software,4612,CORE_2026_OFICIAL
+CHES,Workshop on Cryptographic Hardware and Embedded Systems,A,Seguridad,4604,CORE_2026_OFICIAL
+CIDR,Conference on Innovative Data Systems Research,A,Bases de datos,4605,CORE_2026_OFICIAL
+CIKM,ACM International Conference on Information and Knowledge Management,A,Bases de datos,4605,CORE_2026_OFICIAL
+CP,International Conference on Principles and Practice of Constraint Programming,A,Teoría,4602,CORE_2026_OFICIAL
+CSCW,ACM Conference on Computer Supported Cooperative Work,A,HCI,4608,CORE_2026_OFICIAL
+CSF,IEEE Computer Security Foundations Symposium (was CSFW),A,Seguridad,4604,CORE_2026_OFICIAL
+CaiSE,International Conference on Advanced Information Systems Engineering,A,Ing. del Software,4605,CORE_2026_OFICIAL
+CoNEXT,ACM International Conference on Emerging Networking Experiments and Technologies,A,Redes,4606,CORE_2026_OFICIAL
+DATE,"Design, Automation and Test in Europe Conference",A,Sistemas,CSE,CORE_2026_OFICIAL
+DIS,Designing Interactive Systems,A,HCI,4608,CORE_2026_OFICIAL
+DISC,International Symposium on Distributed Computing (was WDAG),A,Sistemas,4606,CORE_2026_OFICIAL
+DSN,IEEE/IFIP International Conference on Dependable Systems and Networks,A,Sistemas,4606,CORE_2026_OFICIAL
+EACL,European Association for Computational Linguistics,A,IA / ML,4602,CORE_2026_OFICIAL
+EASE,International Conference on Evaluation and Assessment in Software Engineering,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ECAI,European Conference on Artificial Intelligence,A,IA / ML,4602,CORE_2026_OFICIAL
+ECIR,European Conference on Information Retrieval,A,Bases de datos,4605,CORE_2026_OFICIAL
+ECML PKDD,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),A,IA / ML,4611,CORE_2026_OFICIAL
+ECOOP,European Conference on Object-Oriented Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ER,International Conference on Conceptual Modelling,A,Bases de datos,4605,CORE_2026_OFICIAL
+ESA,European Symposium on Algorithms,A,Teoría,4613,CORE_2026_OFICIAL
+ESEM,International Symposium on Empirical Software Engineering and Measurement,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ESOP,European Symposium on Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ESORICS,European Symposium On Research In Computer Security,A,Seguridad,4604,CORE_2026_OFICIAL
+EuroS&P,IEEE European Symposium on Security and Privacy,A,Seguridad,4604,CORE_2026_OFICIAL
+EuroSys,Eurosys Conference,A,Sistemas,4606,CORE_2026_OFICIAL
+FAST,Conference on File and Storage Technologies,A,Sistemas,4605,CORE_2026_OFICIAL
+FC,Financial Cryptography and Data Security Conference,A,Seguridad,4604,CORE_2026_OFICIAL
+FOGA,Foundations of Genetic Algorithms,A,IA / ML,4602,CORE_2026_OFICIAL
+FPGA,ACM Int'l Symposium on Field Programmable Gate Arrays,A,Sistemas,CSE,CORE_2026_OFICIAL
+GD,Graph Drawing,A,Teoría,4613,CORE_2026_OFICIAL
+GECCO,Genetic and Evolutionary Computations,A,IA / ML,4602,CORE_2026_OFICIAL
+HPDC,ACM International Symposium on High Performance Distributed Computing,A,Sistemas,4606,CORE_2026_OFICIAL
+HotOS,USENIX Workshop on Hot Topics in Operating Systems,A,Sistemas,4606,CORE_2026_OFICIAL
+ICCAD,IEEE/ACM International Conference on Computer-Aided Design,A,Sistemas,CSE,CORE_2026_OFICIAL
+ICDAR,IEEE International Conference on Document Analysis and Recognition,A,IA / ML,4605,CORE_2026_OFICIAL
+ICDCS,International Conference on Distributed Computing Systems,A,Sistemas,4606,CORE_2026_OFICIAL
+ICDT,International Conference on Database Theory,A,Bases de datos,4605,CORE_2026_OFICIAL
+ICER,International Computing Education Research Workshop,A,HCI,4608,CORE_2026_OFICIAL
+ICFP,International Conference on Functional Programming,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ICME,IEEE International Conference on Multimedia and Expo,A,IA / ML,4603,CORE_2026_OFICIAL
+ICPC,"IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",A,Ing. del Software,4612,CORE_2026_OFICIAL
+ICS,ACM International Conference on Supercomputing,A,Sistemas,CSE,CORE_2026_OFICIAL
+ICSA,International Conference on Software Architecture (was previously WICSA),A,Ing. del Software,4612,CORE_2026_OFICIAL
+ICSME,"IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",A,Ing. del Software,4612,CORE_2026_OFICIAL
+ICSOC,International Conference on Service Oriented Computing,A,Ing. del Software,4606,CORE_2026_OFICIAL
+ICST,"International Conference on Software Testing, Verification and Validation",A,Ing. del Software,4612,CORE_2026_OFICIAL
+ICWS,IEEE International Conference on Web Services,A,Redes,4606,CORE_2026_OFICIAL
+ICWSM,International Conference on Web and Social Media,A,IA / ML,4601,CORE_2026_OFICIAL
+IEEE VIS,IEEE Visualization,A,HCI,4608,CORE_2026_OFICIAL
+IJCAR,International Joint Conference on Automated Reasoning,A,Teoría,4602,CORE_2026_OFICIAL
+IMC,Internet Measurement Conference,A,Redes,4606,CORE_2026_OFICIAL
+IPDPS,IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP),A,Sistemas,4606,CORE_2026_OFICIAL
+IROS,IEEE/RSJ International Conference on Intelligent Robots and Systems,A,IA / ML,4602,CORE_2026_OFICIAL
+ISLPED,IEEE/ACM International Symposium on Low Power Electronics and Design,A,Sistemas,CSE,CORE_2026_OFICIAL
+ISMB,Intelligent Systems in Molecular Biology,A,Bioinformática,4601,CORE_2026_OFICIAL
+ISSRE,International Symposium on Software Reliability Engineering,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ISSTA,International Symposium on Software Testing and Analysis,A,Ing. del Software,4612,CORE_2026_OFICIAL
+ISWC,International Semantic Web Conference,A,Bases de datos,4605,CORE_2026_OFICIAL
+ITC,IEEE International Test Conference,A,Sistemas,CSE,CORE_2026_OFICIAL
+ITCS,Innovations in Theoretical Computer Science,A,Teoría,4613,CORE_2026_OFICIAL
+IUI,International Conference on Intelligent User Interfaces,A,HCI,4608,CORE_2026_OFICIAL
+Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),A,IA / ML,4602,CORE_2026_OFICIAL
+LAK,International Conference on Learning Analytics and Knowledge,A,IA / ML,4608,CORE_2026_OFICIAL
+MICCAI,Medical Image Computing and Computer-Assisted Intervention,A,IA / ML,4601,CORE_2026_OFICIAL
+MMSys,ACM Multimedia Systems Conference,A,Redes,4606,CORE_2026_OFICIAL
+MODELS,"International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)",A,Ing. del Software,4612,CORE_2026_OFICIAL
+MSR,IEEE International Working Conference on Mining Software Repositories,A,Ing. del Software,4612,CORE_2026_OFICIAL
+MSWIM,"ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",A,Redes,4606,CORE_2026_OFICIAL
+Middleware,ACM/IFIP/USENIX International Middleware Conference,A,Sistemas,4606,CORE_2026_OFICIAL
+Mobisys,"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",A,Redes,4606,CORE_2026_OFICIAL
+NAACL,North American Association for Computational Linguistics,A,IA / ML,4602,CORE_2026_OFICIAL
+OOPSLA,ACM Conference on Object Oriented Programming Systems Languages and Applications,A,Ing. del Software,4612,CORE_2026_OFICIAL
+PETS,Privacy Enhancing Technologies Symposium (was International Workshop of Privacy Enhancing Technologies),A,Seguridad,4604,CORE_2026_OFICIAL
+PPSN,Parallel Problem Solving from Nature,A,IA / ML,4611,CORE_2026_OFICIAL
+RAID,"The International Symposium on Research in Attacks, Intrusions and Defenses (was International Symposium on Recent Advances in Intrusion Detection)",A,Seguridad,4604,CORE_2026_OFICIAL
+RE,IEEE International Requirements Engineering Conference,A,Ing. del Software,4612,CORE_2026_OFICIAL
+RTAS,IEEE Real-Time and Embedded Technology and Applications Symposium,A,Sistemas,4606,CORE_2026_OFICIAL
+RTSS,Real Time Systems Symposium,A,Sistemas,4606,CORE_2026_OFICIAL
+RecSys,ACM International Conference on Recommender Systems,A,IA / ML,4605,CORE_2026_OFICIAL
+SANER,"IEEE International Conference on Software Analysis, Evolution and Reengineering",A,Ing. del Software,4612,CORE_2026_OFICIAL
+SAT,International Conference on Theory and Applications of Satisfiability Testing,A,Teoría,4602,CORE_2026_OFICIAL
+SC,"International Conference for High Performance Computing, Networking, Storage and Analysis (was Supercomputing Conference)",A,Sistemas,CSE,CORE_2026_OFICIAL
+SDM,SIAM International Conference on Data Mining,A,IA / ML,4605,CORE_2026_OFICIAL
+SEAMS,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,A,Ing. del Software,4612,CORE_2026_OFICIAL
+SIGCSE,ACM Special Interest Group on Computer Science Education Conference,A,HCI,4608,CORE_2026_OFICIAL
+SIGSPATIAL,ACM International Conference on Advances in Geographic Information Systems,A,Bases de datos,4601,CORE_2026_OFICIAL
+SOUPS,Symposium On Usable Privacy and Security,A,Seguridad,4608,CORE_2026_OFICIAL
+STACS,International Symposium on Theoretical Aspects of Computer Science,A,Teoría,4613,CORE_2026_OFICIAL
+TACAS,Tools and Algorithms for Construction and Analysis of Systems,A,Ing. del Software,4612,CORE_2026_OFICIAL
+UAI,Conference in Uncertainty in Artificial Intelligence,A,IA / ML,4602,CORE_2026_OFICIAL
+UMAP,"International Conference on User Modelling, Adaptation, and Personalization (was AH and UM)",A,HCI,4608,CORE_2026_OFICIAL
+USENIX,Usenix Annual Technical Conference,A,Sistemas,4606,CORE_2026_OFICIAL
+WACV,IEEE Workshop on Applications of Computer Vision,A,IA / ML,4603,CORE_2026_OFICIAL
+WSDM,ACM International Conference on Web Search and Data Mining,A,Bases de datos,4605,CORE_2026_OFICIAL

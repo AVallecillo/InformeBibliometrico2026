@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42da887867c7f599113b612cc3885f58a3bf99ede35186be3a87b375e65bad81
-size 1562
+priority_level,inferred_area,venues,ever_astar,total_required_years,mean_score
+HIGH,Bases de datos / Web / Conocimiento,7,0,88,18.228571428571428
+HIGH,Bioinformática / Informática médica,2,0,24,15.4
+HIGH,Control / Señal / Ingeniería,5,0,64,16.76
+HIGH,Educación / Learning technologies,3,1,41,18.733333333333334
+HIGH,HCI / CSCW / Documentos,3,2,33,20.2
+HIGH,Ingeniería del Software / Servicios,6,0,70,18.666666666666668
+HIGH,Machine Learning / Data Mining,1,0,15,21.0
+HIGH,NLP,2,0,30,21.0
+HIGH,Sin clasificar,37,3,494,16.12972972972973
+HIGH,Sistemas / HPC / Arquitectura,13,0,177,19.184615384615384
+HIGH,Sistemas de información,2,1,24,18.9
+HIGH,Sistemas empotrados / Tiempo real,6,2,90,22.666666666666668
+HIGH,Teoría / Métodos formales / PL,16,1,239,19.9875
+HIGH,Visión / Imagen / Gráficos,3,2,31,21.400000000000002
+LOW,Educación / Learning technologies,1,0,5,8.0
+LOW,Machine Learning / Data Mining,2,0,3,9.3
+LOW,Sin clasificar,53,0,266,6.3999999999999995
+MEDIUM,Bases de datos / Web / Conocimiento,2,0,10,11.0
+MEDIUM,Bioinformática / Informática médica,1,0,9,11.8
+MEDIUM,Control / Señal / Ingeniería,1,0,6,10.2
+MEDIUM,HCI / CSCW / Documentos,3,0,16,11.733333333333334
+MEDIUM,Ingeniería del Software / Servicios,1,0,6,13.2
+MEDIUM,Machine Learning / Data Mining,1,0,9,14.8
+MEDIUM,Sin clasificar,41,1,458,12.917073170731708
+MEDIUM,Sistemas / HPC / Arquitectura,2,0,14,12.9
+MEDIUM,Sistemas de información,3,0,21,11.4
+MEDIUM,Teoría / Métodos formales / PL,2,0,10,11.0
+MEDIUM,Visión / Imagen / Gráficos,4,0,20,11.0

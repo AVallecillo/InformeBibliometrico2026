@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22aafd08ec259fccabd04e7a305a7adf32c204d61fe452eca0315129bc5cce14
-size 153
+{
+  "step": 10,
+  "status": "COMPLETE",
+  "target_papers": 50981,
+  "resolved_papers": 28602,
+  "evidence_rows": 44808,
+  "venues_processed": 30
+}

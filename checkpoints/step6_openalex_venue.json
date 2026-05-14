@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13e1e40418765cf27c933f940f6bfc3fe781fb453e0a548260d4ee675f40220f
-size 387
+{
+  "step": 6,
+  "status": "COMPLETE",
+  "total_papers": 535144,
+  "already_resolved_doi": 404200,
+  "target_papers": 129887,
+  "resolved_papers_venue": 8541,
+  "evidence_rows": 11316,
+  "unresolved_rows": 121346,
+  "venue_cache_entries": 2806,
+  "source_cache_entries": 169,
+  "cache_hits": 0,
+  "api_fetches": 2576,
+  "max_pages_per_combo": 20,
+  "fuzzy_enabled": true
+}

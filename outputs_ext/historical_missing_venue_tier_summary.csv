@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0edb5d9bb4b996af49c97acc752ec9497485ecc69120fe8e8efcda6e3493cf0
-size 1330
+tier,inferred_area,venues,ever_astar,total_required_years,mean_score
+TIER1,Bases de datos / Web / Conocimiento,5,0,64,18.96
+TIER1,HCI / CSCW / Documentos,2,2,21,21.1
+TIER1,Ingeniería del Software / Servicios,6,0,70,18.666666666666668
+TIER1,Machine Learning / Data Mining,2,0,24,17.9
+TIER1,NLP,2,0,30,21.0
+TIER1,Sin clasificar,2,1,30,18.5
+TIER1,Sistemas / HPC / Arquitectura,12,0,162,19.283333333333335
+TIER1,Sistemas empotrados / Tiempo real,6,2,90,22.666666666666668
+TIER1,Teoría / Métodos formales / PL,16,1,239,19.9875
+TIER1,Visión / Imagen / Gráficos,3,2,31,21.400000000000002
+TIER2,Bases de datos / Web / Conocimiento,4,0,34,13.7
+TIER2,Bioinformática / Informática médica,3,0,33,14.200000000000001
+TIER2,Control / Señal / Ingeniería,5,0,64,16.76
+TIER2,Educación / Learning technologies,4,1,46,16.05
+TIER2,HCI / CSCW / Documentos,4,0,28,13.399999999999999
+TIER2,Ingeniería del Software / Servicios,1,0,6,13.2
+TIER2,Sin clasificar,36,2,469,15.77222222222222
+TIER2,Sistemas / HPC / Arquitectura,3,0,29,14.6
+TIER2,Sistemas de información,5,1,45,14.4
+TIER2,Teoría / Métodos formales / PL,2,0,10,11.0
+TIER2,Visión / Imagen / Gráficos,4,0,20,11.0
+TIER3,Control / Señal / Ingeniería,1,0,6,10.2
+TIER3,Machine Learning / Data Mining,2,0,3,9.3
+TIER3,Sin clasificar,93,1,719,9.255913978494624

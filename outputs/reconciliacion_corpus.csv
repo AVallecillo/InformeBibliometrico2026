@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c2a97b7511cb40f4486e286267915507b86018abacbc2f84083865cf3245e4f
-size 148
+status,detalle,astar,a_level,total
+SIN_RECONCILIACION_MANUAL,Corpus definido exclusivamente por CORE-Astar.csv y CORE-A.csv oficiales.,62,108,170

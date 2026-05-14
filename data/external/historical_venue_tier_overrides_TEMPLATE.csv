@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:774db5460ecc2e5c0eed489f2bba6f950bae6d1669570eb08a69b7e7829116b6
-size 295
+venue,tier_override,area_override,include_override,dblp_key_or_booktitle,notes_override
+COLING,TIER1,NLP,yes,conf/coling,Central NLP venue
+ICIS,TIER2,Sistemas de información,review,conf/icis,Frontera IS/CS
+AMIA,TIER3,Bioinformática / Informática médica,no,conf/amia,Fuera del foco principal

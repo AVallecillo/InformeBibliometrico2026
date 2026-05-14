@@ -1,3 +1,155 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91a201e1881b4f4c3bba4f8c10dd3a390a5dcf4cef02f1cedea442802cc5f7b1
-size 7157
+{
+  "volumes": {},
+  "conf_volumes": {
+    "ALENEX|ALENEX": [],
+    "APPROX/RANDOM|APPROX": [
+      {
+        "year": 2025,
+        "vol_id": "LIPIcs-volume-353",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2025)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-353"
+      },
+      {
+        "year": 2024,
+        "vol_id": "LIPIcs-volume-317",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-317"
+      },
+      {
+        "year": 2023,
+        "vol_id": "LIPIcs-volume-275",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2023)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-275"
+      },
+      {
+        "year": 2022,
+        "vol_id": "LIPIcs-volume-245",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2022)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-245"
+      },
+      {
+        "year": 2021,
+        "vol_id": "LIPIcs-volume-207",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2021)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-207"
+      },
+      {
+        "year": 2020,
+        "vol_id": "LIPIcs-volume-176",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2020)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-176"
+      },
+      {
+        "year": 2019,
+        "vol_id": "LIPIcs-volume-145",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2019)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-145"
+      },
+      {
+        "year": 2018,
+        "vol_id": "LIPIcs-volume-116",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2018)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-116"
+      },
+      {
+        "year": 2017,
+        "vol_id": "LIPIcs-volume-81",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2017)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-81"
+      },
+      {
+        "year": 2016,
+        "vol_id": "LIPIcs-volume-60",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2016)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-60"
+      },
+      {
+        "year": 2015,
+        "vol_id": "LIPIcs-volume-40",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2015)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-40"
+      },
+      {
+        "year": 2014,
+        "vol_id": "LIPIcs-volume-28",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2014)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-28"
+      }
+    ],
+    "APPROX/RANDOM|RANDOM": [
+      {
+        "year": 2025,
+        "vol_id": "LIPIcs-volume-353",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2025)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-353"
+      },
+      {
+        "year": 2024,
+        "vol_id": "LIPIcs-volume-317",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-317"
+      },
+      {
+        "year": 2023,
+        "vol_id": "LIPIcs-volume-275",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2023)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-275"
+      },
+      {
+        "year": 2022,
+        "vol_id": "LIPIcs-volume-245",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2022)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-245"
+      },
+      {
+        "year": 2021,
+        "vol_id": "LIPIcs-volume-207",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2021)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-207"
+      },
+      {
+        "year": 2020,
+        "vol_id": "LIPIcs-volume-176",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2020)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-176"
+      },
+      {
+        "year": 2019,
+        "vol_id": "LIPIcs-volume-145",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2019)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-145"
+      },
+      {
+        "year": 2018,
+        "vol_id": "LIPIcs-volume-116",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2018)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-116"
+      },
+      {
+        "year": 2017,
+        "vol_id": "LIPIcs-volume-81",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2017)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-81"
+      },
+      {
+        "year": 2016,
+        "vol_id": "LIPIcs-volume-60",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2016)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-60"
+      },
+      {
+        "year": 2015,
+        "vol_id": "LIPIcs-volume-40",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2015)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-40"
+      },
+      {
+        "year": 2014,
+        "vol_id": "LIPIcs-volume-28",
+        "label": "Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2014)",
+        "href": "https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-28"
+      }
+    ],
+    "APPROX/RANDOM|APPROX-RANDOM": []
+  }
+}

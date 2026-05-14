@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9b32c847fb9c706e0ef83f747e0db950fbe2fab317d82232c101aa3f7668c21
-size 188
+{
+  "step": 3,
+  "status": "COMPLETE",
+  "total_articles": 535144,
+  "years": "2001-2025",
+  "dblp_dump": "C:\\Users\\av\\Dropbox\\AV\\SCIE\\ANECA 2026\\CHATGPT\\data\\dblp.xml.gz"
+}

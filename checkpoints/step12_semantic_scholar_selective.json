@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58e8713869e74900a66b39c3223684db7a5d3fceaa993659203f70b6531e29e4
-size 89
+{
+  "step": 12,
+  "status": "COMPLETE",
+  "n_evidence": 3912,
+  "n_resolved": 3653
+}

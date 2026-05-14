@@ -1,3 +1,120 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec08f0b4984562ee01c822cd68d4c6897359831dfcbf905912d2d9b065c53395
-size 14465
+congress,year,volume,label,target_papers,drops_papers,matched_papers,country_evidence_rows,seconds
+APPROX/RANDOM,2025,LIPIcs-volume-353,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2025)",69,68,66,100,4.64
+APPROX/RANDOM,2024,LIPIcs-volume-317,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)",76,75,74,120,4.48
+APPROX/RANDOM,2023,LIPIcs-volume-275,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2023)",67,66,64,104,3.99
+APPROX/RANDOM,2022,LIPIcs-volume-245,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2022)",55,55,54,74,4.69
+APPROX/RANDOM,2021,LIPIcs-volume-207,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2021)",62,62,59,74,3.86
+APPROX/RANDOM,2020,LIPIcs-volume-176,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2020)",65,64,61,94,3.78
+APPROX/RANDOM,2019,LIPIcs-volume-145,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2019)",72,72,68,98,4.32
+APPROX/RANDOM,2018,LIPIcs-volume-116,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2018)",58,58,56,76,3.24
+APPROX/RANDOM,2017,LIPIcs-volume-81,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2017)",50,49,49,0,4.05
+APPROX/RANDOM,2016,LIPIcs-volume-60,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2016)",48,47,47,0,2.72
+APPROX/RANDOM,2015,LIPIcs-volume-40,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2015)",57,56,56,0,2.65
+APPROX/RANDOM,2014,LIPIcs-volume-28,"Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2014)",7,61,6,0,2.33
+CCC,2025,LIPIcs-volume-339,40th Computational Complexity Conference (CCC 2025),15,36,14,24,2.71
+CCC,2024,LIPIcs-volume-300,39th Computational Complexity Conference (CCC 2024),27,36,24,42,3.0
+CCC,2023,LIPIcs-volume-264,38th Computational Complexity Conference (CCC 2023),29,36,27,39,2.42
+CCC,2022,LIPIcs-volume-234,37th Computational Complexity Conference (CCC 2022),26,38,24,35,2.45
+CCC,2021,LIPIcs-volume-200,36th Computational Complexity Conference (CCC 2021),5,41,5,7,2.96
+CCC,2020,LIPIcs-volume-169,35th Computational Complexity Conference (CCC 2020),2,38,2,5,2.57
+CCC,2019,LIPIcs-volume-137,34th Computational Complexity Conference (CCC 2019),6,32,5,6,2.39
+CCC,2018,LIPIcs-volume-102,33rd Computational Complexity Conference (CCC 2018),13,28,12,19,2.29
+CCC,2017,LIPIcs-volume-79,32nd Computational Complexity Conference (CCC 2017),18,33,17,0,2.27
+CCC,2016,LIPIcs-volume-50,31st Conference on Computational Complexity (CCC 2016),4,34,4,0,2.22
+CCC,2015,LIPIcs-volume-33,30th Conference on Computational Complexity (CCC 2015),19,30,18,0,1.88
+CP,2025,LIPIcs-volume-340,31st International Conference on Principles and Practice of Constraint Programming (CP 2025),36,41,33,54,3.15
+CP,2024,LIPIcs-volume-307,30th International Conference on Principles and Practice of Constraint Programming (CP 2024),28,38,26,33,2.89
+CP,2023,LIPIcs-volume-280,29th International Conference on Principles and Practice of Constraint Programming (CP 2023),28,44,23,24,2.91
+CP,2022,LIPIcs-volume-235,28th International Conference on Principles and Practice of Constraint Programming (CP 2022),26,40,24,30,2.8
+CP,2021,LIPIcs-volume-210,27th International Conference on Principles and Practice of Constraint Programming (CP 2021),3,57,3,4,3.66
+DISC,2025,LIPIcs-volume-356,39th International Symposium on Distributed Computing (DISC 2025),27,66,26,41,3.48
+DISC,2024,LIPIcs-volume-319,38th International Symposium on Distributed Computing (DISC 2024),32,55,31,48,2.98
+DISC,2023,LIPIcs-volume-281,37th International Symposium on Distributed Computing (DISC 2023),30,47,29,50,2.68
+DISC,2022,LIPIcs-volume-246,36th International Symposium on Distributed Computing (DISC 2022),34,49,29,49,2.66
+DISC,2021,LIPIcs-volume-209,35th International Symposium on Distributed Computing (DISC 2021),15,61,14,17,3.02
+DISC,2020,LIPIcs-volume-179,34th International Symposium on Distributed Computing (DISC 2020),14,54,13,21,2.76
+DISC,2019,LIPIcs-volume-146,33rd International Symposium on Distributed Computing (DISC 2019),9,49,8,11,2.73
+DISC,2018,LIPIcs-volume-121,32nd International Symposium on Distributed Computing (DISC 2018),14,49,13,24,2.61
+DISC,2017,LIPIcs-volume-91,31st International Symposium on Distributed Computing (DISC 2017),14,56,12,0,2.72
+ECOOP,2025,LIPIcs-volume-333,39th European Conference on Object-Oriented Programming (ECOOP 2025),28,42,27,38,3.65
+ECOOP,2024,LIPIcs-volume-313,38th European Conference on Object-Oriented Programming (ECOOP 2024),34,47,33,53,3.87
+ECOOP,2023,LIPIcs-volume-263,37th European Conference on Object-Oriented Programming (ECOOP 2023),32,44,30,41,3.81
+ECOOP,2022,LIPIcs-volume-222,36th European Conference on Object-Oriented Programming (ECOOP 2022),24,35,23,34,3.01
+ECOOP,2021,LIPIcs-volume-194,35th European Conference on Object-Oriented Programming (ECOOP 2021),3,22,3,3,2.57
+ECOOP,2020,LIPIcs-volume-166,34th European Conference on Object-Oriented Programming (ECOOP 2020),10,33,9,12,2.72
+ECOOP,2019,LIPIcs-volume-134,33rd European Conference on Object-Oriented Programming (ECOOP 2019),8,28,7,11,2.82
+ECOOP,2018,LIPIcs-volume-109,32nd European Conference on Object-Oriented Programming (ECOOP 2018),1,26,1,1,2.63
+ECOOP,2017,LIPIcs-volume-74,31st European Conference on Object-Oriented Programming (ECOOP 2017),5,27,3,0,2.48
+ECOOP,2016,LIPIcs-volume-56,30th European Conference on Object-Oriented Programming (ECOOP 2016),4,26,4,0,2.15
+ECOOP,2015,LIPIcs-volume-37,29th European Conference on Object-Oriented Programming (ECOOP 2015),4,31,4,0,2.36
+ESA,2025,LIPIcs-volume-351,33rd Annual European Symposium on Algorithms (ESA 2025),57,114,51,79,5.3
+ESA,2024,LIPIcs-volume-308,32nd Annual European Symposium on Algorithms (ESA 2024),67,103,62,100,4.72
+ESA,2023,LIPIcs-volume-274,31st Annual European Symposium on Algorithms (ESA 2023),53,103,50,83,4.52
+ESA,2022,LIPIcs-volume-244,30th Annual European Symposium on Algorithms (ESA 2022),59,92,56,94,3.98
+ESA,2021,LIPIcs-volume-204,29th Annual European Symposium on Algorithms (ESA 2021),26,80,23,34,3.77
+ESA,2020,LIPIcs-volume-173,28th Annual European Symposium on Algorithms (ESA 2020),17,83,16,21,4.16
+ESA,2019,LIPIcs-volume-144,27th Annual European Symposium on Algorithms (ESA 2019),19,83,18,38,4.0
+ESA,2018,LIPIcs-volume-112,26th Annual European Symposium on Algorithms (ESA 2018),18,73,18,32,3.54
+ESA,2017,LIPIcs-volume-87,25th Annual European Symposium on Algorithms (ESA 2017),21,69,20,0,2.75
+ESA,2016,LIPIcs-volume-57,24th Annual European Symposium on Algorithms (ESA 2016),13,76,12,0,3.16
+GD,2025,LIPIcs-volume-357,33rd International Symposium on Graph Drawing and Network Visualization (GD 2025),5,54,5,6,2.67
+GD,2024,LIPIcs-volume-320,32nd International Symposium on Graph Drawing and Network Visualization (GD 2024),50,59,46,85,2.75
+ICALP,2025,LIPIcs-volume-334,"52nd International Colloquium on Automata, Languages, and Programming (ICALP 2025)",86,170,82,129,7.41
+ICALP,2024,LIPIcs-volume-297,"51st International Colloquium on Automata, Languages, and Programming (ICALP 2024)",88,153,79,134,6.54
+ICALP,2023,LIPIcs-volume-261,"50th International Colloquium on Automata, Languages, and Programming (ICALP 2023)",75,132,67,102,5.75
+ICALP,2022,LIPIcs-volume-229,"49th International Colloquium on Automata, Languages, and Programming (ICALP 2022)",61,127,51,78,5.68
+ICALP,2021,LIPIcs-volume-198,"48th International Colloquium on Automata, Languages, and Programming (ICALP 2021)",39,137,34,47,5.93
+ICALP,2020,LIPIcs-volume-168,"47th International Colloquium on Automata, Languages, and Programming (ICALP 2020)",33,138,31,54,5.3
+ICALP,2019,LIPIcs-volume-132,"46th International Colloquium on Automata, Languages, and Programming (ICALP 2019)",34,146,27,51,5.31
+ICALP,2018,LIPIcs-volume-107,"45th International Colloquium on Automata, Languages, and Programming (ICALP 2018)",44,161,43,69,5.45
+ICALP,2017,LIPIcs-volume-80,"44th International Colloquium on Automata, Languages, and Programming (ICALP 2017)",35,137,35,0,5.23
+ICALP,2016,LIPIcs-volume-55,"43rd International Colloquium on Automata, Languages, and Programming (ICALP 2016)",33,146,33,0,4.47
+ICDT,2025,LIPIcs-volume-328,28th International Conference on Database Theory (ICDT 2025),12,32,8,11,2.59
+ICDT,2024,LIPIcs-volume-290,27th International Conference on Database Theory (ICDT 2024),16,22,13,22,2.2
+ICDT,2023,LIPIcs-volume-255,26th International Conference on Database Theory (ICDT 2023),15,21,12,17,2.21
+ICDT,2022,LIPIcs-volume-220,25th International Conference on Database Theory (ICDT 2022),9,16,5,5,1.83
+ICDT,2020,LIPIcs-volume-155,23rd International Conference on Database Theory (ICDT 2020),3,22,2,6,2.18
+ICDT,2019,LIPIcs-volume-127,22nd International Conference on Database Theory (ICDT 2019),5,21,4,7,2.12
+ICDT,2018,LIPIcs-volume-98,21st International Conference on Database Theory (ICDT 2018),7,20,7,0,1.75
+ICDT,2017,LIPIcs-volume-68,20th International Conference on Database Theory (ICDT 2017),5,19,4,0,1.75
+ICDT,2016,LIPIcs-volume-48,19th International Conference on Database Theory (ICDT 2016),2,20,2,0,1.7
+ICDT,2015,LIPIcs-volume-31,18th International Conference on Database Theory (ICDT 2015),2,22,2,0,1.74
+ITCS,2025,LIPIcs-volume-325,16th Innovations in Theoretical Computer Science Conference (ITCS 2025),45,96,43,65,4.69
+ITCS,2024,LIPIcs-volume-287,15th Innovations in Theoretical Computer Science Conference (ITCS 2024),65,103,63,103,5.15
+ITCS,2023,LIPIcs-volume-251,14th Innovations in Theoretical Computer Science Conference (ITCS 2023),59,101,56,92,4.67
+ITCS,2022,LIPIcs-volume-215,13th Innovations in Theoretical Computer Science Conference (ITCS 2022),55,120,54,80,5.49
+ITCS,2021,LIPIcs-volume-185,12th Innovations in Theoretical Computer Science Conference (ITCS 2021),19,89,18,23,3.91
+ITCS,2020,LIPIcs-volume-151,11th Innovations in Theoretical Computer Science Conference (ITCS 2020),14,86,13,19,4.55
+ITCS,2019,LIPIcs-volume-124,10th Innovations in Theoretical Computer Science Conference (ITCS 2019),21,66,20,27,3.18
+ITCS,2018,LIPIcs-volume-94,9th Innovations in Theoretical Computer Science Conference (ITCS 2018),13,59,12,0,2.87
+ITCS,2017,LIPIcs-volume-67,8th Innovations in Theoretical Computer Science Conference (ITCS 2017),17,60,17,0,2.72
+SAT,2025,LIPIcs-volume-341,28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025),22,30,19,32,2.45
+SAT,2024,LIPIcs-volume-305,27th International Conference on Theory and Applications of Satisfiability Testing (SAT 2024),25,28,21,33,2.51
+SAT,2023,LIPIcs-volume-271,26th International Conference on Theory and Applications of Satisfiability Testing (SAT 2023),25,30,23,33,2.37
+SAT,2022,LIPIcs-volume-236,25th International Conference on Theory and Applications of Satisfiability Testing (SAT 2022),19,31,18,26,2.67
+STACS,2025,LIPIcs-volume-327,42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025),34,72,28,39,3.86
+STACS,2024,LIPIcs-volume-289,41st International Symposium on Theoretical Aspects of Computer Science (STACS 2024),35,56,29,49,3.17
+STACS,2023,LIPIcs-volume-254,40th International Symposium on Theoretical Aspects of Computer Science (STACS 2023),35,52,30,46,2.88
+STACS,2022,LIPIcs-volume-219,39th International Symposium on Theoretical Aspects of Computer Science (STACS 2022),28,57,24,35,3.11
+STACS,2021,LIPIcs-volume-187,38th International Symposium on Theoretical Aspects of Computer Science (STACS 2021),9,56,7,10,3.06
+STACS,2020,LIPIcs-volume-154,37th International Symposium on Theoretical Aspects of Computer Science (STACS 2020),14,57,14,21,3.38
+STACS,2019,LIPIcs-volume-126,36th International Symposium on Theoretical Aspects of Computer Science (STACS 2019),15,56,13,23,3.34
+STACS,2018,LIPIcs-volume-96,35th Symposium on Theoretical Aspects of Computer Science (STACS 2018),21,58,21,0,2.72
+STACS,2017,LIPIcs-volume-66,34th Symposium on Theoretical Aspects of Computer Science (STACS 2017),18,55,17,0,2.36
+STACS,2016,LIPIcs-volume-47,33rd Symposium on Theoretical Aspects of Computer Science (STACS 2016),15,55,12,0,3.28
+STACS,2015,LIPIcs-volume-30,32nd International Symposium on Theoretical Aspects of Computer Science (STACS 2015),12,57,10,0,2.85
+STACS,2014,LIPIcs-volume-25,31st International Symposium on Theoretical Aspects of Computer Science (STACS 2014),8,55,7,0,1.75
+STACS,2013,LIPIcs-volume-20,30th International Symposium on Theoretical Aspects of Computer Science (STACS 2013),6,56,5,0,1.7
+STACS,2012,LIPIcs-volume-14,29th International Symposium on Theoretical Aspects of Computer Science (STACS 2012),10,54,10,0,1.87
+STACS,2011,LIPIcs-volume-9,28th International Symposium on Theoretical Aspects of Computer Science (STACS 2011),20,58,20,0,2.4
+SoCG,2025,LIPIcs-volume-332,41st International Symposium on Computational Geometry (SoCG 2025),37,0,0,0,277.5
+SoCG,2024,LIPIcs-volume-293,40th International Symposium on Computational Geometry (SoCG 2024),42,92,38,66,43.36
+SoCG,2023,LIPIcs-volume-258,39th International Symposium on Computational Geometry (SoCG 2023),40,67,38,61,8.41
+SoCG,2022,LIPIcs-volume-224,38th International Symposium on Computational Geometry (SoCG 2022),41,74,34,67,5.84
+SoCG,2021,LIPIcs-volume-189,37th International Symposium on Computational Geometry (SoCG 2021),12,63,9,14,5.77
+SoCG,2020,LIPIcs-volume-164,36th International Symposium on Computational Geometry (SoCG 2020),19,85,16,27,4.7
+SoCG,2019,LIPIcs-volume-129,35th International Symposium on Computational Geometry (SoCG 2019),23,64,21,31,7.3
+SoCG,2018,LIPIcs-volume-99,34th International Symposium on Computational Geometry (SoCG 2018),28,77,26,0,3.48
+SoCG,2017,LIPIcs-volume-77,33rd International Symposium on Computational Geometry (SoCG 2017),20,65,18,0,3.56
+SoCG,2016,LIPIcs-volume-51,32nd International Symposium on Computational Geometry (SoCG 2016),15,70,14,0,2.63
+SoCG,2015,LIPIcs-volume-34,31st International Symposium on Computational Geometry (SoCG 2015),5,63,4,0,2.26
