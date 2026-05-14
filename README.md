@@ -1,14 +1,10 @@
 # Presencia española en congresos internacionales de Informática (2001-2025)
 
-Repositorio de reproducibilidad del informe bibliométrico **“Presencia española en congresos internacionales de Informática (2001-2025)”**, basado en el corpus de congresos **CORE/ICORE 2026 A\*** y **A**.
+Repositorio de reproducibilidad del informe bibliométrico **“[Presencia española en congresos internacionales de Informática (2001-2025)](./informe_presencia_espana_congresos_informatica_2026.pdf)”**, basado en el corpus de congresos **[CORE/ICORE 2026](https://portal.core.edu.au/conf-ranks/) A\*** y **A**.
 
 La Informática tiene una estructura de comunicación científica singular: en muchas de sus áreas nucleares, los congresos internacionales selectivos son el foro principal -y a menudo el definitivo- de publicación de resultados originales. Este repositorio reúne los datos, scripts, salidas intermedias y resultados utilizados para estudiar la presencia española en esos congresos durante el período 2001-2025, comparándola con el bloque UE27+Reino Unido, con otros países europeos de referencia y con las principales áreas temáticas de la disciplina.
 
-El análisis completo, la metodología, las limitaciones y las conclusiones están recogidos en el informe PDF situado en la raíz del repositorio:
-
-```text
-[informe_presencia_espana_congresos_informatica_2026.pdf](./informe_presencia_espana_congresos_informatica_2026.pdf])
-```
+El análisis completo, la metodología, las limitaciones y las conclusiones están recogidos en el [informe final](./informe_presencia_espana_congresos_informatica_2026.pdf]) situado en la raíz del repositorio.
 
 ## Estructura del repositorio
 
