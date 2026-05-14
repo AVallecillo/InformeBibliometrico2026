@@ -1,4 +1,4 @@
-# InformeBibliometrico2026
+# Presencia española en congresos internacionales de Informática (2001-2025)
 
 Repositorio de reproducibilidad del informe bibliométrico **“Presencia española en congresos internacionales de Informática (2001-2025)”**, basado en el corpus de congresos **CORE/ICORE 2026 A\*** y **A**.
 
@@ -7,7 +7,7 @@ La Informática tiene una estructura de comunicación científica singular: en m
 El análisis completo, la metodología, las limitaciones y las conclusiones están recogidos en el informe PDF situado en la raíz del repositorio:
 
 ```text
-informe_presencia_espana_congresos_informatica_2026.pdf
+[informe_presencia_espana_congresos_informatica_2026.pdf](./informe_presencia_espana_congresos_informatica_2026.pdf])
 ```
 
 ## Estructura del repositorio
@@ -80,12 +80,12 @@ InformeBibliometrico2026/
 
 ## Organización principal
 
-- `data/`: contiene las entradas principales del estudio, incluyendo los ficheros CORE/ICORE 2026, el volcado DBLP y los datos auxiliares para el análisis histórico.
-- `scripts/`: contiene el pipeline principal de construcción del corpus, validación DBLP, resolución de afiliaciones, consolidación artículo-país y generación de indicadores.
-- `outputs/`: contiene las salidas reproducibles del pipeline principal, incluidas las tablas `paper_master.csv`, `paper_country.csv`, evidencias por fuente y tablas finales de indicadores.
-- `scripts_ext/`: contiene los análisis complementarios de robustez y sensibilidad: conteo fraccionario, denominadores alternativos, sensibilidad por cobertura, CORE histórico, colaboración, bootstrap, expansión del corpus y auditorías históricas.
-- `outputs_ext/`: contiene las salidas de los análisis extendidos, diagnósticos, figuras y resúmenes de ejecución.
-- `checkpoints/`: contiene marcadores de ejecución de los pasos largos del pipeline.
-- `docs/`: contiene documentación auxiliar, notas de ejecución, versiones editables del informe y material de apoyo.
+- [`data/`](./data): contiene las entradas principales del estudio, incluyendo los ficheros CORE/ICORE 2026, el volcado DBLP y los datos auxiliares para el análisis histórico.
+- [`scripts/`](./scripts): contiene el pipeline principal de construcción del corpus, validación DBLP, resolución de afiliaciones, consolidación artículo-país y generación de indicadores.
+- [`outputs/`](./outputs): contiene las salidas reproducibles del pipeline principal, incluidas las tablas `paper_master.csv`, `paper_country.csv`, evidencias por fuente y tablas finales de indicadores.
+- [`scripts_ext/`](./scripts_ext): contiene los análisis complementarios de robustez y sensibilidad: conteo fraccionario, denominadores alternativos, sensibilidad por cobertura, CORE histórico, colaboración, bootstrap, expansión del corpus y auditorías históricas.
+- [`outputs_ext/`](./outputs_ext): contiene las salidas de los análisis extendidos, diagnósticos, figuras y resúmenes de ejecución.
+- [`checkpoints/`](./checkpoints): contiene marcadores de ejecución de los pasos largos del pipeline.
+- [`docs/`](./docs): contiene documentación auxiliar, notas de ejecución, versiones editables del informe y material de apoyo.
 
-Para la interpretación de los resultados debe consultarse el PDF final de la raíz del repositorio; el resto de ficheros documenta la trazabilidad y reproducibilidad del análisis.
+Para la interpretación de los resultados debe consultarse el [informe final](./informe_presencia_espana_congresos_informatica_2026.pdf]), situado en la raíz del repositorio; el resto de ficheros documenta la trazabilidad y reproducibilidad del análisis.
