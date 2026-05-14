@@ -1,0 +1,90 @@
+Historical missing CORE venues prioritization
+========================================================================
+
+Total missing historical venues analysed: 223
+HIGH priority:   106
+MEDIUM priority: 61
+LOW priority:    56
+
+Top HIGH-priority candidates
+------------------------------------------------------------------------
+DCC                  score=27.60 A*=True  years=13 area=Visión / Imagen / Gráficos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IPSN                 score=26.60 A*=True  years=18 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ISSAC                score=26.60 A*=True  years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+SENSYS               score=26.60 A*=True  years=18 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+UbiComp              score=23.40 A*=True  years=12 area=HCI / CSCW / Documentos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CSCL                 score=22.60 A*=True  years=13 area=Educación / Learning technologies | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IEEE InfoVis         score=22.60 A*=True  years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICIS                 score=22.40 A*=True  years=12 area=Sistemas de información | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CONCUR               score=21.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+EDBT                 score=21.60 A*=False years=18 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FM                   score=21.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICLP                 score=21.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CCGRID               score=21.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CLUSTER              score=21.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+COLING               score=21.00 A*=False years=15 area=NLP | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CoNLL                score=21.00 A*=False years=15 area=NLP | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ECRTS                score=21.00 A*=False years=15 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ESWC                 score=21.00 A*=False years=15 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+PAKDD                score=21.00 A*=False years=15 area=Machine Learning / Data Mining | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ATVA                 score=20.60 A*=False years=13 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CASES                score=20.60 A*=False years=13 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CC                   score=20.60 A*=False years=13 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CoopIS               score=20.60 A*=False years=13 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+EMSOFT               score=20.60 A*=False years=13 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+EWSN                 score=20.60 A*=False years=13 area=Sistemas empotrados / Tiempo real | Extraer DBLP y resolver afiliaciones en fase prioritaria
+EuroPar              score=20.60 A*=False years=13 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FCCM                 score=20.60 A*=False years=13 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+HOTCHIPS (HCS)       score=20.60 A*=False years=13 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICECCS               score=20.60 A*=False years=13 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+JCDL                 score=20.40 A*=True  years=12 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+RSS                  score=20.40 A*=True  years=12 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IPCO                 score=19.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ISAAC                score=19.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+TARK                 score=19.60 A*=False years=18 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICNP                 score=19.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICPP                 score=19.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+LPAR                 score=19.00 A*=False years=15 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+PPoPP                score=19.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+RANDOM               score=19.00 A*=False years=15 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+SPAA                 score=19.00 A*=False years=15 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+PERVASIVE            score=18.80 A*=True  years= 9 area=HCI / CSCW / Documentos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+AiML                 score=18.60 A*=False years=13 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+SSDBM                score=18.60 A*=False years=13 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+AOSD                 score=18.40 A*=False years=12 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ASAP                 score=18.40 A*=False years=12 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+COCOON               score=18.40 A*=False years=12 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ECSA                 score=18.40 A*=False years=12 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+EUROGRAPH            score=18.40 A*=False years=12 area=Visión / Imagen / Gráficos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FLOPS                score=18.40 A*=False years=12 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FOSSACS              score=18.40 A*=False years=12 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+HOTNETS              score=18.40 A*=False years=12 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+Hypertext            score=18.40 A*=False years=12 area=HCI / CSCW / Documentos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+I3DG                 score=18.20 A*=True  years= 6 area=Visión / Imagen / Gráficos | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FUZZ-IEEE            score=17.60 A*=False years=13 area=Control / Señal / Ingeniería | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICARCV               score=17.60 A*=False years=13 area=Control / Señal / Ingeniería | Extraer DBLP y resolver afiliaciones en fase prioritaria
+Coordination         score=17.00 A*=False years=10 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+DBSEC                score=17.00 A*=False years=10 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FORTE                score=17.00 A*=False years=10 area=Ingeniería del Software / Servicios | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ITiCSE               score=17.00 A*=False years=15 area=Educación / Learning technologies | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FCT                  score=16.60 A*=False years= 8 area=Teoría / Métodos formales / PL | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FOIS                 score=16.60 A*=False years= 8 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICONIP               score=16.60 A*=False years=13 area=Control / Señal / Ingeniería | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IJCNN                score=16.60 A*=False years=13 area=Control / Señal / Ingeniería | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ITS                  score=16.60 A*=False years=13 area=Educación / Learning technologies | Extraer DBLP y resolver afiliaciones en fase prioritaria
+JELIA                score=16.60 A*=False years=18 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+MOBIHOC              score=16.60 A*=False years=18 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+DOOD                 score=16.40 A*=False years=12 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+FODO                 score=16.40 A*=False years=12 area=Bases de datos / Web / Conocimiento | Extraer DBLP y resolver afiliaciones en fase prioritaria
+GRID                 score=16.40 A*=False years=12 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+MassPar              score=16.40 A*=False years=12 area=Sistemas / HPC / Arquitectura | Extraer DBLP y resolver afiliaciones en fase prioritaria
+CogSci               score=16.00 A*=False years=15 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICCS                 score=16.00 A*=False years=15 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ISRR                 score=16.00 A*=False years=15 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ALIFE                score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICCCN                score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+ICSSP                score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IDA                  score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IEEE Alife           score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+IEEE SSE             score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria
+Interact             score=15.60 A*=False years=13 area=Sin clasificar | Extraer DBLP y resolver afiliaciones en fase prioritaria

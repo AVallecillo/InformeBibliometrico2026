@@ -1,0 +1,71 @@
+VERIFICACIÓN Y REFORMULACIÓN DE CONCLUSIONES
+========================================================================
+
+DATOS BASE POR VENTANA
+   window  spain  eu27_uk  share_pct
+2001-2005    967    14240   6.790730
+2006-2010   1680    22048   7.619739
+2011-2015   1909    26136   7.304102
+2016-2020   1536    31263   4.913156
+2021-2025   1990    47038   4.230622
+
+[C1] España registra crecimiento absoluto continuo.
+  Estado: requires_rewording
+  Evidencia:
+2011-2015→2016-2020: 1909→1536
+  Redacción recomendada: España crece en volumen absoluto entre la primera y la última ventana, pero no de forma monótona; debe mencionarse la caída intermedia 2011-2015→2016-2020: 1909→1536.
+
+[C3] La posición europea de España baja del entorno del 5.º al 8.º puesto.
+  Estado: ok_with_caution
+  Evidencia:
+   window  rank    share
+2001-2005     6 0.067907
+2006-2010     5 0.076197
+2011-2015     5 0.073041
+2016-2020     6 0.049132
+2021-2025     8 0.042306
+  Redacción recomendada: Bajo conteo completo, España baja en el ranking observado de presencia. Debe reportarse como ranking de presencia no excluyente y acompañarse de conteo fraccionario/rangos de incertidumbre.
+
+[C6] Redes destaca positivamente.
+  Estado: ok_with_caution
+  Evidencia:
+  venue  ES  EU27_UK  share_pct
+  MSWIM  45      146  30.821918
+INFOCOM  34      190  17.894737
+    IMC  24      125  19.200000
+MOBICOM  20      153  13.071895
+Mobisys   9       66  13.636364
+  MMSys   6      134   4.477612
+ CoNEXT   4       29  13.793103
+SIGCOMM   4       70   5.714286
+   ICWS   1       93   1.075269
+  Redacción recomendada: Redes es una fortaleza observada, pero la magnitud debe acompañarse de recuentos absolutos e intervalos: algunos venues tienen denominadores europeos pequeños MSWIM, IMC, INFOCOM, CoNEXT, Mobisys, MOBICOM, SIGCOMM, MMSys, ICWS.
+
+[C7] IA/ML muestra pérdida relativa intensa.
+  Estado: ok_with_caution
+  Evidencia:
+Cobertura IA/ML observada: nan% (0/0).
+  Redacción recomendada: La pérdida relativa en IA/ML debe formularse como resultado observado bajo cobertura parcial y conteo completo; validar con fraccionario, sensibilidad de cobertura y expansión del corpus.
+
+[FRACTIONAL] Conteo completo y fraccionario deben compararse.
+  Estado: available
+  Evidencia:
+   window country_code  complete_count  fractional_count  eu_complete_den  eu_fractional_den  complete_share_eu  fractional_share_eu  complete_rank  fractional_rank  delta_share_pp_fractional_minus_complete
+2001-2005           ES             967        779.400000            14240       12513.952381           0.067907             0.062282              6                6                                 -0.562482
+2006-2010           ES            1680       1257.277381            22048       18868.734524           0.076197             0.066633              5                5                                 -0.956455
+2011-2015           ES            1909       1286.620635            26136       21791.038889           0.073041             0.059044              5                5                                 -1.399745
+2016-2020           ES            1536        986.342796            31263       25018.280403           0.049132             0.039425              6                6                                 -0.970668
+2021-2025           ES            1990       1179.909463            47038       35705.559373           0.042306             0.033046              8                8                                 -0.926068
+  Redacción recomendada: Incorporar la tabla completo vs fraccionario en resultados principales y ajustar la narrativa si rankings/cuotas divergen.
+
+[INFLATION] Cuotas no excluyentes.
+  Estado: available
+  Evidencia:
+   window  unique_european_articles  sum_complete_country_counts  mean_eu_countries_per_article  median_eu_countries_per_article  share_intra_eu_collab  inflation_factor_complete_over_unique  sum_of_all_country_shares
+2001-2005                     14240                        15756                       1.106461                              1.0               0.096278                               1.106461                   1.106461
+2006-2010                     22048                        25170                       1.141600                              1.0               0.126860                               1.141600                   1.141600
+2011-2015                     26136                        30953                       1.184305                              1.0               0.159244                               1.184305                   1.184305
+2016-2020                     31263                        37856                       1.210888                              1.0               0.177430                               1.210888                   1.210888
+2021-2025                     47038                        57395                       1.220184                              1.0               0.183596                               1.220184                   1.220184
+  Redacción recomendada: Incluir factor de inflación y suma de cuotas por ventana junto a ES/UE27+RU.
+

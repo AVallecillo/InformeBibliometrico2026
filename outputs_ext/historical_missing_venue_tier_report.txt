@@ -1,0 +1,65 @@
+Historical missing CORE venues refined tiers
+========================================================================
+
+TIER1 include: 56
+TIER2 review:  71
+TIER3 exclude: 96
+
+Top TIER1 candidates
+------------------------------------------------------------------------
+DCC                  score=27.60 area=Visión / Imagen / Gráficos | venue central de informática en lista curada Tier 1
+IPSN                 score=26.60 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+ISSAC                score=26.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+SENSYS               score=26.60 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+UbiComp              score=23.40 area=HCI / CSCW / Documentos | venue central de informática en lista curada Tier 1
+CONCUR               score=21.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+EDBT                 score=21.60 area=Bases de datos / Web / Conocimiento | venue central de informática en lista curada Tier 1
+FM                   score=21.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+ICLP                 score=21.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+CCGRID               score=21.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+CLUSTER              score=21.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+COLING               score=21.00 area=NLP | venue central de informática en lista curada Tier 1
+CoNLL                score=21.00 area=NLP | venue central de informática en lista curada Tier 1
+ECRTS                score=21.00 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+ESWC                 score=21.00 area=Bases de datos / Web / Conocimiento | venue central de informática en lista curada Tier 1
+PAKDD                score=21.00 area=Machine Learning / Data Mining | venue central de informática en lista curada Tier 1
+ATVA                 score=20.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+CASES                score=20.60 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+CC                   score=20.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+CoopIS               score=20.60 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+EMSOFT               score=20.60 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+EWSN                 score=20.60 area=Sistemas empotrados / Tiempo real | venue central de informática en lista curada Tier 1
+EuroPar              score=20.60 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+FCCM                 score=20.60 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+HOTCHIPS (HCS)       score=20.60 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+ICECCS               score=20.60 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+RSS                  score=20.40 area=Sin clasificar | venue central de informática en lista curada Tier 1
+IPCO                 score=19.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+ISAAC                score=19.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+TARK                 score=19.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+ICNP                 score=19.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+ICPP                 score=19.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+LPAR                 score=19.00 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+PPoPP                score=19.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+RANDOM               score=19.00 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+SPAA                 score=19.00 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+PERVASIVE            score=18.80 area=HCI / CSCW / Documentos | venue central de informática en lista curada Tier 1
+AiML                 score=18.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+SSDBM                score=18.60 area=Bases de datos / Web / Conocimiento | venue central de informática en lista curada Tier 1
+AOSD                 score=18.40 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+ASAP                 score=18.40 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+COCOON               score=18.40 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+ECSA                 score=18.40 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+EUROGRAPH            score=18.40 area=Visión / Imagen / Gráficos | venue central de informática en lista curada Tier 1
+FLOPS                score=18.40 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+FOSSACS              score=18.40 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+HOTNETS              score=18.40 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1
+I3DG                 score=18.20 area=Visión / Imagen / Gráficos | venue central de informática en lista curada Tier 1
+Coordination         score=17.00 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+DBSEC                score=17.00 area=Bases de datos / Web / Conocimiento | venue central de informática en lista curada Tier 1
+FORTE                score=17.00 area=Ingeniería del Software / Servicios | venue central de informática en lista curada Tier 1
+FCT                  score=16.60 area=Teoría / Métodos formales / PL | venue central de informática en lista curada Tier 1
+FOIS                 score=16.60 area=Bases de datos / Web / Conocimiento | venue central de informática en lista curada Tier 1
+MOBIHOC              score=16.60 area=Sin clasificar | venue central de informática en lista curada Tier 1
+ECML                 score=14.80 area=Machine Learning / Data Mining | venue central de informática en lista curada Tier 1
+HiPC                 score=14.80 area=Sistemas / HPC / Arquitectura | venue central de informática en lista curada Tier 1

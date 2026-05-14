@@ -1,0 +1,214 @@
+PS C:\Users\av\Dropbox\Aplicaciones\GitHub\InformeBibliometrico2026> python scripts_ext\build_core_historical.py --input-dir data\core_historical\raw --output-dir data\core_historical --policy-2010 infer_2008_2013
+OK: wrote data\core_historical\core_historical.csv
+level        A  A*
+core_year
+2008       257  65
+2013       229  64
+2014       226  64
+2017       220  63
+2018       221  67
+2020       167  63
+2021       130  59
+2023       117  60
+2026       108  62
+PS C:\Users\av\Dropbox\Aplicaciones\GitHub\InformeBibliometrico2026> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+>> .\run_all_ext.ps1
+
+Execution Policy Change
+The execution policy helps protect you from scripts that you do not trust. Changing the execution policy might expose
+you to the security risks described in the about_Execution_Policies help topic at
+https:/go.microsoft.com/fwlink/?LinkID=135170. Do you want to change the execution policy?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"): A
+
+[00] python scripts_ext\00_validate_inputs.py
+PREFLIGHT VALIDATION
+======================================================================
+
+SUMMARY
+  paper_master_rows: 535144
+  paper_master_unique_papers: 535144
+  paper_country_rows: 618919
+  paper_country_unique_papers: 452515
+  paper_country_unique_countries: 182
+  spain_papers: 8082
+  eu27_uk_papers: 140725
+  coverage: 0.8455948305502818
+
+WARNINGS
+  none
+
+ERRORS
+  none
+
+[00] OK (00:00:07.6847392)
+
+[01] python scripts_ext\01_fractional_vs_complete.py
+OK: fractional vs complete tables written to outputs_ext/
+[01] OK (00:00:08.8735539)
+
+[02] python scripts_ext\02_denominators_and_normalisation.py
+WARNING: data/external/country_normalisers.csv not found; only denominator table generated.
+OK: denominator and normalisation outputs written.
+[02] OK (00:00:15.3674791)
+
+[03] python scripts_ext\03_coverage_sensitivity.py
+OK: coverage sensitivity generated.
+[03] OK (00:03:19.6442238)
+
+[04] python scripts_ext\04_core_historical_sensitivity.py
+OK: CORE historical sensitivity generated.
+[04] OK (00:27:31.3131222)
+
+[05] python scripts_ext\05_area_reclassification_sensitivity.py
+OK: area reclassification sensitivity generated.
+[05] OK (00:00:10.9690206)
+
+[06] python scripts_ext\06_shift_share_decomposition.py
+OK: shift-share decomposition generated.
+[06] OK (00:00:06.2513121)
+
+[07] python scripts_ext\07_collaboration_profiles.py
+OK: collaboration profiles generated.
+[07] OK (00:00:43.2690673)
+
+[08] python scripts_ext\08_institutional_analysis.py
+SKIPPED: institution_name column not found in affiliation evidence files.
+To enable this analysis, preserve OpenAlex authorships[].institutions[].display_name and optionally ROR/institution_id in the affiliation evidence files.
+[08] OK (00:00:06.7988033)
+
+[09] python scripts_ext\09_impact_indicators.py
+SKIPPED: Missing outputs/openalex_work_metrics.csv.
+Run: python scripts_ext/18_fetch_openalex_metrics.py --mailto your_email@example.org
+Then rerun this script.
+[09] OK (00:00:00.5848752)
+
+[10] python scripts_ext\10_2025_maturity_check.py
+OK: 2025 maturity check generated.
+[10] OK (00:00:08.8442852)
+
+[11] python scripts_ext\11_rank_uncertainty_bounds.py
+OK: rank uncertainty bounds generated.
+[11] OK (00:00:08.7791279)
+
+[13] python scripts_ext\13_overlap_inflation_diagnostics.py
+OK: overlap/inflation diagnostics generated.
+[13] OK (00:00:07.6253336)
+
+[14] python scripts_ext\14_missingness_bias_diagnostics.py
+OK: missingness diagnostics generated.
+[14] OK (00:00:08.3460601)
+
+[15] python scripts_ext\15_statistical_uncertainty_bootstrap.py --B 500 --progress-every 25
+Bootstrap iterations per group: 500
+Progress update every: 25 iterations
+Articles in matrix: 535,144
+
+[window 1/5] 2001-2005: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[window 2/5] 2006-2010: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[window 3/5] 2011-2015: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[window 4/5] 2016-2020: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[window 5/5] 2021-2025: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 1/42] 2001-2005 | Bases de datos: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 2/42] 2001-2005 | Bioinformática: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 3/42] 2001-2005 | HCI: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 4/42] 2001-2005 | IA / ML: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 5/42] 2001-2005 | Ing. del Software: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 6/42] 2001-2005 | Redes: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 7/42] 2001-2005 | Seguridad: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 8/42] 2001-2005 | Sistemas: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 9/42] 2001-2005 | Teoría: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 10/42] 2006-2010 | Bases de datos: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 11/42] 2006-2010 | Bioinformática: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 12/42] 2006-2010 | HCI: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 13/42] 2006-2010 | IA / ML: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 14/42] 2006-2010 | Ing. del Software: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 15/42] 2006-2010 | Redes: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 16/42] 2006-2010 | Seguridad: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 17/42] 2006-2010 | Sistemas: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 18/42] 2006-2010 | Teoría: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 19/42] 2011-2015 | Bases de datos: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 20/42] 2011-2015 | HCI: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 21/42] 2011-2015 | IA / ML: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 22/42] 2011-2015 | Ing. del Software: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 23/42] 2011-2015 | Redes: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 24/42] 2011-2015 | Seguridad: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 25/42] 2011-2015 | Sistemas: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 26/42] 2011-2015 | Teoría: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 27/42] 2016-2020 | Bases de datos: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 28/42] 2016-2020 | HCI: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 29/42] 2016-2020 | IA / ML: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 30/42] 2016-2020 | Ing. del Software: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 31/42] 2016-2020 | Redes: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 32/42] 2016-2020 | Seguridad: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 33/42] 2016-2020 | Sistemas: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 34/42] 2016-2020 | Teoría: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 35/42] 2021-2025 | Bases de datos: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 36/42] 2021-2025 | HCI: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 37/42] 2021-2025 | IA / ML: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 38/42] 2021-2025 | Ing. del Software: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 39/42] 2021-2025 | Redes: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 40/42] 2021-2025 | Seguridad: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 41/42] 2021-2025 | Sistemas: 500/500 (100.0%) | elapsed 0s | ETA 0s
+[area-window 42/42] 2021-2025 | Teoría: 500/500 (100.0%) | elapsed 0s | ETA 0s
+OK: bootstrap uncertainty generated.
+[15] OK (00:00:18.3762664)
+
+[16] python scripts_ext\16_corpus_expansion_decomposition.py
+OK: corpus expansion decomposition generated.
+[16] OK (00:00:08.6478931)
+
+[17] python scripts_ext\17_author_position_leadership.py
+SKIPPED: Need outputs/paper_author_affiliations.csv or affiliation evidence files with author_order/author_position.
+The current pipeline appears to consolidate at paper_id + country_code level only.
+[17] OK (00:00:08.1243258)
+
+[19] python scripts_ext\19_conclusion_verification.py
+OK: conclusion verification generated.
+[19] OK (00:00:09.5594580)
+
+[20] python scripts_ext\20_historical_mobile_corpus_gap.py
+OK: historical mobile corpus gap analysis written to outputs_ext/
+[20] OK (00:00:03.6568021)
+
+[21] python scripts_ext\21_prioritize_historical_missing_venues.py
+OK: historical missing venue prioritization written to outputs_ext/
+HIGH=106, MEDIUM=61, LOW=56
+[21] OK (00:00:00.8655206)
+
+[22] python scripts_ext\22_refine_historical_missing_venue_tiers.py
+OK: refined historical venue tiers written to outputs_ext/
+TIER1=56, TIER2=71, TIER3=96
+[22] OK (00:00:00.8216760)
+
+[12] python scripts_ext\12_make_diagnostic_figures.py
+OK: figures generated in outputs_ext/figures/
+[12] OK (00:00:01.6722763)
+
+Step Status ExitCode Optional Elapsed
+---- ------ -------- -------- -------
+00   OK            0    False 00:00:07.6847392
+01   OK            0    False 00:00:08.8735539
+02   OK            0     True 00:00:15.3674791
+03   OK            0    False 00:03:19.6442238
+04   OK            0     True 00:27:31.3131222
+05   OK            0     True 00:00:10.9690206
+06   OK            0    False 00:00:06.2513121
+07   OK            0    False 00:00:43.2690673
+08   OK            0     True 00:00:06.7988033
+09   OK            0     True 00:00:00.5848752
+10   OK            0    False 00:00:08.8442852
+11   OK            0    False 00:00:08.7791279
+13   OK            0    False 00:00:07.6253336
+14   OK            0     True 00:00:08.3460601
+15   OK            0    False 00:00:18.3762664
+16   OK            0    False 00:00:08.6478931
+17   OK            0     True 00:00:08.1243258
+19   OK            0     True 00:00:09.5594580
+20   OK            0     True 00:00:03.6568021
+21   OK            0     True 00:00:00.8655206
+22   OK            0     True 00:00:00.8216760
+12   OK            0     True 00:00:01.6722763
+
+
+
+Finished. Check outputs_ext\run_all_ext_summary.csv

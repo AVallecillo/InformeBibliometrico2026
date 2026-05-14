@@ -1,0 +1,3 @@
+SKIPPED: Missing outputs/openalex_work_metrics.csv.
+Run: python scripts_ext/18_fetch_openalex_metrics.py --mailto your_email@example.org
+Then rerun this script.

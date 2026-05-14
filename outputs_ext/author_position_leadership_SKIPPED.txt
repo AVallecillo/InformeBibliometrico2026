@@ -1,0 +1,2 @@
+SKIPPED: Need outputs/paper_author_affiliations.csv or affiliation evidence files with author_order/author_position.
+The current pipeline appears to consolidate at paper_id + country_code level only.

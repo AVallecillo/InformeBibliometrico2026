@@ -1,0 +1,18 @@
+PREFLIGHT VALIDATION
+======================================================================
+
+SUMMARY
+  paper_master_rows: 535144
+  paper_master_unique_papers: 535144
+  paper_country_rows: 618919
+  paper_country_unique_papers: 452515
+  paper_country_unique_countries: 182
+  spain_papers: 8082
+  eu27_uk_papers: 140725
+  coverage: 0.8455948305502818
+
+WARNINGS
+  none
+
+ERRORS
+  none

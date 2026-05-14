@@ -1,0 +1,2 @@
+SKIPPED: institution_name column not found in affiliation evidence files.
+To enable this analysis, preserve OpenAlex authorships[].institutions[].display_name and optionally ROR/institution_id in the affiliation evidence files.

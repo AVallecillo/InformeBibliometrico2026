@@ -1,0 +1,119 @@
+Historical mobile CORE corpus gap analysis
+======================================================================
+
+Current fixed-corpus venues: 170
+Historical CORE A*/A venues: 393
+Historical venues present in current corpus: 170
+Historical venues missing from current corpus: 223
+
+Missing historical venues by first CORE year:
+first_core_year
+2008    195
+2013     21
+2014      4
+2018      2
+2021      1
+
+Top missing venues (first 100):
+AFIPS
+AID
+AIIM
+AIME
+ALIFE
+ALT
+AMCIS
+AMIA
+AOSD
+APCOMin
+ASAP
+ASIS&T
+ATVA
+AVSS
+Ada-Europe
+AiML
+BuildSys
+CAIP
+CASES
+CBSE
+CC
+CCGRID
+CDC
+CEC
+CGI
+CLUSTER
+COCOON
+COLING
+CONCUR
+CPAIOR
+CSB
+CSCL
+CSFW
+CoNLL
+CogSci
+CoopIS
+Coordination
+DAS
+DBSEC
+DCC
+DESRIST
+DEXA
+DIGRA
+DOOD
+DSAA
+DUX
+DocEng
+EAAI
+ECIS
+ECML
+ECRTS
+ECSA
+ECSCW
+ECWeb
+EDBT
+EKAW
+EMMSAD
+EMSOFT
+ESQARU
+ESWC
+EUROGRAPH
+EWSN
+EuroCOLT
+EuroMPI
+EuroPar
+EuroSPI
+FCCM
+FCT
+FLOPS
+FM
+FODO
+FOIS
+FORTE
+FOSSACS
+FPSAC
+FSR
+FST&TCS
+FUZZ-IEEE
+GRID
+Group
+HICSS
+HOTCHIPS (HCS)
+HOTNETS
+HiPC
+Hypertext
+I3DG
+ICADL
+ICALT
+ICARCV
+ICC
+ICCCN
+ICCL
+ICCS
+ICECCS
+ICIAP
+ICIP
+ICIS
+ICLP
+ICMAS
+ICMCS
+
+If this list is large, 04_core_historical_sensitivity.py is a fixed-corpus historical-classification sensitivity, not a full mobile historical CORE corpus.
