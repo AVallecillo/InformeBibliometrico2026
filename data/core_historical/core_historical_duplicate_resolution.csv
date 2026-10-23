@@ -1,19 +1,19 @@
-venue,conference_name,core_year,level,level_in_file,ranking_version_in_file,source_file,source_venue_col,undifferentiated_2010,chosen_level
-ICCS,International Conference on Computational Science,2008,A,A,CORE2008,COREA-2008.csv,2,False,A
-ICCS,International Conference on Conceptual Structures,2008,A,A,CORE2008,COREA-2008.csv,2,False,A
-ISWC,International Semantic Web Conference,2008,A,A,CORE2008,COREA-2008.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2008,A*,A*,CORE2008,COREAstar-2008.csv,2,False,A*
-ISWC,International Semantic Web Conference,2013,A,A,CORE2013,COREA-2013.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2013,A*,A*,CORE2013,COREAstar-2013.csv,2,False,A*
-ISWC,International Semantic Web Conference,2014,A,A,CORE2014,COREA-2014.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2014,A*,A*,CORE2014,COREAstar-2014.csv,2,False,A*
-ISWC,International Semantic Web Conference,2017,A,A,CORE2017,COREA-2017.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2017,A*,A*,CORE2017,COREAstar-2017.csv,2,False,A*
-ISWC,International Semantic Web Conference,2018,A,A,CORE2018,COREA-2018.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2018,A*,A*,CORE2018,COREAstar-2018.csv,2,False,A*
-ISWC,International Semantic Web Conference,2020,A,A,CORE2020,COREA-2020.csv,2,False,A*
-ISWC,IEEE International Symposium on Wearable Computers,2020,A*,A*,CORE2020,COREAstar-2020.csv,2,False,A*
-Interspeech,Annual Conference of the International Speech Communication Association (was Eurospeech),2013,A,A,CORE2013,COREA-2013.csv,2,False,A
-Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),2013,A,A,CORE2013,COREA-2013.csv,2,False,A
-Interspeech,Annual Conference of the International Speech Communication Association (was Eurospeech),2014,A,A,CORE2014,COREA-2014.csv,2,False,A
-Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),2014,A,A,CORE2014,COREA-2014.csv,2,False,A
+venue,conference_name,core_year,level,level_in_file,ranking_version_in_file,source_file,source_venue_col,core_id,venue_in_file,undifferentiated_2010,policy_2010,chosen_level
+ICCS,International Conference on Computational Science,2008,A,A,CORE2008,COREA-2008.csv,2,952.0,ICCS,False,,A
+ICCS,International Conference on Conceptual Structures,2008,A,A,CORE2008,COREA-2008.csv,2,972.0,ICCS,False,,A
+ISWC,International Semantic Web Conference,2008,A,A,CORE2008,COREA-2008.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2008,A*,A*,CORE2008,COREAstar-2008.csv,2,708.0,ISWC,False,,A*
+ISWC,International Semantic Web Conference,2013,A,A,CORE2013,COREA-2013.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2013,A*,A*,CORE2013,COREAstar-2013.csv,2,708.0,ISWC,False,,A*
+ISWC,International Semantic Web Conference,2014,A,A,CORE2014,COREA-2014.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2014,A*,A*,CORE2014,COREAstar-2014.csv,2,708.0,ISWC,False,,A*
+ISWC,International Semantic Web Conference,2017,A,A,CORE2017,COREA-2017.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2017,A*,A*,CORE2017,COREAstar-2017.csv,2,708.0,ISWC,False,,A*
+ISWC,International Semantic Web Conference,2018,A,A,CORE2018,COREA-2018.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2018,A*,A*,CORE2018,COREAstar-2018.csv,2,708.0,ISWC,False,,A*
+ISWC,International Semantic Web Conference,2020,A,A,CORE2020,COREA-2020.csv,2,1338.0,ISWC,False,,A*
+ISWC,IEEE International Symposium on Wearable Computers,2020,A*,A*,CORE2020,COREAstar-2020.csv,2,708.0,ISWC,False,,A*
+Interspeech,Annual Conference of the International Speech Communication Association (was Eurospeech),2013,A,A,CORE2013,COREA-2013.csv,2,123.0,Interspeech,False,,A
+Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),2013,A,A,CORE2013,COREA-2013.csv,2,494.0,Interspeech,False,,A
+Interspeech,Annual Conference of the International Speech Communication Association (was Eurospeech),2014,A,A,CORE2014,COREA-2014.csv,2,123.0,Interspeech,False,,A
+Interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),2014,A,A,CORE2014,COREA-2014.csv,2,494.0,Interspeech,False,,A

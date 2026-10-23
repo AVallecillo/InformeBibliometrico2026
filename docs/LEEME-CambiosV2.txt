@@ -1,0 +1,21 @@
+Cambios para el repositorio InformeBibliometrico2026 (v2, 23/10/2026)
+
+scripts_ext/build_core_historical.py
+  - Corrige la lectura del listado ERA 2010: 95 de sus 408 filas no tienen acrónimo,
+    la detección de formato fallaba y se tomaba el identificador numérico como acrónimo.
+  - Empareja todas las versiones por el identificador numérico del portal CORE y usa
+    el acrónimo más reciente de cada congreso.
+  - Un congreso que figura en la lista A*/A de 2010 sin evidencia en 2008 ni 2013 se
+    clasifica como A (antes se excluía).
+
+scripts_ext/04_core_historical_sensitivity.py
+  - Versión vigente = la más reciente no posterior al año del artículo (2008 para los anteriores).
+  - Un congreso ausente de la lista A*/A de esa versión queda fuera (escenario estricto).
+  - Variante tolerante: una ausencia entre dos versiones en las que sí figura cuenta como hueco.
+  - Nuevo fichero de salida: outputs_ext/core_historical_corpus_retained.csv.
+
+Para regenerar:
+  python scripts_ext/build_core_historical.py --input-dir data/core_historical/raw --output-dir data/core_historical --policy-2010 infer_2008_2013
+  python scripts_ext/04_core_historical_sensitivity.py
+
+figuras/: las cuatro figuras del informe v2 (la Figura 2, serie anual, es nueva).

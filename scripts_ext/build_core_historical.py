@@ -27,7 +27,7 @@ Policy for the undifferentiated 2010 ERA/CORE A*+A list:
       CORE2010(C,A,-)   = A
       CORE2010(C,-,A)   = A
       CORE2010(C,-,A*)  = A
-      CORE2010(C,-,-)   = -
+      CORE2010(C,-,-)   = A   (v2; antes se excluía)
 
   --policy-2010 all_A
       Treat every 2010 undifferentiated venue as A.
@@ -72,7 +72,10 @@ def looks_like_headerless_core(df: pd.DataFrame) -> bool:
     if df.shape[1] < 5:
         return False
     c0 = pd.to_numeric(df.iloc[:, 0], errors="coerce").notna().mean()
-    c2 = df.iloc[:, 2].astype(str).str.len().between(1, 40).mean()
+    # v2: el acrónimo puede faltar en algunas filas (95 de 408 en ERA 2010);
+    # se evalúa solo sobre los valores no nulos.
+    acr = df.iloc[:, 2].dropna().astype(str)
+    c2 = acr.str.len().between(1, 40).mean() if len(acr) else 0.0
     c3 = df.iloc[:, 3].astype(str).str.contains(r"CORE|ERA|ICORE", case=False, regex=True).mean()
     return c0 > 0.80 and c2 > 0.80 and c3 > 0.80
 
@@ -147,6 +150,7 @@ def read_core_file(path: Path, year: int, level: str):
             "ranking_version_in_file": df.iloc[:, version_col].map(clean_venue),
             "source_file": path.name,
             "source_venue_col": str(venue_col),
+            "core_id": pd.to_numeric(df.iloc[:, 0], errors="coerce"),
         })
     else:
         venue_col = guess_venue_col(df)
@@ -165,6 +169,26 @@ def read_core_file(path: Path, year: int, level: str):
     # Remove accidental header rows, if any.
     out = out[~out["venue"].astype(str).str.lower().isin({"acronym", "venue", "conference acronym"})]
     return out
+
+
+def canonicalise_venues(raw):
+    """
+    v2: los listados del portal CORE comparten un identificador numérico estable
+    (columna 0) entre versiones. Se usa ese identificador para asignar a todas las
+    versiones el acrónimo más reciente del congreso (el de ICORE 2026 cuando existe).
+    Así se recuperan filas sin acrónimo (p. ej., 95 filas de ERA 2010) y se evitan
+    fallos de emparejamiento por cambios de acrónimo.
+    """
+    if "core_id" not in raw.columns:
+        return raw
+    known = raw[raw["core_id"].notna() & raw["venue"].notna()]
+    canon = (known.sort_values("core_year")
+                  .groupby("core_id")["venue"].last())
+    raw = raw.copy()
+    raw["venue_in_file"] = raw["venue"]
+    has_id = raw["core_id"].notna()
+    raw.loc[has_id, "venue"] = raw.loc[has_id, "core_id"].map(canon).fillna(raw.loc[has_id, "venue"])
+    return raw[raw["venue"].notna()]
 
 
 def apply_2010_policy(raw, policy):
@@ -190,7 +214,8 @@ def apply_2010_policy(raw, policy):
             lvl, reason = "A", "2010 undifferentiated list treated as A"
         elif policy == "infer_2008_2013":
             if x == "-" and y == "-":
-                lvl, reason = "-", "in 2010 list but absent from both adjacent rankings; excluded"
+                # v2: un congreso que figura en la lista A*/A de 2010 es, como mínimo, A.
+                lvl, reason = "A", "in 2010 list but absent from both adjacent rankings; treated as A"
             elif x == "A*" and y in {"A*", "A"}:
                 lvl, reason = "A*", "A* in 2008 and present in 2013"
             elif x == "A" and y == "A*":
@@ -281,6 +306,7 @@ def main():
 
     raw = pd.concat(raw_parts, ignore_index=True)
     raw["level"] = raw["level"].map(normalise_level)
+    raw = canonicalise_venues(raw)
     raw["undifferentiated_2010"] = raw["core_year"].eq(2010)
     raw.to_csv(output_dir / "core_historical_raw_all_rows.csv", index=False)
 

@@ -7,6 +7,7 @@ Main output: data/core_historical/core_historical.csv
 level        A  A*
 core_year         
 2008       257  65
+2010       246  63
 2013       229  64
 2014       226  64
 2017       220  63
