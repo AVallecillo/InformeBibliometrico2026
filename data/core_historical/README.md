@@ -1,42 +1,25 @@
-# Metadata auxiliar necesaria
+# data/core_historical/
 
-## country_normalisers.csv
-Columnas:
-country_code,population_millions,researchers_fte,gerd_musd,cs_faculty_or_researchers
+Datos para el análisis de sensibilidad con las clasificaciones históricas CORE/ERA (`scripts_ext/04_core_historical_sensitivity.py`).
 
-## core_historical.csv
-Columnas:
-venue,core_year,level
+## Contenido
 
-Ejemplo:
-ICSE,2008,A*
-ICSE,2010,A*
-ICSE,2014,A*
+- `raw/`: listados históricos de congresos A* y A de CORE/ERA, uno por versión (`COREA-<año>.csv`, `COREAstar-<año>.csv`; la versión ERA 2010 combina ambos niveles en `COREAstarA-2010.csv`).
+- `core_historical.csv`: tabla consolidada generada a partir de `raw/`, con las columnas `venue,core_year,level`. Ejemplo:
 
-## venue_area_scenarios.csv
-Columnas:
-scenario,venue,area_alt
+  ```text
+  ICSE,2008,A*
+  ICSE,2010,A*
+  ICSE,2014,A*
+  ```
 
-Ejemplo:
-baseline,WWW,Bases de datos
-WWW_as_IA,WWW,IA/ML
-SIGIR_as_IA,SIGIR,IA/ML
-KDD_as_DB,KDD,Bases de datos
+- `core_historical_*.csv`: ficheros auxiliares y de auditoría generados en el mismo proceso (todas las filas leídas, resolución de duplicados, recuentos por año y nivel, y auditoría de la inferencia de 2010).
+- `core_historical_README.txt`: resumen generado automáticamente con la política aplicada a 2010 y los recuentos por versión.
 
-## openalex_work_metrics.csv
-Debe ir en outputs/ si se usa 09_impact_indicators.py:
-paper_id,cited_by_count
+## Regeneración
 
+```bash
+python scripts_ext/build_core_historical.py --input-dir data/core_historical/raw --output-dir data/core_historical --policy-2010 infer_2008_2013
+```
 
-## paper_author_affiliations.csv
-Necesario para 17_author_position_leadership.py si las evidencias existentes no contienen author_order.
-
-Columnas:
-paper_id,author_id,author_order,country_code,institution_name
-
-## Nuevos scripts v2
-13_overlap_inflation_diagnostics.py: cuantifica la suma de cuotas no excluyentes y la colaboración intraeuropea.
-14_missingness_bias_diagnostics.py: diagnostica no-aleatoriedad de cobertura.
-15_statistical_uncertainty_bootstrap.py: intervalos bootstrap de cuota española.
-16_corpus_expansion_decomposition.py: separa venues presentes, nuevos y desaparecidos.
-17_author_position_leadership.py: liderazgo por primera/última autoría cuando hay metadatos.
+Los cambios de la versión actual del script se describen en [`docs/LEEME-CambiosV2.txt`](../../docs/LEEME-CambiosV2.txt).

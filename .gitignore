@@ -1,1 +1,3 @@
 docs/versionesprevias/
+__pycache__/
+*.pyc
