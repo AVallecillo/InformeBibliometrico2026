@@ -12,7 +12,7 @@ El informe forma parte de un conjunto de documentos de la SCIE sobre el reconoci
 - [`A1_Informe_fundamentacion_congresos_informatica.pdf`](./docs/A1_Informe_fundamentacion_congresos_informatica.pdf): informe de fundamentación.
 - [`A2_Informe_presencia_espanola_congresos_2001-2025.pdf`](./docs/A2_Informe_presencia_espanola_congresos_2001-2025.pdf): informe bibliométrico (el que reproduce este repositorio).
 - [`A3_Informe_congresos_sexenios_CNEAI_2001-2025.pdf`](./docs/A3_Informe_congresos_sexenios_CNEAI_2001-2025.pdf): informe sobre los criterios de sexenios de la CNEAI.
-- `C1_*`, `C2_*` y `C3_*`: cartas de presentación de la propuesta.
+<!-- - `C1_*`, `C2_*` y `C3_*`: cartas de presentación de la propuesta. -->
 
 ## Estructura del repositorio
 
